@@ -5,3 +5,7 @@
 # dot files
 .DS_Store
 .hugo_build.lock
+
+# image files
+*-orig.jpg
+*.jpg_original
