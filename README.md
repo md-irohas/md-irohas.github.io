@@ -4,6 +4,8 @@ This repository contains files for mkt's web site.
 
 URL: https://md-irohas.pages.dev/
 
+This README is just a note for me.
+
 
 ## Requirements
 
@@ -13,15 +15,12 @@ URL: https://md-irohas.pages.dev/
 
 ## Directory Structure
 
-### content
-
-- about/: About page.
-- blog/: Blog posts (Tech, Security, Trip, Photo).
-- gallery/: Photo gallery.
-
-
-## Instructions (for me)
-
-TBD
+```
+content/
+    |- about/       About page.
+    |- tech/        Blog posts (Tech)
+    |- trip/        Blog posts (Trip)
+    |- gallery/     Photo gallery
+```
 
 
