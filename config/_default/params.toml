@@ -12,7 +12,7 @@ autoSwitchAppearance = false
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["blog"]
+mainSections = ["tech", "trip"]
 # robots = ""
 
 disableImageOptimization = false
