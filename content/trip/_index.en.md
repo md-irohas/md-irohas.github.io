@@ -1,5 +1,5 @@
 +++
-title = 'Trip Blog'
+title = 'Trip & Photo'
 date = 2024-02-19T22:10:41+09:00
 draft = false
 +++
@@ -7,7 +7,6 @@ draft = false
 
 This is a blog for my trip & photo.
 
-
-_Under construction..._
+Photos in this blog are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 
