@@ -11,7 +11,7 @@ title = "mkt's site"
   logo = ""
   secondaryLogo = ""
   description = "mkt's web site"
-  copyright = "© 2024 mkt"
+  copyright = "© 2024 mkt."
 
 [author]
   name = "mkt"

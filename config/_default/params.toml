@@ -37,10 +37,10 @@ smartTOCHideUnfocusedChildren = false
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/homepage.jpg" # used in: hero, and card
+  homepageImage = "" # used in: hero, and card
   showRecent = true
   showRecentItems = 3
-  showMoreLink = true
+  showMoreLink = false
   showMoreLinkDest = "/blog"
   cardView = false
   cardViewScreenWidth = false
@@ -52,7 +52,7 @@ smartTOCHideUnfocusedChildren = false
   showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = true
-  showAuthor = true
+  showAuthor = false
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
@@ -66,13 +66,13 @@ smartTOCHideUnfocusedChildren = false
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
-  showReadingTime = true
+  showReadingTime = false
   showTableOfContents = true
   showRelatedContent = true
   relatedContentLimit = 3
   showTaxonomies = true
   showAuthorsBadges = true
-  showWordCount = true
+  showWordCount = false
   sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   showZenMode = false
 
