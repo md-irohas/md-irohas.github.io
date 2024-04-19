@@ -2,8 +2,8 @@
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = {{ .Date }}
 summary = ''
-categories = ['']
-tags = ['']
+categories = ['Blog (Trip)']
+tags = ['photo', 'trip']
 
 description = ''
 
