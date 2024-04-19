@@ -17,18 +17,7 @@
 
 [[main]]
   name = "Blog"
-  weight = 20
-
-[[main]]
-  name = "Tech"
-  parent = "Blog"
-  pageRef = "tech"
-  weight = 10
-
-[[main]]
-  name = "Trip"
-  parent = "Blog"
-  pageRef = "trip"
+  pageRef = "blog"
   weight = 20
 
 [[main]]
