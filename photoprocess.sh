@@ -22,7 +22,7 @@ exiftool_cmd="exiftool"
 
 usage() {
   cat << __EOF__
-usage: $0 [-h] [-s image_size] [-q image_quality] command input_image
+usage: $0 [-h] [-s image_size] [-q image_quality] command input_image [input_image ...]
 
     -h                display this help and exit.
     -s  image_size    image size (passed to -resize option of imagemagick). The default is '${image_size}'.
