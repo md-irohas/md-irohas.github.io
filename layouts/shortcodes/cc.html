@@ -1,0 +1,18 @@
+
+{{- $lang := .Get "lang" -}}
+{{- $license := .Get "license" -}}
+
+{{- if eq $lang "ja" -}}
+  _※ライセンス: 
+  {{- if eq $license "by-nc-sa" -}}
+  [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)
+  {{- end -}}
+  _
+{{- else -}}
+  _\* License: 
+  {{- if eq $license "by-nc-sa" -}}
+  [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
+  {{- end -}}
+  _
+{{- end -}}
+
