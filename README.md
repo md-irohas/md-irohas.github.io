@@ -18,9 +18,7 @@ This README is just a note for me.
 ```
 content/
     |- about/       About page.
-    |- tech/        Blog posts (Tech)
-    |- trip/        Blog posts (Trip)
+    |- blog/        Blog posts
     |- gallery/     Photo gallery
 ```
-
 
