@@ -20,18 +20,27 @@ isCJKLanguage = true
 
 ## 写真
 
-このページで掲載する写真は2枚です。
-
-1枚目は、鳥取砂丘に入ってすぐの場所から見える「馬の背」と呼ばれる丘を撮影したものです。
-もう1枚は、風によって砂の上に作られる「風紋」と呼ばれる紋様を撮影したものです。
-
 {{< gallery >}}
-  <img src="DSC05202-Enhanced-NR.jpg" class="grid-w50" />
-  <img src="DSC05211-Enhanced-NR.jpg" class="grid-w50" />
+  <img src="IMG_2603-2.jpg" alt="IMG_2603-2.jpg" class="grid-w50" />
+  <img src="IMG_2622-2.jpg" alt="IMG_2622-2.jpg" class="grid-w50" />
+  <img src="IMG_2606-2.jpg" alt="IMG_2606-2.jpg" class="grid-w100" />
+  <img src="DSC05202-Enhanced-NR.jpg" alt="DSC05202-Enhanced-NR.jpg" class="grid-w60" />
+  <img src="DSC05211-Enhanced-NR.jpg" alt="DSC05211-Enhanced-NR.jpg" class="grid-w40" />
 {{< /gallery >}}
 
-- DSC05202-Enhanced-NR.jpg: [JPG](https://drive.google.com/file/d/1dfPe1eDh0TROHDqZRrVT3atJRA4Hh8Lu/view?usp=sharing) / [RAW (ARW)](https://drive.google.com/file/d/1ROfEdxKIYjKtOdeIAxZtDrl-102g1ZKu/view?usp=sharing)
-- DSC05211-Enhanced-NR.jpg: [JPG](https://drive.google.com/file/d/1H5eftyjHElTuCNLWiVrocQLATjp7hOG-/view?usp=sharing) / [RAW (ARW)](https://drive.google.com/file/d/1C4dpDpUs4I3PwiUncOVp8m8R1Pb9d9Cq/view?usp=sharing)
+
+- iPhone 12 mini
+    1. IMG\_2603-2.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1vsrMTMlwGqy0XRywhah8zz6aW10VuJiX/view?usp=sharing)):  
+       鳥取砂丘の入口にある石碑です。  
+    1. IMG\_2622-2.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1IGJx5BTRFFJfR32Ytskc5dGEM8TzHqZF/view?usp=sharing) ):  
+       「馬の背」と呼ばれる丘から入口方向を撮った写真です。
+    1. IMG\_2606-2.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1Y_qKRoO0xpcZyzaVO_odsaA_XRnoKBNS/view?usp=sharing)):  
+       砂丘の入口で撮ったパノラマ写真です。
+- Sony α6500
+    1. DSC05202-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1dfPe1eDh0TROHDqZRrVT3atJRA4Hh8Lu/view?usp=sharing) / [RAW (ARW)](https://drive.google.com/file/d/1ROfEdxKIYjKtOdeIAxZtDrl-102g1ZKu/view?usp=sharing)):  
+       砂丘の入口から見える「馬の背」と呼ばれる丘を撮影した写真です。
+    1. DSC05211-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1H5eftyjHElTuCNLWiVrocQLATjp7hOG-/view?usp=sharing) / [RAW (ARW)](https://drive.google.com/file/d/1C4dpDpUs4I3PwiUncOVp8m8R1Pb9d9Cq/view?usp=sharing):  
+       風によって砂の上に作られる「風紋」と呼ばれる紋様を撮影したものです。
 
 {{% cc lang="ja" license="by-nc-sa" %}}
 
@@ -43,6 +52,7 @@ isCJKLanguage = true
 
 ## 編集履歴
 
+- 2024/04/21: iPhoneの画像を追加。
 - 2024/04/20: カテゴリ、タグを日本語に修正。
 - 2024/04/19: 初稿作成。
 
