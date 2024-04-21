@@ -2,17 +2,20 @@
 {{- $lang := .Get "lang" -}}
 {{- $license := .Get "license" -}}
 
+<p style="font-style: italic; text-align: right;">
 {{- if eq $lang "ja" -}}
-  _※ライセンス: 
+  ※ライセンス: 
   {{- if eq $license "by-nc-sa" -}}
-  [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja" target="_blank">
+    CC BY-NC-SA 4.0
+  </a>
   {{- end -}}
-  _
 {{- else -}}
-  _\* License: 
+  * License: 
   {{- if eq $license "by-nc-sa" -}}
-  [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en" target="_blank">
+    CC BY-NC-SA 4.0
+  </a>
   {{- end -}}
-  _
 {{- end -}}
-
+</p>
