@@ -10,7 +10,7 @@ title = "mkt's site"
   dateFormat = "2006-01-02"
   logo = ""
   secondaryLogo = ""
-  description = "mkt's web site"
+  description = "mktのWebサイトです。IT系の技術記事や旅行の写真を公開していきます。"
   copyright = "© 2024 mkt"
 
 [author]
