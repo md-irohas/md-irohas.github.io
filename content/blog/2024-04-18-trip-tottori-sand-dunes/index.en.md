@@ -1,14 +1,14 @@
 +++
 title = 'Tottori Sand Dunes (March, 2024)'
 date = 2024-04-18T18:40:23+09:00
-summary = 'Sightseeing in Tottori Sand Dunes in late March.'
+summary = 'I visited Tottori Sand Dunes in late March.'
 categories = ['Blog (Trip)']
 tags = ['Trip', 'Photo', 'Tottori', 'Tottori Sand Dunes']
 
-description = 'Sightseeing in Tottori Sand Dunes in late March.'
+description = 'This is an article about sightseeing in Tottori Sand Dunes in March 2024.'
 
 draft = false
-isCJKLanguage = false
+isCJKLanguage = true
 +++
 
 

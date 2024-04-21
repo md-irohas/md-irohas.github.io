@@ -1,11 +1,10 @@
 +++
 title = '鳥取砂丘（2024年3月）'
 date = 2024-04-18T18:40:23+09:00
-summary = '2024年3月の鳥取砂丘観光。'
 categories = ['ブログ（旅行）']
 tags = ['旅行', '写真', '鳥取', '鳥取砂丘']
 
-description = '2024年3月の鳥取砂丘観光。'
+description = '2024年3月に鳥取砂丘を観光したときの記事です。'
 
 draft = false
 isCJKLanguage = true
