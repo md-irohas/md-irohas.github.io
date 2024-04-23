@@ -12,7 +12,7 @@ isCJKLanguage = false
 +++
 
 
-I dropped in at Hamana-ko (Lake Hamana) service area on my way to Tottori in late March.
+I dropped in at Hamana-ko (Lake Hamana) service area on [my way to Tottori]({{< ref "/blog/2024-03-trip-tottori-sand-dunes/index.en.md" >}}) in late March.
 
 The view from the terrace at the back was good, and the plaza was comfortable.
 
