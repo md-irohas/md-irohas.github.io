@@ -15,6 +15,8 @@ image_quality=75
 
 exiftool_cmd="exiftool"
 
+skip_backup=1
+
 
 ##########################################################################
 # usage
@@ -22,11 +24,13 @@ exiftool_cmd="exiftool"
 
 usage() {
   cat << __EOF__
-usage: $0 [-h] [-s image_size] [-q image_quality] command input_image [input_image ...]
+usage: $0 [-h] [-S] [-s image_size] [-q image_quality] command input_image [input_image ...]
 
     -h                display this help and exit.
     -s  image_size    image size (passed to -resize option of imagemagick). The default is '${image_size}'.
     -q  image_quality image quality (passed to -quality option of imagemagick). The default is '${image_quality}'.
+
+    -S      skip making backups.
 
     command       command to execute (copyright, shrink, exifdel, and all)
     input_image   path to input image. the input image will be lost.
@@ -53,8 +57,9 @@ which "${exiftool_cmd}" > /dev/null 2>&1 || abort "${exiftool_cmd} (exiftool) no
 
 
 # parse command arguments.
-while getopts s:q:h OPT; do
+while getopts Ss:q:h OPT; do
   case "${OPT}" in
+    S)  skip_backup=0;;
     s)  image_size="${OPTARG}" ;;
     q)  image_quality="${OPTARG}" ;;
     h)  usage; exit 0;;
@@ -139,19 +144,27 @@ delete_exif() {
 for input_image in "$@"; do
   case "${command}" in
     copyright)
-      make_backup "${input_image}"
+      if [ ! ${skip_backup} -eq 0 ] ;then
+        make_backup "${input_image}"
+      fi
       add_copyright "${input_image}"
       ;;
     shrink)
-      make_backup "${input_image}"
+      if [ ! ${skip_backup} -eq 0 ] ;then
+        make_backup "${input_image}"
+      fi
       shrink_image "${input_image}"
       ;;
     exifdel)
-      make_backup "${input_image}"
+      if [ ! ${skip_backup} -eq 0 ] ;then
+        make_backup "${input_image}"
+      fi
       delete_exif "${input_image}"
       ;;
     all)
-      make_backup "${input_image}"
+      if [ ! ${skip_backup} -eq 0 ] ;then
+        make_backup "${input_image}"
+      fi
       shrink_image "${input_image}"
       add_copyright "${input_image}"
       delete_exif "${input_image}"
