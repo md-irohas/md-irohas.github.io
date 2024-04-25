@@ -12,7 +12,7 @@ isCJKLanguage = false
 +++
 
 
-After sightseeing in [the Tottori Sand Dunes]({{< ref "/blog/2024-03-trip-tottori-sand-dunes/" >}}),
+After sightseeing in [the Tottori Sand Dunes]({{< ref "/blog/2024-03-trip-tottori-sand-dunes/index.en.md" >}}),
 I moved west and visited Shigeru Mizuki Road in Sakaiminato City, Tottori Prefecture.
 
 Shigeru Mizuki Road is a commemorative street which themed around the world of [yokai (Wikipedia)](https://en.wikipedia.org/wiki/Y%C5%8Dkai) drawn by manga artist [Shigeru Mizuki (Wikipedia)](https://en.wikipedia.org/wiki/Shigeru_Mizuki),

@@ -12,7 +12,7 @@ isCJKLanguage = true
 +++
 
 
-[鳥取砂丘]({{< ref "/blog/2024-03-trip-tottori-sand-dunes/" >}}) 観光の後は西へ移動し、鳥取県境港市にある [水木しげるロード（Wikipedia）](https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%9C%A8%E3%81%97%E3%81%92%E3%82%8B%E3%83%AD%E3%83%BC%E3%83%89) を訪れました。
+[鳥取砂丘]({{< ref "/blog/2024-03-trip-tottori-sand-dunes/index.ja.md" >}}) 観光の後は西へ移動し、鳥取県境港市にある [水木しげるロード（Wikipedia）](https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%9C%A8%E3%81%97%E3%81%92%E3%82%8B%E3%83%AD%E3%83%BC%E3%83%89) を訪れました。
 
 水木しげるロードは、『ゲゲゲの鬼太郎』などで知られる漫画家・水木しげる氏が描く妖怪の世界観をテーマにした記念道路で、鬼太郎をはじめとした妖怪たちのブロンズ像などが展示されています。
 
