@@ -1,7 +1,7 @@
 +++
 title = 'Hamana-ko Service Area (March, 2024)'
 date = 2024-04-22T00:16:26+09:00
-summary = 'I dropped in at Hamana-ko service area on my way to Tottori in late March.'
+summary = 'I dropped in at Hamana-ko service area on my way to Tottori in March 2024.'
 categories = ['Blog (Trip)']
 tags = ['Photo', 'Trip', 'Shizuoka', 'Hamana-ko SA']
 
