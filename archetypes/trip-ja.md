@@ -15,7 +15,6 @@ isCJKLanguage = true
 説明文...
 
 
-
 ## 写真
 
 {{< gallery >}}
@@ -33,6 +32,9 @@ isCJKLanguage = true
 - Sony α6500
     1. DSC0XXXX-Enhanced-NR.jpg (Google Drive: [JPG](#) / [RAW (ARW)](#)):  
        ...の写真です。
+
+
+{{% cc lang="ja" license="by-nc-sa" %}}
 
 
 ## マップ
