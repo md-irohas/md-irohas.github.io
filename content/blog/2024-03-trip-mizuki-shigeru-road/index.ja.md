@@ -41,11 +41,11 @@ isCJKLanguage = true
 
 
 - iPhone 12 mini
-    1. IMG\_2641.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1PvcxTm7Fxf8hdYekzNgH4AwJjqJ5Nn9P/view?usp=drive_link)):  
+    1. IMG\_2641.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1PvcxTm7Fxf8hdYekzNgH4AwJjqJ5Nn9P/view)):  
        港堺駅横の建物の壁の写真です。
-    1. IMG\_2642.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1ZDrZ0WtA9S2iYa5yMqJKwyeS-Ow2DLPl/view?usp=drive_link)):  
+    1. IMG\_2642.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1ZDrZ0WtA9S2iYa5yMqJKwyeS-Ow2DLPl/view)):  
        港堺駅付近にある「水木しげる先生 執筆中」の像の写真です。
-    1. IMG\_2643.jpg (Google Drive: [JPG](https://drive.google.com/file/d/19ofOuepoGBIkQLpqa70ddkPN1o1xQSq0/view?usp=drive_link)):  
+    1. IMG\_2643.jpg (Google Drive: [JPG](https://drive.google.com/file/d/19ofOuepoGBIkQLpqa70ddkPN1o1xQSq0/view)):  
        港堺駅に停車していたラッピング車両の写真です。
     1. IMG\_2685.jpg:  
        水木しげるロードのガイドマップです。
@@ -54,13 +54,13 @@ isCJKLanguage = true
   夜の水木しげるロードの写真です。
   暗かったので、単焦点の明るいレンズを使いました。
   作品名をメモしてなかったので、説明は省略します。
-    1. DSC05279-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1yBAdXle0ciN1U-AbrtMLYC0Z7ReKnyEe/view?usp=drive_link) / [RAW (ARW)](https://drive.google.com/file/d/1kiaHtx1p8hmOHLx5WqWhDI-qErGvnggv/view?usp=drive_link))
-    1. DSC05281-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1QzPo9u4tfhDjXtzrIj1UMw4yF_iWEuL0/view?usp=drive_link) / [RAW (ARW)](https://drive.google.com/file/d/11h9QBPIWA_enaqKktB46ppkf9Y5pBHH9/view?usp=drive_link))
-    1. DSC05282-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1i-vB2cq3-6N5-4N2Nwv3M_fkk6kgn2MP/view?usp=drive_link) / [RAW (ARW)](https://drive.google.com/file/d/1gRmOY6cMgcmC9h-eoGsSQRZw6I-of5Xy/view?usp=drive_link))
-    1. DSC05297-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1Nt1CDZNvG0j1dGaMTrrfcpuv3JhY92Yc/view?usp=drive_link) / [RAW (ARW)](https://drive.google.com/file/d/1Aiz6F0WNPRkfxS_18AGtdhle6jpU-Nua/view?usp=drive_link))
-    1. DSC05311-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1m5fdoJ70qDlC2BFd6m4BVLWsXHqcFZTL/view?usp=drive_link) / [RAW (ARW)](https://drive.google.com/file/d/1E9fL5cw2tnPn5IBifhvNDdpA_QtWpJ_Q/view?usp=drive_link))
-    1. DSC05316-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1M2qXa4iHWwGJDxjBQboblW7iSO87SNr3/view?usp=drive_link) / [RAW (ARW)](https://drive.google.com/file/d/1d-nihWGEvnxIPaqLljY3Vsg0ZA2rXb12/view?usp=drive_link))
-    1. DSC05337-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1pS84fMhAUGvUepLfAMLWz53iFkZVCZyO/view?usp=drive_link) / [RAW (ARW)](https://drive.google.com/file/d/1KIaVNSF5H_Y6PmtgN4f_SACR-SOQQSju/view?usp=drive_link))
+    1. DSC05279-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1yBAdXle0ciN1U-AbrtMLYC0Z7ReKnyEe/view) / [RAW (ARW)](https://drive.google.com/file/d/1kiaHtx1p8hmOHLx5WqWhDI-qErGvnggv/view))
+    1. DSC05281-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1QzPo9u4tfhDjXtzrIj1UMw4yF_iWEuL0/view) / [RAW (ARW)](https://drive.google.com/file/d/11h9QBPIWA_enaqKktB46ppkf9Y5pBHH9/view))
+    1. DSC05282-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1i-vB2cq3-6N5-4N2Nwv3M_fkk6kgn2MP/view) / [RAW (ARW)](https://drive.google.com/file/d/1gRmOY6cMgcmC9h-eoGsSQRZw6I-of5Xy/view))
+    1. DSC05297-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1Nt1CDZNvG0j1dGaMTrrfcpuv3JhY92Yc/view) / [RAW (ARW)](https://drive.google.com/file/d/1Aiz6F0WNPRkfxS_18AGtdhle6jpU-Nua/view))
+    1. DSC05311-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1m5fdoJ70qDlC2BFd6m4BVLWsXHqcFZTL/view) / [RAW (ARW)](https://drive.google.com/file/d/1E9fL5cw2tnPn5IBifhvNDdpA_QtWpJ_Q/view))
+    1. DSC05316-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1M2qXa4iHWwGJDxjBQboblW7iSO87SNr3/view) / [RAW (ARW)](https://drive.google.com/file/d/1d-nihWGEvnxIPaqLljY3Vsg0ZA2rXb12/view))
+    1. DSC05337-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1pS84fMhAUGvUepLfAMLWz53iFkZVCZyO/view) / [RAW (ARW)](https://drive.google.com/file/d/1KIaVNSF5H_Y6PmtgN4f_SACR-SOQQSju/view))
 
 
 {{% cc lang="ja" license="by-nc-sa" %}}
@@ -73,7 +73,7 @@ isCJKLanguage = true
 
 ## 編集履歴
 
-- 2024/04/28: 写真のライセンスを追記。
+- 2024/04/28: 写真のライセンスを追記。写真のリンクを修正。
 - 2024/04/25: 初稿作成。
 
 

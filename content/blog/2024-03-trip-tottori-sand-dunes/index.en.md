@@ -30,17 +30,18 @@ and I spent nearly two hours walking around and taking photos.
 {{< /gallery >}}
 
 - iPhone 12 mini
-    1. IMG\_2603-2.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1vsrMTMlwGqy0XRywhah8zz6aW10VuJiX/view?usp=sharing)):  
+    1. IMG\_2603-2.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1vsrMTMlwGqy0XRywhah8zz6aW10VuJiX/view)):  
        A stone monument at the entrance of Tottori Sand Dunes.
-    1. IMG\_2622-2.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1IGJx5BTRFFJfR32Ytskc5dGEM8TzHqZF/view?usp=sharing) ):  
+    1. IMG\_2622-2.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1IGJx5BTRFFJfR32Ytskc5dGEM8TzHqZF/view) ):  
        A photo taken from a hill called "Uma-no-Se (horse's back)" toward the entrance.
-    1. IMG\_2606-2.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1Y_qKRoO0xpcZyzaVO_odsaA_XRnoKBNS/view?usp=sharing)):  
+    1. IMG\_2606-2.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1Y_qKRoO0xpcZyzaVO_odsaA_XRnoKBNS/view)):  
        A panoramic photo taken at the entrance.
 - Sony α6500
-    1. DSC05202-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1dfPe1eDh0TROHDqZRrVT3atJRA4Hh8Lu/view?usp=sharing) / [RAW (ARW)](https://drive.google.com/file/d/1ROfEdxKIYjKtOdeIAxZtDrl-102g1ZKu/view?usp=sharing)):  
+    1. DSC05202-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1dfPe1eDh0TROHDqZRrVT3atJRA4Hh8Lu/view) / [RAW (ARW)](https://drive.google.com/file/d/1ROfEdxKIYjKtOdeIAxZtDrl-102g1ZKu/view)):  
        A photo of the hill called "Uma-no-se," which can be seen just after entering the dunes.
-    1. DSC05211-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1H5eftyjHElTuCNLWiVrocQLATjp7hOG-/view?usp=sharing) / [RAW (ARW)](https://drive.google.com/file/d/1C4dpDpUs4I3PwiUncOVp8m8R1Pb9d9Cq/view?usp=sharing)):  
+    1. DSC05211-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1H5eftyjHElTuCNLWiVrocQLATjp7hOG-/view) / [RAW (ARW)](https://drive.google.com/file/d/1C4dpDpUs4I3PwiUncOVp8m8R1Pb9d9Cq/view)):  
        A photo of a wave-like pattern made on sand by wind.
+
 
 {{% cc lang="en" license="by-nc-sa" %}}
 
@@ -52,6 +53,7 @@ and I spent nearly two hours walking around and taking photos.
 
 ## Change History
 
+- 2024/04/28: Fix links of photos.
 - 2024/04/21: Added photos taken by iPhone.
 - 2024/04/20: First version.
 

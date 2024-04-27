@@ -26,12 +26,15 @@ The view from the terrace at the back was good, and the plaza was comfortable.
 
 
 - iPhone 12 mini
-    1. IMG\_2598-2.jpg (Google Drive: [JPG](https://drive.google.com/file/d/14SM1bAgDHwPqucvioK6lz87Acdof2CJ-/view?usp=sharing)):  
+    1. IMG\_2598-2.jpg (Google Drive: [JPG](https://drive.google.com/file/d/14SM1bAgDHwPqucvioK6lz87Acdof2CJ-/view)):  
        A panoramic photo of Hamana-ko taken from the terrace.
        There is a life-sized footprint of Godzilla that appears in "[Godzilla-1.0](https://en.wikipedia.org/wiki/Godzilla_Minus_One)".
 - Sony α6500
-    1. DSC05185-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/19QPb3BI8n4JVCdKtmc2SlAdluXJqECPF/view?usp=sharing) / [RAW (ARW)](https://drive.google.com/file/d/11dM5vro8su9hvXZBehhIwwb6Bs8e55gA/view?usp=sharing)):  
+    1. DSC05185-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/19QPb3BI8n4JVCdKtmc2SlAdluXJqECPF/view) / [RAW (ARW)](https://drive.google.com/file/d/11dM5vro8su9hvXZBehhIwwb6Bs8e55gA/view)):  
        A photo of Hamana-ko taken from the terrace.
+
+
+{{% cc lang="en" license="by-nc-sa" %}}
 
 
 ## Map
@@ -41,6 +44,7 @@ The view from the terrace at the back was good, and the plaza was comfortable.
 
 ## Change History
 
+- 2024/04/28: Add a license of photos. Fix links of photos.
 - 2024/04/23: First version.
 
 

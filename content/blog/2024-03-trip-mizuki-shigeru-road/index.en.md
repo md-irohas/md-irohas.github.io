@@ -47,11 +47,11 @@ and I really enjoyed it.
 
 
 - iPhone 12 mini
-    1. IMG\_2641.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1PvcxTm7Fxf8hdYekzNgH4AwJjqJ5Nn9P/view?usp=drive_link)):  
+    1. IMG\_2641.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1PvcxTm7Fxf8hdYekzNgH4AwJjqJ5Nn9P/view)):  
        A photo of the wall of the building next to Minato-Sakai Station.
-    1. IMG\_2642.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1ZDrZ0WtA9S2iYa5yMqJKwyeS-Ow2DLPl/view?usp=drive_link)):  
+    1. IMG\_2642.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1ZDrZ0WtA9S2iYa5yMqJKwyeS-Ow2DLPl/view)):  
        A photo of the "Shigeru Mizuki Sensei Writing" statue near the Minato-Sakai Station.
-    1. IMG\_2643.jpg (Google Drive: [JPG](https://drive.google.com/file/d/19ofOuepoGBIkQLpqa70ddkPN1o1xQSq0/view?usp=drive_link)):  
+    1. IMG\_2643.jpg (Google Drive: [JPG](https://drive.google.com/file/d/19ofOuepoGBIkQLpqa70ddkPN1o1xQSq0/view)):  
        A photo of a special train that was stopped at the Minato-Sakai Station.
     1. IMG\_2685.jpg:  
        A photo of a guide map of the Shigeru Mizuki Road.
@@ -60,13 +60,13 @@ and I really enjoyed it.
   These are photos taken on the Shigeru Mizuki Road at night.
   It was dark, so I used a bright single focus lens.
   I forgot to take notes of the works, so I'll skip over explanations.
-    1. DSC05279-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1yBAdXle0ciN1U-AbrtMLYC0Z7ReKnyEe/view?usp=drive_link) / [RAW (ARW)](https://drive.google.com/file/d/1kiaHtx1p8hmOHLx5WqWhDI-qErGvnggv/view?usp=drive_link))
-    1. DSC05281-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1QzPo9u4tfhDjXtzrIj1UMw4yF_iWEuL0/view?usp=drive_link) / [RAW (ARW)](https://drive.google.com/file/d/11h9QBPIWA_enaqKktB46ppkf9Y5pBHH9/view?usp=drive_link))
-    1. DSC05282-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1i-vB2cq3-6N5-4N2Nwv3M_fkk6kgn2MP/view?usp=drive_link) / [RAW (ARW)](https://drive.google.com/file/d/1gRmOY6cMgcmC9h-eoGsSQRZw6I-of5Xy/view?usp=drive_link))
-    1. DSC05297-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1Nt1CDZNvG0j1dGaMTrrfcpuv3JhY92Yc/view?usp=drive_link) / [RAW (ARW)](https://drive.google.com/file/d/1Aiz6F0WNPRkfxS_18AGtdhle6jpU-Nua/view?usp=drive_link))
-    1. DSC05311-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1m5fdoJ70qDlC2BFd6m4BVLWsXHqcFZTL/view?usp=drive_link) / [RAW (ARW)](https://drive.google.com/file/d/1E9fL5cw2tnPn5IBifhvNDdpA_QtWpJ_Q/view?usp=drive_link))
-    1. DSC05316-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1M2qXa4iHWwGJDxjBQboblW7iSO87SNr3/view?usp=drive_link) / [RAW (ARW)](https://drive.google.com/file/d/1d-nihWGEvnxIPaqLljY3Vsg0ZA2rXb12/view?usp=drive_link))
-    1. DSC05337-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1pS84fMhAUGvUepLfAMLWz53iFkZVCZyO/view?usp=drive_link) / [RAW (ARW)](https://drive.google.com/file/d/1KIaVNSF5H_Y6PmtgN4f_SACR-SOQQSju/view?usp=drive_link))
+    1. DSC05279-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1yBAdXle0ciN1U-AbrtMLYC0Z7ReKnyEe/view) / [RAW (ARW)](https://drive.google.com/file/d/1kiaHtx1p8hmOHLx5WqWhDI-qErGvnggv/view))
+    1. DSC05281-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1QzPo9u4tfhDjXtzrIj1UMw4yF_iWEuL0/view) / [RAW (ARW)](https://drive.google.com/file/d/11h9QBPIWA_enaqKktB46ppkf9Y5pBHH9/view))
+    1. DSC05282-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1i-vB2cq3-6N5-4N2Nwv3M_fkk6kgn2MP/view) / [RAW (ARW)](https://drive.google.com/file/d/1gRmOY6cMgcmC9h-eoGsSQRZw6I-of5Xy/view))
+    1. DSC05297-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1Nt1CDZNvG0j1dGaMTrrfcpuv3JhY92Yc/view) / [RAW (ARW)](https://drive.google.com/file/d/1Aiz6F0WNPRkfxS_18AGtdhle6jpU-Nua/view))
+    1. DSC05311-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1m5fdoJ70qDlC2BFd6m4BVLWsXHqcFZTL/view) / [RAW (ARW)](https://drive.google.com/file/d/1E9fL5cw2tnPn5IBifhvNDdpA_QtWpJ_Q/view))
+    1. DSC05316-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1M2qXa4iHWwGJDxjBQboblW7iSO87SNr3/view) / [RAW (ARW)](https://drive.google.com/file/d/1d-nihWGEvnxIPaqLljY3Vsg0ZA2rXb12/view))
+    1. DSC05337-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1pS84fMhAUGvUepLfAMLWz53iFkZVCZyO/view) / [RAW (ARW)](https://drive.google.com/file/d/1KIaVNSF5H_Y6PmtgN4f_SACR-SOQQSju/view))
 
 
 {{% cc lang="en" license="by-nc-sa" %}}
@@ -79,6 +79,7 @@ and I really enjoyed it.
 
 ## Change History
 
+- 2024/04/28: Fix links of photos.
 - 2024/04/25: First version.
 
 

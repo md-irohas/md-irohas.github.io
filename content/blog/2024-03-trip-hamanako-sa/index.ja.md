@@ -26,12 +26,15 @@ isCJKLanguage = true
 
 
 - iPhone 12 mini
-    1. IMG\_2598-2.jpg (Google Drive: [JPG](https://drive.google.com/file/d/14SM1bAgDHwPqucvioK6lz87Acdof2CJ-/view?usp=sharing)):  
+    1. IMG\_2598-2.jpg (Google Drive: [JPG](https://drive.google.com/file/d/14SM1bAgDHwPqucvioK6lz87Acdof2CJ-/view)):  
        奥のテラスから浜名湖を撮ったパノラマ写真です。
        「[ゴジラ-1.0](https://ja.wikipedia.org/wiki/%E3%82%B4%E3%82%B8%E3%83%A9-1.0)」で登場するゴジラの実物大足跡がありました。
 - Sony α6500
-    1. DSC05185-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/19QPb3BI8n4JVCdKtmc2SlAdluXJqECPF/view?usp=sharing) / [RAW (ARW)](https://drive.google.com/file/d/11dM5vro8su9hvXZBehhIwwb6Bs8e55gA/view?usp=sharing)):  
+    1. DSC05185-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/19QPb3BI8n4JVCdKtmc2SlAdluXJqECPF/view) / [RAW (ARW)](https://drive.google.com/file/d/11dM5vro8su9hvXZBehhIwwb6Bs8e55gA/view)):  
        同じく奥のテラスから浜名湖を撮影した写真です。
+
+
+{{% cc lang="ja" license="by-nc-sa" %}}
 
 
 ## マップ
@@ -41,6 +44,7 @@ isCJKLanguage = true
 
 ## 編集履歴
 
+- 2024/04/28: 写真のライセンスの追加。写真のリンクの修正。
 - 2024/04/23: 初稿作成。
 
 
