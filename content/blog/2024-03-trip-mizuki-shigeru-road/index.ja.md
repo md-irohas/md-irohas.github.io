@@ -63,6 +63,9 @@ isCJKLanguage = true
     1. DSC05337-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/1pS84fMhAUGvUepLfAMLWz53iFkZVCZyO/view?usp=drive_link) / [RAW (ARW)](https://drive.google.com/file/d/1KIaVNSF5H_Y6PmtgN4f_SACR-SOQQSju/view?usp=drive_link))
 
 
+{{% cc lang="ja" license="by-nc-sa" %}}
+
+
 ## マップ
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3246.3502335926387!2d133.22124177651676!3d35.545051537441516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355655b2bc947ee5%3A0xc9cde9852f230188!2sMizuki%20Shigeru%20Road!5e0!3m2!1sen!2sjp!4v1714035631703!5m2!1sen!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -70,6 +73,7 @@ isCJKLanguage = true
 
 ## 編集履歴
 
+- 2024/04/28: 写真のライセンスを追記。
 - 2024/04/25: 初稿作成。
 
 
