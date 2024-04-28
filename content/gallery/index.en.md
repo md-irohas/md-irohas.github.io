@@ -20,6 +20,17 @@ The original image will be available on blog posts.
 {{< /alert >}}
 
 
+## 2024
+
+{{< gallery >}}
+    <img src="2024/DSC05211-Enhanced-NR.jpg" alt="DSC05211-Enhanced-NR.jpg" class="grid-w33" />
+    <img src="2024/DSC05316-Enhanced-NR.jpg" alt="DSC05316-Enhanced-NR.jpg" class="grid-w33" />
+    <img src="2024/DSC05337-Enhanced-NR.jpg" alt="DSC05337-Enhanced-NR.jpg" class="grid-w33" />
+    <img src="2024/DSC05394-Enhanced-NR.jpg" alt="DSC05394-Enhanced-NR.jpg" class="grid-w33" />
+    <img src="2024/DSC05397-Enhanced-NR.jpg" alt="DSC05397-Enhanced-NR.jpg" class="grid-w33" />
+{{< /gallery >}}
+
+
 ## 2023
 
 {{< gallery >}}
@@ -34,5 +45,14 @@ The original image will be available on blog posts.
     <img src="img/DSC05142-dev.jpg" class="grid-w33" />
     <img src="img/DSC05153-dev.jpg" class="grid-w33" />
 {{< /gallery >}}
+
+
+## References
+
+### 2024
+
+{{< article link="/en/blog/2024-03-trip-tottori-sand-dunes/" >}}
+{{< article link="/en/blog/2024-03-trip-mizuki-shigeru-road/" >}}
+{{< article link="/en/blog/2024-03-trip-hinomisaki/" >}}
 
 
