@@ -28,6 +28,8 @@ Galleryの画像は、サーバ負荷軽減のため縮小・圧縮してあり�
     <img src="2024/DSC05337-Enhanced-NR.jpg" alt="DSC05337-Enhanced-NR.jpg" class="grid-w33" />
     <img src="2024/DSC05394-Enhanced-NR.jpg" alt="DSC05394-Enhanced-NR.jpg" class="grid-w33" />
     <img src="2024/DSC05397-Enhanced-NR.jpg" alt="DSC05397-Enhanced-NR.jpg" class="grid-w33" />
+    <img src="2024/DSC05454-Enhanced-NR.jpg" alt="DSC05454-Enhanced-NR.jpg" class="grid-w33" />
+    <img src="2024/DSC05459-Enhanced-NR.jpg" alt="DSC05459-Enhanced-NR.jpg" class="grid-w33" />
 {{< /gallery >}}
 
 
@@ -47,12 +49,13 @@ Galleryの画像は、サーバ負荷軽減のため縮小・圧縮してあり�
 {{< /gallery >}}
 
 
-## 参照
+## 関連記事
 
 ### 2024
 
 {{< article link="/blog/2024-03-trip-tottori-sand-dunes/" >}}
 {{< article link="/blog/2024-03-trip-mizuki-shigeru-road/" >}}
 {{< article link="/blog/2024-03-trip-hinomisaki/" >}}
+{{< article link="/blog/2024-03-trip-asosan/" >}}
 
 

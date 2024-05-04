@@ -28,6 +28,8 @@ The original image will be available on blog posts.
     <img src="2024/DSC05337-Enhanced-NR.jpg" alt="DSC05337-Enhanced-NR.jpg" class="grid-w33" />
     <img src="2024/DSC05394-Enhanced-NR.jpg" alt="DSC05394-Enhanced-NR.jpg" class="grid-w33" />
     <img src="2024/DSC05397-Enhanced-NR.jpg" alt="DSC05397-Enhanced-NR.jpg" class="grid-w33" />
+    <img src="2024/DSC05454-Enhanced-NR.jpg" alt="DSC05454-Enhanced-NR.jpg" class="grid-w33" />
+    <img src="2024/DSC05459-Enhanced-NR.jpg" alt="DSC05459-Enhanced-NR.jpg" class="grid-w33" />
 {{< /gallery >}}
 
 
@@ -47,12 +49,13 @@ The original image will be available on blog posts.
 {{< /gallery >}}
 
 
-## References
+## Related Articles
 
 ### 2024
 
 {{< article link="/en/blog/2024-03-trip-tottori-sand-dunes/" >}}
 {{< article link="/en/blog/2024-03-trip-mizuki-shigeru-road/" >}}
 {{< article link="/en/blog/2024-03-trip-hinomisaki/" >}}
+{{< article link="/en/blog/2024-03-trip-asosan/" >}}
 
 
