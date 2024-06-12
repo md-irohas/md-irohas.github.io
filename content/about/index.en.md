@@ -2,6 +2,7 @@
 title = 'About'
 date = 2024-02-12T14:47:50+09:00
 draft = false
+description = 'Self-introduction'
 
 showDate = false
 showViews = false
@@ -43,9 +44,9 @@ I'm a beginner.
 ## Development environment
 
 - PC: MacBook Pro
-- Editor: Vim, Visual Studio Code
+- Editor: Vim
 - Shell: tmux + zsh
-- Languages: Bash, Python, Go, and others as required.
+- Languages: Bash, Python, Go, and others if required.
 
 
 ## Photo equipment
@@ -64,6 +65,6 @@ I'm a beginner.
 - I live in Tokyo, Japan 🇯🇵, and I am Japanese.
 - I usually work on research and its related technology.
 - I sometimes ride a motorcycle (YAMAHA SR400).
-- I'm a solo camper. I recently bought a car for it.
+- I'm a solo camper. I bought a midget car for camping.
 
 
