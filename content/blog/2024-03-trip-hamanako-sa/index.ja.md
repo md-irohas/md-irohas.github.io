@@ -1,11 +1,11 @@
 +++
 title = '浜名湖サービスエリア（2024年3月）'
 date = 2024-04-22T00:10:19+09:00
-summary = '2024年3月に鳥取へ行く途中で浜名湖サービスエリアに立ち寄りました。'
+summary = '2024年3月に立ち寄った浜名湖サービスエリアの記事です。'
 categories = ['ブログ（旅行）']
 tags = ['旅行', '写真', '静岡県', '浜名湖SA']
 
-description = '2024年3月に鳥取へ行く途中で立ち寄った浜名湖サービスエリアの記事です。'
+description = '2024年3月に立ち寄った浜名湖サービスエリアの記事です。'
 
 draft = false
 isCJKLanguage = true
@@ -14,7 +14,7 @@ isCJKLanguage = true
 
 3月下旬に [鳥取へ行く]({{< ref "/blog/2024-03-trip-tottori-sand-dunes/index.ja.md" >}}) 途中で浜名湖サービスエリアに立ち寄りました。
 
-奥にあるテラスからの眺めはよく、広場ものんびりできる場所でした。
+サービスエリアの奥にテラスや芝生のエリアがあり、テラスからは浜名湖を見渡すことができます。
 
 
 ## 写真
@@ -27,7 +27,7 @@ isCJKLanguage = true
 
 - iPhone 12 mini
     1. IMG\_2598-2.jpg (Google Drive: [JPG](https://drive.google.com/file/d/14SM1bAgDHwPqucvioK6lz87Acdof2CJ-/view)):  
-       奥のテラスから浜名湖を撮ったパノラマ写真です。
+       奥のテラスから浜名湖を撮影したパノラマ写真です。
        「[ゴジラ-1.0](https://ja.wikipedia.org/wiki/%E3%82%B4%E3%82%B8%E3%83%A9-1.0)」で登場するゴジラの実物大足跡がありました。
 - Sony α6500
     1. DSC05185-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/19QPb3BI8n4JVCdKtmc2SlAdluXJqECPF/view) / [RAW (ARW)](https://drive.google.com/file/d/11dM5vro8su9hvXZBehhIwwb6Bs8e55gA/view)):  
@@ -44,6 +44,7 @@ isCJKLanguage = true
 
 ## 編集履歴
 
+- 2024/06/13: 一部表現、メタ情報を修正。
 - 2024/04/28: 写真のライセンスの追加。写真のリンクの修正。
 - 2024/04/23: 初稿作成。
 

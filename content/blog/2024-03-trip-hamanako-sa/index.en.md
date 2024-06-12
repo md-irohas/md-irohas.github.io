@@ -1,11 +1,11 @@
 +++
 title = 'Hamana-ko Service Area (March, 2024)'
 date = 2024-04-22T00:16:26+09:00
-summary = 'I dropped in at Hamana-ko service area on my way to Tottori in March 2024.'
+summary = 'This is an article about the Hamana-ko service area where I visited in March 2024.'
 categories = ['Blog (Trip)']
 tags = ['Photo', 'Trip', 'Shizuoka', 'Hamana-ko SA']
 
-description = 'This is an article about the Hamana-ko service area where I dropped in on my way to Tottori in March 2024.'
+description = 'This is an article about the Hamana-ko service area where I visited in March 2024.'
 
 draft = false
 isCJKLanguage = false
@@ -14,7 +14,7 @@ isCJKLanguage = false
 
 I dropped in at Hamana-ko (Lake Hamana) service area on [my way to Tottori]({{< ref "/blog/2024-03-trip-tottori-sand-dunes/index.en.md" >}}) in late March.
 
-The view from the terrace at the back was good, and the plaza was comfortable.
+There is a terrace and grassy area at the back of the service area, and you can see Lake Hamana from the terrace.
 
 
 ## Photos
@@ -28,7 +28,7 @@ The view from the terrace at the back was good, and the plaza was comfortable.
 - iPhone 12 mini
     1. IMG\_2598-2.jpg (Google Drive: [JPG](https://drive.google.com/file/d/14SM1bAgDHwPqucvioK6lz87Acdof2CJ-/view)):  
        A panoramic photo of Hamana-ko taken from the terrace.
-       There is a life-sized footprint of Godzilla that appears in "[Godzilla-1.0](https://en.wikipedia.org/wiki/Godzilla_Minus_One)".
+       There is a real-scale footprint of Godzilla that appears in "[Godzilla-1.0](https://en.wikipedia.org/wiki/Godzilla_Minus_One)".
 - Sony α6500
     1. DSC05185-Enhanced-NR.jpg (Google Drive: [JPG](https://drive.google.com/file/d/19QPb3BI8n4JVCdKtmc2SlAdluXJqECPF/view) / [RAW (ARW)](https://drive.google.com/file/d/11dM5vro8su9hvXZBehhIwwb6Bs8e55gA/view)):  
        A photo of Hamana-ko taken from the terrace.
@@ -44,6 +44,7 @@ The view from the terrace at the back was good, and the plaza was comfortable.
 
 ## Change History
 
+- 2024/06/13: Modify some sentences and meta info.
 - 2024/04/28: Add a license of photos. Fix links of photos.
 - 2024/04/23: First version.
 
