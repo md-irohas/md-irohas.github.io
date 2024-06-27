@@ -1,28 +1,24 @@
 +++
 title = '出雲日御碕灯台（2024年3月）'
 date = 2024-04-27T18:45:45+09:00
-summary = '2024年3月に出雲日御碕灯台を観光しました。'
+summary = '2024年3月に観光した出雲日御碕灯台の記事です。'
 categories = ['ブログ（旅行）']
 tags = ['旅行', '写真', '島根県', '出雲日御碕灯台']
 
-description = '2024年3月に出雲日御碕灯台を観光したときの記事です。'
+description = '2024年3月に観光した出雲日御碕灯台の記事です。'
 
 draft = false
 isCJKLanguage = true
 +++
 
 
-2024年3月に島根県の [出雲日御碕灯台 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%87%BA%E9%9B%B2%E6%97%A5%E5%BE%A1%E7%A2%95%E7%81%AF%E5%8F%B0) を観光しました。
+2024年3月に島根県の [出雲日御碕灯台 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%87%BA%E9%9B%B2%E6%97%A5%E5%BE%A1%E7%A2%95%E7%81%AF%E5%8F%B0) を訪れました。
 
 出雲日御碕灯台は、明治36年（1903年）に設置された白い石造洋式灯台で、2022年に国の重要文化財に指定されました。
 地上からの高さは43.65m、海面からの高さは63.3mで、石造灯台としては日本一の高さです。
 
 2024年3月現在、灯台の内部は一般公開されており、大人300円で灯台の内部を見学できます。
 灯台内には163段の急峻な螺旋階段があり、それをのぼると展望台から日本海を一望することができます。
-
-展望台は高く、私が訪れた日は強風だったこともあり、私はかなり足がすくみましたが、展望台からの眺めは絶景でした。
-
-出雲大社を観光する人は、日御碕灯台もあわせて観光してはいかがでしょう。
 
 
 ## 写真
@@ -69,11 +65,18 @@ isCJKLanguage = true
 
 ## マップ
 
+### 出雲日御碕灯台
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3250.8489298314094!2d132.62674227651354!3d35.433772143526745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35575c209d62fdcb%3A0xff48b1cb937150be!2sIzumo%20Hinomisaki%20Lighthouse!5e0!3m2!1sen!2sjp!4v1714212125062!5m2!1sen!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+### 稲佐の浜
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3252.198245090809!2d132.66979197651233!3d35.400336345352024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35575c865ebd4133%3A0x6746cc333009b799!2sInasa%20Beach!5e0!3m2!1sen!2sjp!4v1719506607774!5m2!1sen!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 ## 編集履歴
 
+- 2024/06/28: 一部表現、メタ情報を修正。マップを追加。
 - 2024/04/27: 初稿作成。
-
 
