@@ -16,7 +16,7 @@ showWordCount = false
 
 {{< alert icon="circle-info" >}}
 Images in this gallery are shrinked and compressed to reduce server load.
-The original image will be available on blog posts.
+The original images will be available on blog posts.
 {{< /alert >}}
 
 
@@ -57,5 +57,4 @@ The original image will be available on blog posts.
 {{< article link="/en/blog/2024-03-trip-mizuki-shigeru-road/" >}}
 {{< article link="/en/blog/2024-03-trip-hinomisaki/" >}}
 {{< article link="/en/blog/2024-03-trip-asosan/" >}}
-
 
