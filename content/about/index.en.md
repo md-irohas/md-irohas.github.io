@@ -60,11 +60,10 @@ I'm a beginner.
 - Development: Adobe Lightroom
 
 
-## Misc self-introductions
+## Miscellaneous
 
 - I live in Tokyo, Japan 🇯🇵, and I am Japanese.
 - I usually work on research and its related technology.
 - I sometimes ride a motorcycle (YAMAHA SR400).
 - I'm a solo camper. I bought a midget car for camping.
-
 
