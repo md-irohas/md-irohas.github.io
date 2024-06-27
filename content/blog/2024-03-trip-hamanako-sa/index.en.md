@@ -1,11 +1,11 @@
 +++
 title = 'Hamana-ko Service Area (March, 2024)'
 date = 2024-04-22T00:16:26+09:00
-summary = 'This is an article about the Hamana-ko service area where I visited in March 2024.'
+summary = 'This is an article about the Hamana-ko service area I visited in March 2024.'
 categories = ['Blog (Trip)']
 tags = ['Photo', 'Trip', 'Shizuoka', 'Hamana-ko SA']
 
-description = 'This is an article about the Hamana-ko service area where I visited in March 2024.'
+description = 'This is an article about the Hamana-ko service area I visited in March 2024.'
 
 draft = false
 isCJKLanguage = false
@@ -47,5 +47,4 @@ There is a terrace and grassy area at the back of the service area, and you can 
 - 2024/06/13: Modify some sentences and meta info.
 - 2024/04/28: Add a license of photos. Fix links of photos.
 - 2024/04/23: First version.
-
 
