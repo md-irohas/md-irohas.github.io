@@ -16,7 +16,7 @@ I visited [Tottori Sand Dunes (Wikipedia)](https://en.wikipedia.org/wiki/Tottori
 
 The dunes appeared smaller from a distance than I had imagined.
 However, once I got closer and entered the site, I realized they were surprisingly large.
-I ended up spending nearly two hours walking around and taking photos."
+I ended up spending nearly two hours walking around and taking photos.
 
 
 ## Photos
@@ -54,7 +54,7 @@ I ended up spending nearly two hours walking around and taking photos."
 ## Change History
 
 - 2024/06/27: Small fixes.
-- 2024/04/28: Fix links of photos.
+- 2024/04/28: Fixed links of photos.
 - 2024/04/21: Added photos taken by iPhone.
 - 2024/04/20: First version.
 
