@@ -1,19 +1,18 @@
 +++
 title = 'Mizuki Shigeru Road (March, 2024)'
 date = 2024-04-25T17:03:33+09:00
-summary = 'I visited Mizuki Shigeru Road in March 2024.'
+summary = 'This is an article about Mizuki Shigeru Road I visited in March 2024.'
 categories = ['Blog (Trip)']
 tags = ['Photo', 'Trip', 'Tottori', 'Mizuki Shigeru Road']
 
-description = 'This is an article about sightseeing in Mizuki Shigeru Road in March 2024.'
+description = 'This is an article about Mizuki Shigeru Road I visited in March 2024.'
 
 draft = false
 isCJKLanguage = false
 +++
 
 
-After sightseeing in [the Tottori Sand Dunes]({{< ref "/blog/2024-03-trip-tottori-sand-dunes/index.en.md" >}}),
-I moved west and visited Shigeru Mizuki Road in Sakaiminato City, Tottori Prefecture.
+I visited Shigeru Mizuki Road in Sakaiminato City, Tottori Prefecture in late March.
 
 Shigeru Mizuki Road is a commemorative street which themed around the world of [yokai (Wikipedia)](https://en.wikipedia.org/wiki/Y%C5%8Dkai) drawn by manga artist [Shigeru Mizuki (Wikipedia)](https://en.wikipedia.org/wiki/Shigeru_Mizuki),
 known for works such as "GeGeGe no Kitaro,"
@@ -22,8 +21,7 @@ and bronze statues of yokai including Kitaro are on display.
 The Shigeru Mizuki Memorial Museum was closed when I visited,
 so I mainly looked around at the yokai statues on the road.
 I enjoyed walking around in the daytime,
-but the Mizuki Shigeru Road lit up at night had a unique mood combined with the view of yokai world,
-and I really enjoyed it.
+but the Mizuki Shigeru Road lit up at night had a unique mood combined with the view of yokai world.
 
 
 ## Photos
@@ -79,7 +77,7 @@ and I really enjoyed it.
 
 ## Change History
 
-- 2024/04/28: Fix links of photos.
+- 2024/06/28: Modified some sentences and meta info.
+- 2024/04/28: Fixed links of photos.
 - 2024/04/25: First version.
-
 
