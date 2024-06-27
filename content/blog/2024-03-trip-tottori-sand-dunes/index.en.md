@@ -1,11 +1,11 @@
 +++
 title = 'Tottori Sand Dunes (March, 2024)'
 date = 2024-04-18T18:40:23+09:00
-summary = 'I visited Tottori Sand Dunes in March 2024.'
+summary = 'This is an article about Tottori Sand Dunes I visited in March 2024.'
 categories = ['Blog (Trip)']
 tags = ['Trip', 'Photo', 'Tottori', 'Tottori Sand Dunes']
 
-description = 'This is an article about sightseeing in Tottori Sand Dunes in March 2024.'
+description = 'This is an article about Tottori Sand Dunes I visited in March 2024.'
 
 draft = false
 isCJKLanguage = true
@@ -14,9 +14,9 @@ isCJKLanguage = true
 
 I visited [Tottori Sand Dunes (Wikipedia)](https://en.wikipedia.org/wiki/Tottori_Sand_Dunes) in late March.
 
-The dunes looked smaller than I had imagined from a distance,
-but once I entered the site, I found it surprisingly large,
-and I spent nearly two hours walking around and taking photos.
+The dunes appeared smaller from a distance than I had imagined.
+However, once I got closer and entered the site, I realized they were surprisingly large.
+I ended up spending nearly two hours walking around and taking photos."
 
 
 ## Photos
@@ -53,8 +53,8 @@ and I spent nearly two hours walking around and taking photos.
 
 ## Change History
 
+- 2024/06/27: Small fixes.
 - 2024/04/28: Fix links of photos.
 - 2024/04/21: Added photos taken by iPhone.
 - 2024/04/20: First version.
-
 
