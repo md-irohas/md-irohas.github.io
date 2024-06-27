@@ -1,11 +1,11 @@
 +++
 title = 'Mt. Aso (March, 2024)'
 date = 2024-05-04T13:55:01+09:00
-summary = 'I visited Mt. Aso in March 2024.'
+summary = 'This is an article about Mt. Aso I visited in March 2024.'
 categories = ['Blog (Trip)']
 tags = ['Photo', 'Trip', 'Kumamoto', 'Mt. Aso', 'Milk Road', 'Daikanbo']
 
-description = 'This is an article about sightseeing in Mt. Aso in March 2024.'
+description = 'This is an article about Mt. Aso I visited in March 2024.'
 
 draft = false
 isCJKLanguage = false
@@ -14,15 +14,11 @@ isCJKLanguage = false
 
 I visited Mt. Aso (Wikipedia) in Kumamoto Prefecture in late March.
 
-Mt. Aso is one of the most active volcanoes in Japan,
-and you can see the current crater, the surrounding caldera, and the grand view of the outer rim that surrounds them.
+Mt. Aso is one of the most active volcanoes in Japan, and you can see the current crater, the surrounding caldera, and the grand view of the outer rim that surrounds them.
 
 When I visited, the area around the crater was restricted.
-So, I drove along the road that runs along the ridge line of the outer rim of Mt. Aso,
-commonly known as the Milk Road (Wikipedia), to go around the observatories.
+So, I drove along a road that runs along the ridge line of the outer rim of Mt. Aso, commonly known as the Milk Road, to go around the observatories.
 
-The Milk Road is a road that runs through a grassy area with almost no obstacles,
-and from the observation decks along the way, I could see the grand view of Mt. Aso.
 
 
 ## Photos
@@ -68,6 +64,6 @@ and from the observation decks along the way, I could see the grand view of Mt. 
 
 ## Change History
 
+- 2024/06/28: Modified some sentences and meta info.
 - 2024/05/04: First version.
-
 
