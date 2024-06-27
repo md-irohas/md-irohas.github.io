@@ -44,7 +44,7 @@ There is a terrace and grassy area at the back of the service area, and you can 
 
 ## Change History
 
-- 2024/06/13: Modify some sentences and meta info.
-- 2024/04/28: Add a license of photos. Fix links of photos.
+- 2024/06/13: Modified some sentences and meta info.
+- 2024/04/28: Added a license of photos. Fix links of photos.
 - 2024/04/23: First version.
 
