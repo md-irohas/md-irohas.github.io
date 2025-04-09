@@ -13,7 +13,7 @@ title = "mkt's site"
   description = "mktのWebサイトです。IT系の技術記事や旅行の写真を公開していきます。"
   copyright = "© 2024 mkt"
 
-[author]
+[params.author]
   name = "mkt"
   image = "img/author.jpg"
   headline = "A beginner."
