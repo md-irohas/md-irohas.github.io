@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 2
-title = "mkt's web site"
+title = "mkt's web site (beta)"
 
 [params]
   displayName = "English"
