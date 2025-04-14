@@ -1,7 +1,7 @@
 languageCode = "ja"
 languageName = "Japanese"
 weight = 1
-title = "mkt's site"
+title = "mkt's web site on computer science, cybersecurity, travels, and photos."
 
 [params]
   displayName = "日本語"
@@ -10,8 +10,8 @@ title = "mkt's site"
   dateFormat = "2006-01-02"
   logo = ""
   secondaryLogo = ""
-  description = "mktのWebサイトです。IT系の技術記事や旅行の写真を公開していきます。"
-  copyright = "© 2024 mkt"
+  description = "mktのWebサイトです。コンピュータサイエンス、サイバーセキュリティ、旅行、写真の記事を公開します。"
+  copyright = "© 2025 mkt"
 
 [params.author]
   name = "mkt"

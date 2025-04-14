@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 2
-title = "mkt's site"
+title = "mkt's web site on computer science, cybersecurity, travels, and photos."
 
 [params]
   displayName = "English"
@@ -10,8 +10,8 @@ title = "mkt's site"
   dateFormat = "2 January 2006"
   logo = ""
   secondaryLogo = ""
-  description = "mkt's web site. I will publish IT-related technical articles and travel photos."
-  copyright = "© 2024 mkt."
+  description = "mkt's web site. Articles on computer science, cybersecurity, travel, and photos will be published."
+  copyright = "© 2025 mkt."
 
 [params.author]
   name = "mkt"
