@@ -18,6 +18,9 @@ enableEmoji = true
 
 googleAnalytics = "G-KD6X9VVGTN"
 
+[frontmatter]
+lastmod = ["lastmod", ":fileModTime"]
+
 [pagination]
   pagerSize = 10
 
@@ -31,8 +34,7 @@ googleAnalytics = "G-KD6X9VVGTN"
 
 [sitemap]
   filename = 'sitemap.xml'
-  # changefreq = 'daily'
-  # priority = 0.5
+  changefreq = 'daily'
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

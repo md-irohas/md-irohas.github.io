@@ -2,13 +2,13 @@
 title = 'About'
 date = 2024-02-12T14:47:50+09:00
 draft = false
-description = 'Self-introduction'
+description = "mkt's self-introduction page."
 
-showDate = false
+showDate = true
 showViews = false
 showLikes = false
 showDateOnlyInArticle = false
-showDateUpdated = false
+showDateUpdated = true
 showAuthor = true
 showHero = true
 heroStyle = "background"
@@ -34,19 +34,11 @@ showZenMode = false
 +++
 
 
-This is an mkt's personal blog.
+This is an mkt's personal web site.
 
-I will post articles related to IT technology and photos taken during my trips.
+I will post articles on computer science, cybersecurity, travle, and photos.
 
 I'm a beginner.
-
-
-## Development environment
-
-- PC: MacBook Pro
-- Editor: Vim
-- Shell: tmux + zsh
-- Languages: Bash, Python, Go, and others if required.
 
 
 ## Photo equipment
@@ -59,11 +51,4 @@ I'm a beginner.
      - SIGMA 16mm F1.4 DC DN | Contemporary
 - Development: Adobe Lightroom
 
-
-## Miscellaneous
-
-- I live in Tokyo, Japan 🇯🇵, and I am Japanese.
-- I usually work on research and its related technology.
-- I sometimes ride a motorcycle (YAMAHA SR400).
-- I'm a solo camper. I bought a midget car for camping.
 
