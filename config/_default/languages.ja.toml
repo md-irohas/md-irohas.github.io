@@ -2,7 +2,7 @@ disabled = false
 languageCode = "ja"
 languageName = "Japanese"
 weight = 2
-title = "mkt's sidenote"
+title = "mkt's sidenotes"
 
 [params]
   displayName = "日本語"
@@ -11,15 +11,15 @@ title = "mkt's sidenote"
   dateFormat = "2006-01-02"
   # logo = ""
   # secondaryLogo = ""
-  description = "mktのWebサイトです。コンピュータサイエンス、サイバーセキュリティ、旅行、写真の記事を公開します。"
+  description = "mktの断片的な覚書きです。コンピュータサイエンス、サイバーセキュリティ、旅行、写真の記事を公開する予定です。"
   copyright = "© 2025 mkt"
 
 [params.author]
   name = "mkt"
   email = "md.irohas@gmail.com"
   image = "img/author.jpg"
-  headline = "A beginner."
-  # bio = ""
+  headline = "A beginner in the shell."
+  bio = "A researcher, an engineer, a workaholic, a nomad."
   links = [
     { email = "mailto:md.irohas@gmail.com" },
     { link = "https://md-irohas.pages.dev/" },
