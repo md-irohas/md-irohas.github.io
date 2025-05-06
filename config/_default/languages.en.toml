@@ -1,26 +1,28 @@
+disabled = false
 languageCode = "en"
 languageName = "English"
-weight = 2
-title = "mkt's web site (beta)"
+weight = 1
+title = "mkt's sidenote"
 
 [params]
   displayName = "English"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = ""
-  secondaryLogo = ""
+  #logo = ""
+  #secondaryLogo = ""
   description = "mkt's web site. Articles on computer science, cybersecurity, travel, and photos will be published."
   copyright = "© 2025 mkt."
 
 [params.author]
   name = "mkt"
+  email = "md.irohas@gmail.com"
   image = "img/author.jpg"
   headline = "A beginner."
-  bio = ""
+  # bio = ""
   links = [
-    { link = "https://md-irohas.pages.dev/" },
     { email = "mailto:md.irohas@gmail.com" },
+    { link = "https://md-irohas.pages.dev/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
@@ -37,6 +39,7 @@ title = "mkt's web site (beta)"
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
 #     { instagram = "https://instagram.com/username" },
+#     { itch-io = "https://username.itch.io" },
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
@@ -52,9 +55,11 @@ title = "mkt's web site (beta)"
 #     { slack = "https://workspace.url/team/userid" },
 #     { snapchat = "https://snapchat.com/add/username" },
 #     { soundcloud = "https://soundcloud.com/username" },
+#     { spotify = "https://open.spotify.com/user/userid" },
 #     { stack-overflow = "https://stackoverflow.com/users/userid/username" },
 #     { steam = "https://steamcommunity.com/profiles/userid" },
 #     { telegram = "https://t.me/username" },
+#     { threads = "https://www.threads.net/@username" },
 #     { tiktok = "https://tiktok.com/@username" },
 #     { tumblr = "https://username.tumblr.com" },
 #     { twitch = "https://twitch.tv/username" },
@@ -63,4 +68,5 @@ title = "mkt's web site (beta)"
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
+#     { codeberg = "https://codeberg.org/username"},
   ]
