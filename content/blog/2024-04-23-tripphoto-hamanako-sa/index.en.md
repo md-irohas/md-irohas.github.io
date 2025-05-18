@@ -1,9 +1,9 @@
 +++
 title = 'Hamana-ko Service Area (March, 2024)'
-date = 2024-04-22T00:16:26+09:00
+date = 2024-04-22
 summary = 'This is an article about the Hamana-ko service area I visited in March 2024.'
-categories = ['Blog (Trip)']
-tags = ['Photo', 'Trip', 'Shizuoka', 'Hamana-ko SA']
+categories = ['Blog (Trip Photo)']
+tags = ['Trip', 'Photo', 'Shizuoka', 'Hamana-ko SA']
 
 description = 'This is an article about the Hamana-ko service area I visited in March 2024.'
 
@@ -12,7 +12,7 @@ isCJKLanguage = false
 +++
 
 
-I dropped in at Hamana-ko (Lake Hamana) service area on [my way to Tottori]({{< ref "/blog/2024-03-trip-tottori-sand-dunes/index.en.md" >}}) in late March.
+I dropped in at Hamana-ko (Lake Hamana) service area on [my way to Tottori]({{< ref "/blog/2024-04-18-tripphoto-tottori-sand-dunes/index.en.md" >}}) in late March.
 
 There is a terrace and grassy area at the back of the service area, and you can see Lake Hamana from the terrace.
 

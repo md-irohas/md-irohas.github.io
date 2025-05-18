@@ -12,7 +12,7 @@ isCJKLanguage = true
 +++
 
 
-3月下旬に [鳥取へ行く]({{< ref "/blog/2024-03-trip-tottori-sand-dunes/index.ja.md" >}}) 途中で浜名湖サービスエリアに立ち寄りました。
+3月下旬に [鳥取へ行く]({{< ref "/blog/2024-04-18-tripphoto-tottori-sand-dunes/index.ja.md" >}}) 途中で浜名湖サービスエリアに立ち寄りました。
 
 サービスエリアの奥にテラスや芝生のエリアがあり、テラスからは浜名湖を見渡すことができます。
 

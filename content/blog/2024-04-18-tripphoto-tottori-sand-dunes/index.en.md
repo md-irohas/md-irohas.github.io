@@ -1,6 +1,6 @@
 +++
 title = 'Tottori Sand Dunes (March, 2024)'
-date = 2024-04-18T18:40:23+09:00
+date = 2024-04-18
 summary = 'This is an article about Tottori Sand Dunes I visited in March 2024.'
 categories = ['Blog (Trip)']
 tags = ['Trip', 'Photo', 'Tottori', 'Tottori Sand Dunes']
