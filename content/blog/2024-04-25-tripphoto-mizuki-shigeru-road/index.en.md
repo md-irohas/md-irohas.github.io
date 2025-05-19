@@ -1,9 +1,9 @@
 +++
 title = 'Mizuki Shigeru Road (March, 2024)'
-date = 2024-04-25T17:03:33+09:00
+date = 2024-04-25
 summary = 'This is an article about Mizuki Shigeru Road I visited in March 2024.'
-categories = ['Blog (Trip)']
-tags = ['Photo', 'Trip', 'Tottori', 'Mizuki Shigeru Road']
+categories = ['Blog (Trip Photo)']
+tags = ['Trip', 'Photo', 'Tottori', 'Mizuki Shigeru Road']
 
 description = 'This is an article about Mizuki Shigeru Road I visited in March 2024.'
 

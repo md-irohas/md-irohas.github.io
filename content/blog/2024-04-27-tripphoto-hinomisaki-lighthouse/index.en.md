@@ -1,9 +1,9 @@
 +++
 title = 'Izumo Hinomisaki Lighthouse (March, 2024)'
-date = 2024-04-27T18:56:59+09:00
+date = 2024-04-27
 summary = 'This is an article about Izumo Hinomisaki Lighthouse I visited in March 2024.'
-categories = ['Blog (Trip)']
-tags = ['Photo', 'Trip', 'Shimane', 'Izumo Hinomisaki Lighthouse']
+categories = ['Blog (Trip Photo)']
+tags = ['Trip', 'Photo', 'Shimane', 'Izumo Hinomisaki Lighthouse']
 
 description = 'This is an article about Izumo Hinomisaki Lighthouse I visited in March 2024.'
 

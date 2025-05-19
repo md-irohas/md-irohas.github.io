@@ -2,7 +2,7 @@
 title = 'Mt. Aso (March, 2024)'
 date = 2024-05-04T13:55:01+09:00
 summary = 'This is an article about Mt. Aso I visited in March 2024.'
-categories = ['Blog (Trip)']
+categories = ['Blog (Trip Photo)']
 tags = ['Photo', 'Trip', 'Kumamoto', 'Mt. Aso', 'Milk Road', 'Daikanbo']
 
 description = 'This is an article about Mt. Aso I visited in March 2024.'
