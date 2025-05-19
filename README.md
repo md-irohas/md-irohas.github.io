@@ -1,6 +1,6 @@
 # mkt's site
 
-This repository contains files for mkt's web site.
+This repository contains files for mkt's web site (mkt's sidenotes).
 
 URL: https://md-irohas.pages.dev/
 
@@ -17,8 +17,9 @@ This README is just a note for me.
 
 ```
 content/
-    |- about/       About page.
+    |- about/       About page
     |- blog/        Blog posts
+    |   |- <YYYY-mm-dd>-<category>-<slug>/
     |- gallery/     Photo gallery
 ```
 
