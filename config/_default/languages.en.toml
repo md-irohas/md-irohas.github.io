@@ -11,7 +11,7 @@ title = "mkt's sidenotes"
   dateFormat = "2 January 2006"
   # logo = ""
   # secondaryLogo = ""
-  description = "mkt's sidenotes. Articles on computer science, cybersecurity, travel, and photos will be published."
+  description = "Sidenodes in the shell by mkt. Articles on trip photos will be published."
   copyright = "© 2025 mkt"
 
 [params.author]
@@ -19,7 +19,7 @@ title = "mkt's sidenotes"
   email = "md.irohas@gmail.com"
   image = "img/author.jpg"
   headline = "A beginner in the shell."
-  bio = "A researcher, an engineer, a workaholic, a nomad."
+  bio = "A researcher, an engineer, a workaholic, and a nomad."
   links = [
     { email = "mailto:md.irohas@gmail.com" },
     { link = "https://md-irohas.pages.dev/" },
