@@ -1,14 +1,16 @@
 +++
 title = 'XXX (Month, Year)'
-date = {{ .Date }}
-summary = ''
-categories = ['Blog (Trip)']
-tags = ['Photo', 'Trip', 'Prefecture', 'Place']
+date = '{{ now.Format "2006-01-02" }}'
+categories = ['Blog (Photo Trip)']
+tags = ['Trip', 'Photo', '<Prefecture>', '<Place>']
 
+isCJKLanguage = false
 description = ''
 
 draft = true
-isCJKLanguage = false
+
+# Params
+# googlePhotoUrl = ''
 +++
 
 
@@ -34,7 +36,7 @@ Some sentences...
        A photo of the ...
 
 
-{{% cc lang="en" license="by-nc-sa" %}}
+{{% creative-commons lang="en" license="by-nc-sa" %}}
 
 
 ## Map
