@@ -1,14 +1,16 @@
 +++
 title = 'Tottori Sand Dunes (March, 2024)'
-date = 2024-04-18
-summary = 'This is an article about Tottori Sand Dunes I visited in March 2024.'
+date = '2024-04-18'
 categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Tottori', 'Tottori Sand Dunes']
 
+isCJKLanguage = false
 description = 'This is an article about Tottori Sand Dunes I visited in March 2024.'
 
 draft = false
-isCJKLanguage = true
+
+# Params
+# googlePhotoUrl = ''
 +++
 
 

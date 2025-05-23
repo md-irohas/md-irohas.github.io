@@ -1,14 +1,16 @@
 +++
 title = 'Izumo Hinomisaki Lighthouse (March, 2024)'
-date = 2024-04-27
-summary = 'This is an article about Izumo Hinomisaki Lighthouse I visited in March 2024.'
+date = '2024-04-27'
 categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Shimane', 'Izumo Hinomisaki Lighthouse']
 
+isCJKLanguage = false
 description = 'This is an article about Izumo Hinomisaki Lighthouse I visited in March 2024.'
 
 draft = false
-isCJKLanguage = false
+
+# Params
+# googlePhotoUrl = ''
 +++
 
 

@@ -1,14 +1,15 @@
 +++
 title = '水木しげるロード（2024年3月）'
-date = 2024-04-25
-summary = '2024年3月に観光した水木しげるロードの記事です。'
+date = '2024-04-25'
 categories = ['ブログ（旅行写真）']
 tags = ['旅行', '写真', '鳥取県', '水木しげるロード']
 
+isCJKLanguage = true
 description = '2024年3月に観光した水木しげるロードの記事です。'
 
 draft = false
-isCJKLanguage = true
+
+# Params
 +++
 
 

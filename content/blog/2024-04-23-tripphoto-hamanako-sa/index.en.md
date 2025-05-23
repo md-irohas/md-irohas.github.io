@@ -1,14 +1,16 @@
 +++
 title = 'Hamana-ko Service Area (March, 2024)'
-date = 2024-04-22
-summary = 'This is an article about the Hamana-ko service area I visited in March 2024.'
+date = '2024-04-22'
 categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Shizuoka', 'Hamana-ko SA']
 
+isCJKLanguage = false
 description = 'This is an article about the Hamana-ko service area I visited in March 2024.'
 
 draft = false
-isCJKLanguage = false
+
+# Params
+# googlePhotoUrl = ''
 +++
 
 

@@ -1,14 +1,16 @@
 +++
 title = 'Mizuki Shigeru Road (March, 2024)'
-date = 2024-04-25
-summary = 'This is an article about Mizuki Shigeru Road I visited in March 2024.'
+date = '2024-04-25'
 categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Tottori', 'Mizuki Shigeru Road']
 
+isCJKLanguage = false
 description = 'This is an article about Mizuki Shigeru Road I visited in March 2024.'
 
 draft = false
-isCJKLanguage = false
+
+# Params
+# googlePhotoUrl = ''
 +++
 
 

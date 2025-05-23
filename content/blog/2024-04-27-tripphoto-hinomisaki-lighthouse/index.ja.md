@@ -1,14 +1,15 @@
 +++
 title = '出雲日御碕灯台（2024年3月）'
-date = 2024-04-27
-summary = '2024年3月に観光した出雲日御碕灯台の記事です。'
+date = '2024-04-27'
 categories = ['ブログ（旅行写真）']
 tags = ['旅行', '写真', '島根県', '出雲日御碕灯台']
 
+isCJKLanguage = true
 description = '2024年3月に観光した出雲日御碕灯台の記事です。'
 
 draft = false
-isCJKLanguage = true
+
+# Params
 +++
 
 

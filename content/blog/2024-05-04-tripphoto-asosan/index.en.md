@@ -1,14 +1,16 @@
 +++
 title = 'Mt. Aso (March, 2024)'
-date = 2024-05-04T13:55:01+09:00
-summary = 'This is an article about Mt. Aso I visited in March 2024.'
+date = '2024-05-04'
 categories = ['Blog (Trip Photo)']
 tags = ['Photo', 'Trip', 'Kumamoto', 'Mt. Aso', 'Milk Road', 'Daikanbo']
 
+isCJKLanguage = false
 description = 'This is an article about Mt. Aso I visited in March 2024.'
 
 draft = false
-isCJKLanguage = false
+
+# Params
+# googlePhotoUrl = ''
 +++
 
 

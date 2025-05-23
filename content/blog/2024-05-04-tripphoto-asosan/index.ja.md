@@ -1,14 +1,15 @@
 +++
 title = '阿蘇山（2024年3月）'
-date = 2024-05-04
-summary = '2024年3月に観光した阿蘇山の記事です。'
+date = '2024-05-04'
 categories = ['ブログ（旅行写真）']
 tags = ['旅行', '写真', '熊本県', '阿蘇山', 'ミルクロード', '大観峰']
 
+isCJKLanguage = true
 description = '2024年3月に観光した阿蘇山の記事です。'
 
 draft = false
-isCJKLanguage = true
+
+# Params
 +++
 
 

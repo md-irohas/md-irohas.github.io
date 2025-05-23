@@ -1,14 +1,15 @@
 +++
 title = '浜名湖サービスエリア（2024年3月）'
-date = 2024-04-22
-summary = '2024年3月に立ち寄った浜名湖サービスエリアの記事です。'
+date = '2024-04-22'
 categories = ['ブログ（旅行写真）']
 tags = ['旅行', '写真', '静岡県', '浜名湖SA']
 
+isCJKLanguage = true
 description = '2024年3月に立ち寄った浜名湖サービスエリアの記事です。'
 
 draft = false
-isCJKLanguage = true
+
+# Params
 +++
 
 
