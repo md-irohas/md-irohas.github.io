@@ -1,0 +1,11 @@
+
+{{- $lang := .Get "lang" -}}
+
+<p style="font-style: italic; text-align: right;">
+{{- if eq $lang "ja" -}}
+Googleフォトアルバムは<a href="{{ .Page.Params.googlePhotoUrl }}" target="_blank">こちら</a>。
+{{- else -}}
+You can view the Google Photos album <a href="{{ .Page.Params.googlePhotoUrl }}" target="_blank">here</a>.
+{{- end -}}
+</p>
+

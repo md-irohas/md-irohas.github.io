@@ -1,0 +1,20 @@
+{{- $lang := .Get "lang" -}}
+{{- $license := .Get "license" -}}
+
+<p style="font-style: italic; text-align: right;">
+{{- if eq $lang "ja" -}}
+  ライセンス: 
+  {{- if eq $license "by-nc-sa" -}}
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja" target="_blank">
+    CC BY-NC-SA 4.0
+  </a>
+  {{- end -}}
+{{- else -}}
+  License: 
+  {{- if eq $license "by-nc-sa" -}}
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en" target="_blank">
+    CC BY-NC-SA 4.0
+  </a>
+  {{- end -}}
+{{- end -}}
+
