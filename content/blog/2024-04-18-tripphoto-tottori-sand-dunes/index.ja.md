@@ -5,7 +5,7 @@ categories = ['ブログ（旅行写真）']
 tags = ['旅行', '写真', '鳥取県', '鳥取砂丘']
 
 isCJKLanguage = true
-description = '2024年3月中旬に立ち寄った鳥取砂丘の記事です。'
+description = '2024年3月に立ち寄った鳥取砂丘の記事です。'
 
 draft = false
 
@@ -15,7 +15,7 @@ googleDriveUrl = "https://drive.google.com/drive/folders/1K9zUdPwhUa8U-_jj5lG94s
 +++
 
 
-2024年3月中旬、山陰を旅する途中で、鳥取砂丘に立ち寄りました。
+2024年3月、山陰を旅する途中で、鳥取砂丘に立ち寄りました。
 
 前日まで日本海側は暴風雪に見舞われていましたが、
 訪れたときには運よく雲が途切れ、わずかな晴れ間が広がっていました。

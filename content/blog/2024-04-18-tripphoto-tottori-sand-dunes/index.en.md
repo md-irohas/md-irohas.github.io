@@ -15,7 +15,7 @@ googleDriveUrl = "https://drive.google.com/drive/folders/1K9zUdPwhUa8U-_jj5lG94s
 +++
 
 
-In mid-March 2024, I stopped by the Tottori Sand Dunes while traveling through
+In March 2024, I stopped by the Tottori Sand Dunes while traveling through
 the San'in region.
 
 Just the day before, the Sea of Japan coast had been hit by a fierce snowstorm.
