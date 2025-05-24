@@ -14,6 +14,7 @@ googlePhotoUrl = "https://photos.app.goo.gl/gwzehBM7AaAusUQG7"
 googleDriveUrl = "https://drive.google.com/drive/folders/1K9zUdPwhUa8U-_jj5lG94sRQj7N_gU19?usp=sharing"
 +++
 
+
 2024年3月中旬、山陰を旅する途中で、鳥取砂丘に立ち寄りました。
 
 前日まで日本海側は暴風雪に見舞われていましたが、
@@ -60,7 +61,7 @@ googleDriveUrl = "https://drive.google.com/drive/folders/1K9zUdPwhUa8U-_jj5lG94s
 {{< google-my-maps "https://www.google.com/maps/d/embed?mid=1JhSgoynlwxuzVxELQ9ulD41OfgM-hik&ehbc=2E312F&noprof=1&z=15" >}}
 
 
-## 写真詳細
+## 写真の詳細
 
 ### iPhone 12 mini
 
