@@ -11,6 +11,7 @@ draft = true
 
 # Params
 # googlePhotoUrl = ''
+# googleDriverl = ''
 +++
 
 
@@ -19,39 +20,61 @@ draft = true
 
 ## ギャラリー
 
+{{< creative-commons lang="ja" license="by-nc-sa" >}}
+
 {{< gallery >}}
   <img src="IMG_XXXX-2.jpg" alt="IMG_XXXX-2.jpg" class="grid-w50" />
   <img src="IMG_XXXX-2.jpg" alt="IMG_XXXX-2.jpg" class="grid-w50" />
+
   <img src="DSC0XXXX-Enhanced-NR.jpg" alt="DSC0XXXX-Enhanced-NR.jpg" class="grid-w60" />
+  <img src="DSC0XXXX-Enhanced-NR.jpg" alt="DSC0XXXX-Enhanced-NR.jpg" class="grid-w40" />
 {{< /gallery >}}
+
+{{< google-photos-album lang="ja" >}}
 
 
 ## マップ
 
+### <場所>
+
 Google Mapのiframe（640x480）
 
+{{< google-maps "#" >}}
+
+
+### 場所一覧
+
 Google My Mapのiframe（640x480）
+
+{{< google-my-map "#" >}}
 
 
 ## 写真の詳細
 
 ### iPhone 12 mini
 
-1. IMG\_XXXX-2.jpg (Google Drive: [JPG](#)):  
+{{< gallery >}}
+  <img src="IMG_XXXX-2.jpg" alt="IMG_XXXX-2.jpg" class="grid-w50" />
+  <img src="IMG_XXXX-2.jpg" alt="IMG_XXXX-2.jpg" class="grid-w50" />
+{{< /gallery >}}
+
+1. IMG\_XXXX-2.jpg ({{< google-photos-album-jpg >}}):  
     ...の写真です。
-1. IMG\_XXXX-2.jpg (Google Drive: [JPG](#)):  
+1. IMG\_XXXX-2.jpg ({{< google-photos-album-jpg >}}):  
     ...のパノラマ写真です。
 
 
 ### Sony α6500
 
-- Sony α6500
-    1. DSC0XXXX-Enhanced-NR.jpg (Google Drive: [JPG](#) / [RAW (ARW)](#)):  
-       ...の写真です。
+{{< gallery >}}
+  <img src="DSC0XXXX-Enhanced-NR.jpg" alt="DSC0XXXX-Enhanced-NR.jpg" class="grid-w60" />
+  <img src="DSC0XXXX-Enhanced-NR.jpg" alt="DSC0XXXX-Enhanced-NR.jpg" class="grid-w40" />
+{{< /gallery >}}
 
-
-{{% cc lang="ja" license="by-nc-sa" %}}
-
+1. DSC0XXXX-Enhanced-NR.jpg ({{< google-photos-album-jpg >}} / {{< google-drive-raw >}}):  
+    ...の写真です。
+1. DSC0XXXX-Enhanced-NR.jpg ({{< google-photos-album-jpg >}} / {{< google-drive-raw >}}):  
+    ...の写真です。
 
 
 ## 編集履歴
