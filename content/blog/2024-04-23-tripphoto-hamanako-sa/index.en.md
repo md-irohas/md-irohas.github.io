@@ -15,6 +15,8 @@ googleDriveUrl = "https://drive.google.com/drive/folders/1k5F5J71Ct6AFP_Bn57EcqL
 +++
 
 
+## Summary
+
 I dropped in at Hamana-ko (Lake Hamana) service area on my way to Tottori in
 March 2024.
 
