@@ -15,7 +15,7 @@ googleDriveUrl = "https://drive.google.com/drive/folders/1k5F5J71Ct6AFP_Bn57EcqL
 +++
 
 
-2024年3月に [鳥取へ行く]({{< ref "/blog/2024-04-18-tripphoto-tottori-sand-dunes/" >}}) 途中、浜名湖サービスエリアで休憩しました。
+2024年3月に鳥取へ行く途中、浜名湖サービスエリアで休憩しました。
 
 サービスエリアの奥にはテラスや芝生のエリアがあり、テラスからは浜名湖を一望することができました。
 
