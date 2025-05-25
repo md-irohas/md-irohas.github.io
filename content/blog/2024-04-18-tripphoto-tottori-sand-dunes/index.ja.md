@@ -71,11 +71,11 @@ googleDriveUrl = "https://drive.google.com/drive/folders/1K9zUdPwhUa8U-_jj5lG94s
   <img src="IMG_2606-2.jpg" alt="IMG_2606-2.jpg" class="grid-w100" />
 {{< /gallery >}}
 
-1. IMG\_2603-2.jpg ({{< google-photos-album-jpg >}}):  
+1. IMG\_2603-2.jpg ( {{< google-photos-album-jpg >}} ):  
     鳥取砂丘の入口にある銘板です。  
-1. IMG\_2622-2.jpg ({{< google-photos-album-jpg >}}):  
+1. IMG\_2622-2.jpg ( {{< google-photos-album-jpg >}} ):  
     「馬の背」と呼ばれる丘から砂丘の入口方向を撮った写真です。
-1. IMG\_2606-2.jpg ({{< google-photos-album-jpg >}}):  
+1. IMG\_2606-2.jpg ( {{< google-photos-album-jpg >}} ):  
     砂丘の入口で撮ったパノラマ写真です。
 
 
@@ -86,9 +86,9 @@ googleDriveUrl = "https://drive.google.com/drive/folders/1K9zUdPwhUa8U-_jj5lG94s
   <img src="DSC05211-Enhanced-NR.jpg" alt="DSC05211-Enhanced-NR.jpg" class="grid-w35" />
 {{< /gallery >}}
 
-1. DSC05202-Enhanced-NR.jpg ({{< google-photos-album-jpg >}} / {{< google-drive-raw >}}):  
+1. DSC05202-Enhanced-NR.jpg ( {{< google-photos-album-jpg >}} / {{< google-drive-raw >}} ):  
     砂丘の入口から見える「馬の背」と呼ばれる丘を撮影した写真です。
-1. DSC05211-Enhanced-NR.jpg ({{< google-photos-album-jpg >}} / {{< google-drive-raw >}}):  
+1. DSC05211-Enhanced-NR.jpg ( {{< google-photos-album-jpg >}} / {{< google-drive-raw >}} ):  
     風によって砂の上に作られる「風紋」と呼ばれる紋様を撮影した写真です。
 
 

@@ -52,7 +52,7 @@ googleDriveUrl = "https://drive.google.com/drive/folders/1k5F5J71Ct6AFP_Bn57EcqL
   <img src="IMG_2598-2.jpg" alt="IMG_2598-2.jpg" class="grid-w100" />
 {{< /gallery >}}
 
-1. IMG\_2598-2.jpg ({{< google-photos-album-jpg >}}):  
+1. IMG\_2598-2.jpg ( {{< google-photos-album-jpg >}} ):  
     サービスエリアの奥のテラスから浜名湖を撮影したパノラマ写真です。
     「[ゴジラ-1.0](https://ja.wikipedia.org/wiki/%E3%82%B4%E3%82%B8%E3%83%A9-1.0)」に登場するゴジラの実物大足跡がありました。
 
@@ -63,7 +63,7 @@ googleDriveUrl = "https://drive.google.com/drive/folders/1k5F5J71Ct6AFP_Bn57EcqL
   <img src="DSC05185-Enhanced-NR.jpg" alt="DSC05185-Enhanced-NR.jpg" class="grid-w60" />
 {{< /gallery >}}
 
-1. DSC05185-Enhanced-NR.jpg ({{< google-photos-album-jpg >}} / {{< google-drive-raw >}}):  
+1. DSC05185-Enhanced-NR.jpg ( {{< google-photos-album-jpg >}} / {{< google-drive-raw >}} ):  
     サービスエリアの奥のテラスから浜名湖を撮影した写真です。
 
 

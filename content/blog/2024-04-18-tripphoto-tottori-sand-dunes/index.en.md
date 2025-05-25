@@ -75,11 +75,11 @@ stepped into another world—briefly removed from everyday life.
   <img src="IMG_2606-2.jpg" alt="IMG_2606-2.jpg" class="grid-w100" />
 {{< /gallery >}}
 
-1. IMG\_2603-2.jpg ({{< google-photos-album-jpg >}}):  
+1. IMG\_2603-2.jpg ( {{< google-photos-album-jpg >}} ):  
     A stone monument at the entrance of Tottori Sand Dunes.
-1. IMG\_2622-2.jpg ({{< google-photos-album-jpg >}}):  
+1. IMG\_2622-2.jpg ( {{< google-photos-album-jpg >}} ):  
     A photo taken from a hill called "Uma-no-Se (horse's back)" toward the entrance.
-1. IMG\_2606-2.jpg ({{< google-photos-album-jpg >}}):  
+1. IMG\_2606-2.jpg ( {{< google-photos-album-jpg >}} ):  
     A panoramic photo taken at the entrance.
 
 
@@ -90,9 +90,9 @@ stepped into another world—briefly removed from everyday life.
   <img src="DSC05211-Enhanced-NR.jpg" alt="DSC05211-Enhanced-NR.jpg" class="grid-w35" />
 {{< /gallery >}}
 
-1. DSC05202-Enhanced-NR.jpg ({{< google-photos-album-jpg >}} / {{< google-drive-raw >}}):  
+1. DSC05202-Enhanced-NR.jpg ( {{< google-photos-album-jpg >}} / {{< google-drive-raw >}} ):  
     A photo of the hill called "Uma-no-se," which can be seen just after entering the dunes.
-1. DSC05211-Enhanced-NR.jpg ({{< google-photos-album-jpg >}} / {{< google-drive-raw >}}):  
+1. DSC05211-Enhanced-NR.jpg ( {{< google-photos-album-jpg >}} / {{< google-drive-raw >}} ):  
     A photo of a wave-like pattern made on sand by wind.
 
 

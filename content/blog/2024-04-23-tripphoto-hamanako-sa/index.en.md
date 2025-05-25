@@ -15,9 +15,8 @@ googleDriveUrl = "https://drive.google.com/drive/folders/1k5F5J71Ct6AFP_Bn57EcqL
 +++
 
 
-I dropped in at Hamana-ko (Lake Hamana) service area on [my way to Tottori]({{<
-ref "/blog/2024-04-18-tripphoto-tottori-sand-dunes/index.en.md" >}}) in March
-2024.
+I dropped in at Hamana-ko (Lake Hamana) service area on my way to Tottori in
+March 2024.
 
 At the back of the service area, there was a terrace and a grassy lawn, and
 from the terrace, I had a panoramic view of Lake Hamana."
