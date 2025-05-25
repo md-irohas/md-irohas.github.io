@@ -5,15 +5,16 @@ categories = ['ブログ（旅行写真）']
 tags = ['旅行', '写真', '<都道府県>', '<場所>']
 
 isCJKLanguage = true
-description = ''
+description = 'XXXX年X月に〜した〜の記事です。'
 
 draft = true
 
-# Params
-# googlePhotoUrl = ''
-# googleDriverl = ''
+googlePhotoUrl = '#'
+googleDriverl = '#'
 +++
 
+
+## 概要
 
 説明文...
 
@@ -46,7 +47,7 @@ Google Mapのiframe（640x480）
 
 Google My Mapのiframe（640x480）
 
-{{< google-my-map "#" >}}
+{{< google-my-maps "#" >}}
 
 
 ## 写真の詳細
@@ -58,9 +59,9 @@ Google My Mapのiframe（640x480）
   <img src="IMG_XXXX-2.jpg" alt="IMG_XXXX-2.jpg" class="grid-w50" />
 {{< /gallery >}}
 
-1. IMG\_XXXX-2.jpg ({{< google-photos-album-jpg >}}):  
+1. IMG\_XXXX-2.jpg ( {{< google-photos-album-jpg >}} ):  
     ...の写真です。
-1. IMG\_XXXX-2.jpg ({{< google-photos-album-jpg >}}):  
+1. IMG\_XXXX-2.jpg ( {{< google-photos-album-jpg >}} ):  
     ...のパノラマ写真です。
 
 
@@ -71,9 +72,9 @@ Google My Mapのiframe（640x480）
   <img src="DSC0XXXX-Enhanced-NR.jpg" alt="DSC0XXXX-Enhanced-NR.jpg" class="grid-w40" />
 {{< /gallery >}}
 
-1. DSC0XXXX-Enhanced-NR.jpg ({{< google-photos-album-jpg >}} / {{< google-drive-raw >}}):  
+1. DSC0XXXX-Enhanced-NR.jpg ( {{< google-photos-album-jpg >}} / {{< google-drive-raw >}} ):  
     ...の写真です。
-1. DSC0XXXX-Enhanced-NR.jpg ({{< google-photos-album-jpg >}} / {{< google-drive-raw >}}):  
+1. DSC0XXXX-Enhanced-NR.jpg ( {{< google-photos-album-jpg >}} / {{< google-drive-raw >}} ):  
     ...の写真です。
 
 
