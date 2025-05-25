@@ -5,43 +5,74 @@ categories = ['Blog (Photo Trip)']
 tags = ['Trip', 'Photo', '<Prefecture>', '<Place>']
 
 isCJKLanguage = false
-description = ''
+description = 'An article about ... I visited in ...'
 
 draft = true
 
 # Params
-# googlePhotoUrl = ''
+googlePhotoUrl = ''
+googleDriveUrl = ''
 +++
 
+
+## Sumamry
 
 Some sentences...
 
 
-## Photos
+## Gallery
+
+{{% creative-commons lang="en" license="by-nc-sa" %}}
 
 {{< gallery >}}
   <img src="IMG_XXXX-2.jpg" alt="IMG_XXXX-2.jpg" class="grid-w50" />
   <img src="IMG_XXXX-2.jpg" alt="IMG_XXXX-2.jpg" class="grid-w50" />
+
   <img src="DSC0XXXX-Enhanced-NR.jpg" alt="DSC0XXXX-Enhanced-NR.jpg" class="grid-w60" />
+  <img src="DSC0XXXX-Enhanced-NR.jpg" alt="DSC0XXXX-Enhanced-NR.jpg" class="grid-w40" />
 {{< /gallery >}}
 
-
-- iPhone 12 mini
-    1. IMG\_XXXX-2.jpg (Google Drive: [JPG](#)):  
-       A stone monument ...
-    1. IMG\_XXXX-2.jpg (Google Drive: [JPG](#)):  
-       A panoramic photo taken at the entrance...
-- Sony α6500
-    1. DSC0XXXX-Enhanced-NR.jpg (Google Drive: [JPG](#) / [RAW (ARW)](#)):  
-       A photo of the ...
-
-
-{{% creative-commons lang="en" license="by-nc-sa" %}}
+{{< google-photos-album lang="en" >}}
 
 
 ## Map
 
-iframe of Google Map...
+### <Site>
+
+{{< google-maps "#" >}}
+
+
+### Sites
+
+{{< google-my-maps "#" >}}
+
+
+## Photo Details
+
+### iPhone 12 mini
+
+{{< gallery >}}
+  <img src="IMG_XXXX-2.jpg" alt="IMG_XXXX-2.jpg" class="grid-w50" />
+  <img src="IMG_XXXX-2.jpg" alt="IMG_XXXX-2.jpg" class="grid-w50" />
+{{< /gallery >}}
+
+1. IMG\_XXXX-2.jpg ( {{< google-photos-album-jpg >}} ):  
+    A stone monument ...
+1. IMG\_XXXX-2.jpg ( {{< google-photos-album-jpg >}} ):  
+    A panoramic photo taken at the entrance...
+
+
+### Sony α6500
+
+{{< gallery >}}
+  <img src="DSC0XXXX-Enhanced-NR.jpg" alt="DSC0XXXX-Enhanced-NR.jpg" class="grid-w60" />
+  <img src="DSC0XXXX-Enhanced-NR.jpg" alt="DSC0XXXX-Enhanced-NR.jpg" class="grid-w40" />
+{{< /gallery >}}
+
+1. DSC0XXXX-Enhanced-NR.jpg ( {{< google-photos-album-jpg >}} / {{< google-drive-raw >}} ):  
+    A photo of ... taken ...
+1. DSC0XXXX-Enhanced-NR.jpg ( {{< google-photos-album-jpg >}} / {{< google-drive-raw >}} ):  
+    A photo of ... taken ...
 
 
 ## Change History
