@@ -1,42 +1,23 @@
 +++
 title = 'About'
 date = 2024-02-12T14:47:50+09:00
+categories = ['']
+tags = ['']
+
 draft = false
 description = 'mktの自己紹介ページです。'
 
-showDate = true
-showViews = false
-showLikes = false
-showDateOnlyInArticle = false
-showDateUpdated = true
-showAuthor = true
-showHero = true
-heroStyle = "background"
-layoutBackgroundBlur = true
-layoutBackgroundHeaderSpace = true
-showBreadcrumbs = true
-showDraftLabel = true
-showEdit = false
-editAppendPath = false
-seriesOpened = false
-showHeadingAnchors = false
+# Params
 showPagination = false
-invertPagination = false
-showReadingTime = false
-showTableOfContents = true
 showRelatedContent = false
-relatedContentLimit = 3
-showTaxonomies = false
-showAuthorsBadges = false
-showWordCount = false
 sharingLinks = ['']
-showZenMode = false
 +++
 
 
-mktの個人ブログです。
+mktの個人ブログサイトです。
 
-コンピュータサイエンス、サイバーセキュリティ、旅行、写真の記事を投稿していく予定です。
+研究者だったり、技術者だったり、自由に働いています。
+旅行、写真、エンジニアリングの記事を投稿していく予定です。
 
 いずれも初心者ですのでお手柔らかに。
 
