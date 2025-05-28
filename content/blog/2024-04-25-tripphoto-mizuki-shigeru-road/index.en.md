@@ -74,7 +74,6 @@ The copyright of the yokai appearing in the photographs belongs to MIZUKI Produc
 
 ## Photo Details
 
-
 ### iPhone 12 mini
 
 {{< gallery >}}
