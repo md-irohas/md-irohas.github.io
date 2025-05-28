@@ -2,7 +2,7 @@
 
 This repository contains files for mkt's web site (mkt's sidenotes).
 
-URL: https://md-irohas.pages.dev/
+URL: https://mkt-sidenotes.dev/
 
 This README is just a note for me.
 
