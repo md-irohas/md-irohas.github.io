@@ -36,7 +36,7 @@ With my camera in hand, I wandered the dunes for what ended up being nearly two
 hours.
 
 Standing at the top, gazing out over the wild Sea of Japan, I felt as if I’d
-stepped into another world—briefly removed from everyday life.
+stepped into another world -- briefly removed from everyday life.
 
 
 ## Gallery
