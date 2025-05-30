@@ -23,3 +23,8 @@ content/
     |- gallery/     Photo gallery
 ```
 
+
+## Resources
+
+- Bootstrap Icons: https://icons.getbootstrap.com/
+    - SVG files in `assets/icons/` are Bootstrap Icons ([MIT License](assets/icons/LICENSE))
