@@ -9,6 +9,7 @@ description = 'XXXX年X月に〜した〜の記事です。'
 
 draft = true
 
+# Params
 googlePhotoUrl = '#'
 googleDriverl = '#'
 +++
