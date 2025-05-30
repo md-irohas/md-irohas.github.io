@@ -3,22 +3,28 @@
 all:
 
 
-# run a development server
-.PHONY: server-dev
-server-dev:
-	hugo server --buildDrafts
-
-
 # run a server
 .PHONY: server
 server:
 	hugo server
 
 
+# run a development server
+.PHONY: server-dev
+server-dev:
+	hugo server --buildDrafts
+
+
 # build web site
 .PHONY: build
 build:
-	hugo
+	hugo build --environment=production
+
+
+# build web site in development mode
+.PHONY: build-dev
+build-dev:
+	hugo build --environment=development
 
 
 # remove public directory
