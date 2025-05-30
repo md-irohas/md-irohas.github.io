@@ -1,0 +1,3 @@
+# -- Site Configuration for production --
+baseURL = "https://mkt-sidenotes.dev/"
+googleAnalytics = "G-KD6X9VVGTN"
