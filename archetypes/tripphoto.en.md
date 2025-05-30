@@ -1,7 +1,7 @@
 +++
 title = 'XXX (Month, Year)'
 date = '{{ now.Format "2006-01-02" }}'
-categories = ['Blog (Photo Trip)']
+categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', '<Prefecture>', '<Place>']
 
 isCJKLanguage = false
