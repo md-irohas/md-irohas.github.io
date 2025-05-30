@@ -44,7 +44,7 @@ draft = false
 {{< timeline >}}
 
 
-{{< timelineItem header="東京 → 浜名湖SA" icon="car-front-fill" >}}
+{{< timelineItem header="東京（自宅） → 浜名湖SA" icon="car-front-fill" >}}
 夜に東京を出発して浜名湖SAまで移動しました。
 {{< /timelineItem >}}
 
@@ -121,7 +121,7 @@ draft = false
 {{< /timelineItem >}}
 
 
-{{< timelineItem header="熊本県阿蘇市 → 東京" icon="car-front-fill" >}}
+{{< timelineItem header="熊本県阿蘇市 → 東京（自宅）" icon="car-front-fill" >}}
 本来はこの後の復路も観光を予定していたのですが、
 体調がすぐれなかったため、急いで東京へ戻りました。
 到着後、発熱して数日寝込みました。

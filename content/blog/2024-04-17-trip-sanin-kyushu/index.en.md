@@ -48,7 +48,7 @@ so I hope to set out on another journey to explore them in the near future.
 {{< timeline >}}
 
 
-{{< timelineItem header="Tokyo → Hamanako SA" icon="car-front-fill" >}}
+{{< timelineItem header="Tokyo (Home) → Hamanako SA" icon="car-front-fill" >}}
 I left Tokyo at night and drove to Hamanako Service Area.
 {{< /timelineItem >}}
 
@@ -127,7 +127,7 @@ and I visited several viewpoints along the route.<br><br>
 {{< /timelineItem >}}
 
 
-{{< timelineItem header="Aso City → Tokyo" icon="car-front-fill" >}}
+{{< timelineItem header="Aso City → Tokyo (Home)" icon="car-front-fill" >}}
 I had originally planned to do more sightseeing on the way back,
 but since I wasn't feeling well, I rushed back to Tokyo.
 After arriving, I came down with a fever and was bedridden for a few days.
