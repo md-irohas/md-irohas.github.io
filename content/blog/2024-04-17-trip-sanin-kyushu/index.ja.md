@@ -1,7 +1,7 @@
 +++
 title = '山陰・九州旅行（2024年3月）'
 date = '2024-04-17'
-categories = ['Blog（旅行）']
+categories = ['ブログ（旅行）']
 tags = ['旅のまとめ', '鳥取県', '島根県', '熊本県']
 
 isCJKLanguage = true
