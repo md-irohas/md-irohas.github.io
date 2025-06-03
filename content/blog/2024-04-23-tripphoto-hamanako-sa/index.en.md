@@ -17,11 +17,11 @@ googleDriveUrl = "https://drive.google.com/drive/folders/1k5F5J71Ct6AFP_Bn57EcqL
 
 ## Summary
 
-I dropped in at Hamana-ko (Lake Hamana) service area on my way to Tottori in
-March 2024.
+In late March 2024, I dropped in at Hamana-ko (Lake Hamana) service area on my
+way to Tottori
 
 At the back of the service area, there was a terrace and a grassy lawn, and
-from the terrace, I had a panoramic view of Lake Hamana."
+from the terrace, I had a panoramic view of Lake Hamana.
 
 
 ## Photos
@@ -75,8 +75,10 @@ from the terrace, I had a panoramic view of Lake Hamana."
 
 ## Change History
 
+- 2025/06/03: Revise sentences.
 - 2025/05/25: Modified contents and restructured the article.
 - 2024/06/13: Modified some sentences and meta info.
 - 2024/04/28: Added a license of photos. Fix links of photos.
 - 2024/04/23: First version.
+
 

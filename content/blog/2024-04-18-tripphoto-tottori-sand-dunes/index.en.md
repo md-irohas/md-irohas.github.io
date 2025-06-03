@@ -17,26 +17,22 @@ googleDriveUrl = "https://drive.google.com/drive/folders/1K9zUdPwhUa8U-_jj5lG94s
 
 ## Summary
 
-In March 2024, I stopped by the Tottori Sand Dunes while traveling through
-the San'in region.
+In late March 2024, while traveling through the San'in region, I made a stop at
+the Tottori Sand Dunes.
 
-Just the day before, the Sea of Japan coast had been hit by a fierce snowstorm.
-But when I arrived, I was lucky enough to catch a break in the clouds, with
-patches of blue sky peeking through. Despite the biting wind, I was able to
-walk around the dunes without any trouble.
+Up until the day before, the Sea of Japan coast had been hit by blizzards and
+strong winds, but I got lucky -- right after I arrived, the clouds started to
+break up and there were even a few patches of blue sky.
+It was still cold and windy, but I was able to walk around the dunes.
 
-At first, seeing the dunes from a distance, I thought they looked smaller than
-expected. But that impression quickly changed once I set foot on them. The
-rolling landscape unfolding before me truly lived up to the name "sand dunes."
-The soft ground gave way under each step, and climbing up and down the sloping
-hills turned out to be far more dynamic than I had imagined—like a natural
-playground shaped entirely by the wind.
+From a distance, the dunes looked smaller than I expected, but once I stepped
+onto them, I realized just how huge they really are -- definitely deserving the
+name "sand dunes.”
 
-With my camera in hand, I wandered the dunes for what ended up being nearly two
-hours.
-
-Standing at the top, gazing out over the wild Sea of Japan, I felt as if I’d
-stepped into another world -- briefly removed from everyday life.
+That feeling of trudging step by step through the soft sand, and the view of
+the stormy Sea of Japan from the top of the dunes -- it all felt a bit surreal,
+like stepping out of everyday life for a moment.
+I really enjoyed it.
 
 
 ## Gallery
@@ -100,6 +96,7 @@ stepped into another world -- briefly removed from everyday life.
 
 ## Change History
 
+- 2025/06/03: Revise sentences.
 - 2025/05/24: Rewrote the article. Restructured the article.
 - 2024/06/27: Small fixes.
 - 2024/04/28: Fixed links of photos.

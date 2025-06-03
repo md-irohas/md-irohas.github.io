@@ -17,17 +17,23 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1LrCXln1u4rltAc9Yuk3ARJ
 
 ## Summary
 
-I visited the Izumo Hinomisaki Lighthouse in Shimane Prefecture in March 2024.
+In late March 2024, I visited the Hinomisaki Lighthouse in Izumo, Shimane
+Prefecture.
 
-The lighthouse is a Western-style white stone lighthouse built in 1903 (Meiji 36).
-It was designated as an Important Cultural Property of Japan in 2022.
-Standing 43.65 meters above ground and 63.3 meters above sea level, it is the
-tallest stone lighthouse in Japan.
+Hinomisaki Lighthouse is a white, Western-style stone lighthouse built in 1903
+(Meiji 36).
+Standing 43.65 meters tall from the ground and 63.3 meters above sea level,
+it's said to be the tallest stone lighthouse in Japan.
 
-As of March 2024, the interior of the lighthouse is open to the public,
-and visitors can tour it for 300 yen per adult.
-A steep spiral staircase with 163 steps leads to the observation deck,
-where visitors can enjoy a panoramic view of the Sea of Japan.
+As of March 2024, the inside of the lighthouse was open to the public, and I
+was able to go in for 300 yen.
+There were 163 steep spiral steps inside -- and near the top, it pretty much
+turned into a ladder.
+I climbed all the way up, and from the observation deck, I got a stunning view
+of the Sea of Japan.
+
+That said, it was incredibly windy the day I visited, and I honestly got so
+nervous that I couldn't bring myself to walk around the deck...
 
 
 ## Gallery
@@ -103,6 +109,7 @@ where visitors can enjoy a panoramic view of the Sea of Japan.
 
 ## Change History
 
+- 2025/06/04: Revise sentences.
 - 2025/05/26: Restructured the article.
 - 2024/06/28: Modified some sentences and meta info. Added a map.
 - 2024/04/28: First version.

@@ -17,21 +17,25 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/19Fbfx3dihUcgKf4hSbg2zO
 
 ## Summary
 
-In March 2024, I visited Mizuki Shigeru Road in Sakaiminato City, Tottori
-Prefecture.
+In late March 2024, I took a walk through Mizuki Shigeru Road in Sakaiminato
+City, Tottori Prefecture.
 
-Mizuki Shigeru Road is a popular tourist destination that brings to life the
-world of manga artist Shigeru Mizuki, best known for GeGeGe no Kitaro. Lining
-the street are around 180 bronze statues of
-[yokai](https://en.wikipedia.org/wiki/Y%C5%8Dkai) -- Japanese spirits and
-monsters -- greeting visitors with their eerie charm.
+Mizuki Shigeru Road is a themed street based on the world of
+[yokai](https://en.wikipedia.org/wiki/Y%C5%8Dkai) (Japanese spirits and
+monsters) created by manga artist Shigeru Mizuki, best known for GeGeGe no
+Kitaro.
+The street is lined with about 180 bronze statues of yokai characters,
+welcoming visitors into their strange and quirky world.
 
-Unfortunately, the Mizuki Shigeru Memorial Museum was closed on the day I
-visited, so I focused on exploring the road itself.
+Unfortunately, the Mizuki Shigeru Memorial Museum was closed the day I visited,
+so I just strolled along the street and enjoyed the atmosphere there.
 
-Mizuki Shigeru Road truly comes alive after sunset. The street is bathed in an
-otherworldly glow, and the yokai statues take on a completely different
-presence -- mysterious, expressive, and just a little haunting in the night.
+If you visit, I highly recommend walking the road once during the day -- and
+then again after sunset.
+At night, the street is lit up, and the yokai take on a completely different
+vibe in the darkness.
+It's a totally unique experience, and the contrast between day and night adds a
+lot to the charm.
 
 
 ## Gallery
@@ -121,6 +125,7 @@ I didn't take notes of the statue names, so I'll skip the explanations.
 
 ## Change History
 
+- 2025/06/04: Revise sentences.
 - 2025/05/26: Modified contents and restructured the article.
 - 2024/06/28: Modified some sentences and meta info.
 - 2024/04/28: Fixed links of photos.

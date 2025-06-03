@@ -17,25 +17,21 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/15jre1iIevkJH19ELPdTYY3
 
 ## Summary
 
-In March 2024, I visited Mt. Aso in Kumamoto Prefecture.
+In late March 2024, I visited Mount Aso in Kumamoto Prefecture.
 
-Mt. Aso is one of Japan’s most active volcanoes.
-Visitors can witness its smoking crater, vast caldera landscape, and the
-dramatic outer rim mountains that surround it.
+Mount Aso is one of Japan’s most active volcanoes.
+You can usually see smoke rising from the crater, along with the massive
+caldera landscape that stretches around it, and the impressive outer rim
+mountains that surround the whole area.
 
-When I visited, access to the crater area was restricted.
-Instead, I explored the scenic drive known as the “Milk Road,” which winds
+When I went, access to the crater itself was restricted,
+so instead I explored the scenic viewpoints along the "Milk Road" that runs
 along the outer rim.
-The greatest charm of this route is the incredible sense of openness:
-grasslands stretching out on both sides, uninterrupted skies above, and a
-distant view of the volcanic crater.
-I was fortunate to have clear weather, which made for some truly breathtaking
-views.
 
-Among all the viewpoints, Daikanbo stood out the most.
-From the viewing area there, a sweeping panorama of the caldera floor and
-surrounding mountains unfolded before me -- an unforgettable sight that filled
-the entire field of vision.
+Endless grasslands on both sides, unobstructed views, smoke rising from Mount
+Aso in the distance...
+With the weather on my side, I was able to fully enjoy the breathtaking scenery
+of the Aso caldera.
 
 
 ## Gallery
@@ -103,6 +99,7 @@ the entire field of vision.
 
 ## Change History
 
+- 2025/06/04: Revise sentences.
 - 2025/05/28: Modified contents, added photos of iPhone, and restructured the article.
 - 2024/06/28: Modified some sentences and meta info.
 - 2024/05/04: First version.
