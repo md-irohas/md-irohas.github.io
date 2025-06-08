@@ -9,7 +9,7 @@ set -eu
 ##########################################################################
 
 magick_cmd="magick"
-copyright="© 2024 mkt (md.irohas@gmail.com)"
+copyright="© 2025 mkt (md.irohas@gmail.com)"
 image_size="2560x1440^"
 image_quality=75
 
