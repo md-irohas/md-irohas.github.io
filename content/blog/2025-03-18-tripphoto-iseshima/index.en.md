@@ -5,7 +5,7 @@ categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Mie', 'Iseshima', 'Toba Observatory Ama-no-Terrace', 'Yokoyama Observatory Deck']
 
 isCJKLanguage = false
-description = 'An article about ... I visited in ...'
+description = 'An article about Iseshima I visited in March 2025.'
 
 draft = false
 
