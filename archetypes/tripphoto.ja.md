@@ -11,7 +11,7 @@ draft = true
 
 # Params
 googlePhotoUrl = '#'
-googleDriverl = '#'
+googleDriveUrl = '#'
 +++
 
 
