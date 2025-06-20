@@ -1,0 +1,7 @@
+User-agent: *
+Sitemap: https://mkt-sidenotes.dev/sitemap.xml
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /ja/tags/
+Disallow: /ja/categories/
+Allow: /
