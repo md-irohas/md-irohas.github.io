@@ -1,5 +1,5 @@
 +++
-title = 'Trip to San-in & Kyushu (March, 2024)'
+title = 'Trip Recap: San-in & Kyushu (March, 2024)'
 date = '2024-04-17'
 categories = ['Blog (Trip)']
 tags = ['Trip Recap', 'Tottori', 'Shimane', 'Kumamoto']

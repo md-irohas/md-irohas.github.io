@@ -1,5 +1,5 @@
 +++
-title = 'Mt. Aso (March, 2024)'
+title = 'Trip Photo: Mt. Aso (March, 2024)'
 date = '2024-05-04'
 categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Kumamoto', 'Mt. Aso', 'Milk Road', 'Daikanbo']
