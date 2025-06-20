@@ -14,15 +14,18 @@ sharingLinks = ['']
 +++
 
 
-This is an mkt's personal web site.
+Welcome to mkt's personal website.
 
 I am a researcher, an engineer, a workaholic, and a nomad.
-I will post articls about travels, photos, and techs.
+
+I will post articles about travels, photos, and techs.
 
 I'm a beginner in the shell.
 
 
-## Photo equipment
+## My Gears
+
+### Photography
 
 - Camera: Sony α6500
 - Lens:

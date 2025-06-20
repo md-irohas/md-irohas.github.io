@@ -16,6 +16,10 @@ showRelatedContent = false
 +++
 
 
+This is the mkt's photo gallery.
+
+Selected photos taken by mkt are on display, grouped by year.
+
 {{< alert icon="circle-info" >}}
 Photos in this gallery are shrinked and compressed in order to reduce server load.
 The original files are available on blog posts.

@@ -11,7 +11,7 @@ title = "mkt's sidenotes"
   dateFormat = "2006-01-02"
   # logo = ""
   # secondaryLogo = ""
-  description = "mktの断片的な覚書きです。旅行写真の記事を公開する予定です。"
+  description = "mktの個人的な覚書きです。"
   copyright = "© 2025 mkt"
 
 [params.author]
