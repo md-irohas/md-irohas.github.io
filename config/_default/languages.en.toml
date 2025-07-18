@@ -11,7 +11,7 @@ title = "mkt's sidenotes"
   dateFormat = "2 January 2006"
   # logo = ""
   # secondaryLogo = ""
-  description = "mkt's personal sidenodes in the shell."
+  description = "mkt's personal sidenodes."
   copyright = "© 2025 mkt"
 
 [params.author]
