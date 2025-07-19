@@ -1,6 +1,6 @@
-# mkt's site
+# mkt's sidenotes
 
-This repository contains files for mkt's web site (mkt's sidenotes).
+This repository contains files for mkt's website (mkt's sidenotes).
 
 URL: https://mkt-sidenotes.dev/
 
@@ -26,5 +26,9 @@ content/
 
 ## Resources
 
+The followings are external rosources I used in this website.
+
 - Bootstrap Icons: https://icons.getbootstrap.com/
     - SVG files in `assets/icons/` are Bootstrap Icons ([MIT License](assets/icons/LICENSE))
+
+
