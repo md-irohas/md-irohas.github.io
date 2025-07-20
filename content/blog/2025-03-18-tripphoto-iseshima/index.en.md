@@ -15,7 +15,7 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1SSRXTsav0iwnniD9OV1kKb
 +++
 
 
-## Sumamry
+## Summary
 
 In March 2025, I took a drive along the Iseshima Skyline and continued on the
 Pearl Road to explore the Ise-Shima area.

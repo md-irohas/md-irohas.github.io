@@ -15,7 +15,7 @@ googleDriveUrl = ''
 +++
 
 
-## Sumamry
+## Summary
 
 Some sentences...
 

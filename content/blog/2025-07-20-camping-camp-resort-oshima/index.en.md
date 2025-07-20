@@ -15,7 +15,7 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1yEnrWX32ib-ChWhSRrkNTP
 +++
 
 
-## Sumamry
+## Summary
 
 In March 2025, I stayed one night at a campsite called Nanki Kushimoto Resort
 Oshima while traveling along the coastline of Wakayama Prefecture.

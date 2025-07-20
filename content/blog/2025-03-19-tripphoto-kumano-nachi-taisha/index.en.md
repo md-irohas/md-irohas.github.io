@@ -15,7 +15,7 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1OwB9EZJ442IfOmjuN-TTa1
 +++
 
 
-## Sumamry
+## Summary
 
 In March 2025, I visited Kumano Nachi Taisha in Wakayama Prefecture.
 

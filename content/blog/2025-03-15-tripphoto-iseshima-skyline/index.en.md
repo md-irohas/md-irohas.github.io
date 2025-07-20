@@ -15,7 +15,7 @@ googleDriverl = 'https://drive.google.com/drive/folders/1Mu0Ws50iwn264XI5B4V5-U8
 +++
 
 
-## Sumamry
+## Summary
 
 In March 2025, after visiting Ise Shrine, I drove along the Iseshima Skyline.
 
