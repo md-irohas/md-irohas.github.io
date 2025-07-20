@@ -74,9 +74,9 @@ here again.
 {{< /gallery >}}
 
 1. DSC05882-Enhanced-NR.jpg ( {{< google-photos-album-jpg >}} / {{< google-drive-raw >}} ):  
-   SIGMA 16mm F1.4 DC DN (Kenko MC Prosofton (N) A + Kenko Starry Night) / F1.4 / ISO3200 / 15s / Lightroom現像
+   SIGMA 16mm F1.4 DC DN (Kenko MC Prosofton (N) A + Kenko Starry Night) / F1.4 / ISO3200 / 15s / Edited in Lightroom
 1. DSC05932-Enhanced-NR-2.jpg ( {{< google-photos-album-jpg >}} / {{< google-drive-raw >}} ):  
-   SIGMA 16mm F1.4 DC DN (Kenko MC Prosofton (N) A + Kenko Starry Night) / F1.4 / ISO3200 / 15s / Lightroom現像
+   SIGMA 16mm F1.4 DC DN (Kenko MC Prosofton (N) A + Kenko Starry Night) / F1.4 / ISO3200 / 15s / Edited in Lightroom
 
 
 ## Change History
