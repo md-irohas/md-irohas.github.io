@@ -5,7 +5,7 @@ categories = ['ブログ（旅行）']
 tags = ['旅のまとめ', '〜〜県']
 
 isCJKLanguage = true
-description = '20XX年X月の〜〜地方ぶらり旅のまとめです。'
+description = '<ChatGPTによる要約>'
 
 draft = false
 

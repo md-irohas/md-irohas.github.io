@@ -5,7 +5,7 @@ categories = ['ブログ（旅行写真）']
 tags = ['旅行', '写真', '<都道府県>', '<場所>']
 
 isCJKLanguage = true
-description = 'XXXX年X月に〜した〜の記事です。'
+description = '<ChatGPTによる要約>'
 
 draft = true
 

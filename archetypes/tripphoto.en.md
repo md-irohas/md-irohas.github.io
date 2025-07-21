@@ -5,7 +5,7 @@ categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', '<Prefecture>', '<Place>']
 
 isCJKLanguage = false
-description = 'An article about ... I visited in ...'
+description = '<Summary by ChatGPT>'
 
 draft = true
 
