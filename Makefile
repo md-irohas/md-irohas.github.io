@@ -3,6 +3,22 @@
 all:
 
 
+# create new content
+# e.g.)
+# 	make article KIND=trip SLUG=2025-01-01-trip-some-place
+.PHONY: article
+article:
+	@case "$(KIND)" in \
+		trip|tripphoto|camping) ;; \
+		*) echo "invalid kind: $(KIND)"; exit 1;; \
+	esac
+	@if [ -z "$(SLUG)" ]; then \
+		echo "empty slug."; exit 1; \
+	fi
+	hugo new content -k "$(KIND).en" blog/$(SLUG)/index.en.md
+	hugo new content -k "$(KIND).ja" blog/$(SLUG)/index.ja.md
+
+
 # run a server
 .PHONY: server
 server:
