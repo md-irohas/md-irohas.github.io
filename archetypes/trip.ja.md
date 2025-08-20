@@ -1,8 +1,8 @@
 +++
 title = '旅の記録: 〜〜（20XX年X月）'
 date = '{{ now.Format "2006-01-02" }}'
-categories = ['ブログ（旅行）']
-tags = ['旅のまとめ', '〜〜県']
+categories = ['ブログ（旅の記録）']
+tags = ['旅の記録', '〜〜県']
 
 isCJKLanguage = true
 description = '<ChatGPTによる要約>'
