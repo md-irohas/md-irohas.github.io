@@ -7,7 +7,7 @@ tags = ['旅行', '写真', '長崎県', 'ペンギン水族館']
 isCJKLanguage = true
 description = '🐧 2025年3月に訪れた長崎ペンギン水族館の記事です。ペンギン可愛い。'
 
-draft = true
+draft = false
 
 # Params
 googlePhotoUrl = 'https://photos.app.goo.gl/7xha8tf4f2DUipzt7'

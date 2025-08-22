@@ -7,7 +7,7 @@ tags = ['Trip', 'Photo', 'Nagasaki', 'Nagasaki Penguin Aquarium']
 isCJKLanguage = false
 description = "🐧 A blog post about my visit to the Nagasaki Penguin Aquarium in March 2025. The penguins were adorable."
 
-draft = true
+draft = false
 
 # Params
 googlePhotoUrl = 'https://photos.app.goo.gl/7xha8tf4f2DUipzt7'
