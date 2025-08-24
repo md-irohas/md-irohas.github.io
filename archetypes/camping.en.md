@@ -15,57 +15,48 @@ googleDriveUrl = ''
 +++
 
 
-## Summary
+## Story
 
-Some sentences...
+In \<Month\> \<Year\>, ...
+
+> The main story includes maps, photos, and links.
+
+{{< google-maps "" >}}
+
+{{< figure
+    src="IMG_XXXX.jpg"
+    alt="IMG_XXXX.jpg"
+    caption="Photo Caption"
+    class="grid-w50"
+    >}}
 
 
 ## Gallery
 
-{{% creative-commons lang="en" license="by-nc-sa" %}}
+{{< creative-commons lang="en" license="by-nc-sa" >}}
+
+{{< google-photos-album lang="en" >}}
+
+
+### iPhone 12 mini
 
 {{< gallery >}}
-  <img src="IMG_XXXX-2.jpg" alt="IMG_XXXX-2.jpg" class="grid-w50" />
-  <img src="IMG_XXXX-2.jpg" alt="IMG_XXXX-2.jpg" class="grid-w50" />
+  <img src="IMG_XXXX.jpg" alt="IMG_XXXX.jpg" class="grid-w50" />
+  <img src="IMG_XXXX.jpg" alt="IMG_XXXX.jpg" class="grid-w50" />
+{{< /gallery >}}
 
+
+### α6500
+
+{{< gallery >}}
   <img src="DSC0XXXX-Enhanced-NR.jpg" alt="DSC0XXXX-Enhanced-NR.jpg" class="grid-w60" />
   <img src="DSC0XXXX-Enhanced-NR.jpg" alt="DSC0XXXX-Enhanced-NR.jpg" class="grid-w40" />
 {{< /gallery >}}
-
-{{< google-photos-album lang="en" >}}
 
 
 ## Map
 
 {{< google-maps "#" >}}
-
-
-## Photo Details
-
-### iPhone 12 mini
-
-{{< gallery >}}
-  <img src="IMG_XXXX-2.jpg" alt="IMG_XXXX-2.jpg" class="grid-w50" />
-  <img src="IMG_XXXX-2.jpg" alt="IMG_XXXX-2.jpg" class="grid-w50" />
-{{< /gallery >}}
-
-1. IMG\_XXXX-2.jpg ( {{< google-photos-album-jpg >}} ):  
-    A stone monument ...
-1. IMG\_XXXX-2.jpg ( {{< google-photos-album-jpg >}} ):  
-    A panoramic photo taken at the entrance...
-
-
-### Sony α6500
-
-{{< gallery >}}
-  <img src="DSC0XXXX-Enhanced-NR.jpg" alt="DSC0XXXX-Enhanced-NR.jpg" class="grid-w50" />
-  <img src="DSC0XXXX-Enhanced-NR.jpg" alt="DSC0XXXX-Enhanced-NR.jpg" class="grid-w50" />
-{{< /gallery >}}
-
-1. DSC0XXXX-Enhanced-NR.jpg ( {{< google-photos-album-jpg >}} / {{< google-drive-raw >}} ):  
-    A photo of ... taken ...
-1. DSC0XXXX-Enhanced-NR.jpg ( {{< google-photos-album-jpg >}} / {{< google-drive-raw >}} ):  
-    A photo of ... taken ...
 
 
 ## Change History

@@ -29,14 +29,16 @@ In \<Month\> \<Year\>, ...
 {{< figure
     src="IMG_XXXX.jpg"
     alt="IMG_XXXX.jpg"
-    caption="Image Caption"
+    caption="Photo Caption"
     class="grid-w50"
     >}}
 
 
 ## Gallery
 
-{{% creative-commons lang="en" license="by-nc-sa" %}}
+{{< creative-commons lang="en" license="by-nc-sa" >}}
+
+{{< google-photos-album lang="en" >}}
 
 
 ### iPhone 12 mini
@@ -45,8 +47,6 @@ In \<Month\> \<Year\>, ...
   <img src="IMG_XXXX.jpg" alt="IMG_XXXX.jpg" class="grid-w50" />
   <img src="IMG_XXXX.jpg" alt="IMG_XXXX.jpg" class="grid-w50" />
 {{< /gallery >}}
-
-{{< google-photos-album lang="en" >}}
 
 
 ### α6500

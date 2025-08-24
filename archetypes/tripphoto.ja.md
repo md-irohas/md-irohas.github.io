@@ -29,7 +29,7 @@ googleDriveUrl = ''
 {{< figure
     src="IMG_XXXX.jpg"
     alt="IMG_XXXX.jpg"
-    caption="Image Caption"
+    caption="Photo Caption"
     class="grid-w50"
     >}}
 
@@ -38,6 +38,8 @@ googleDriveUrl = ''
 
 {{< creative-commons lang="ja" license="by-nc-sa" >}}
 
+{{< google-photos-album lang="ja" >}}
+
 
 ### iPhone 12 mini
 
@@ -45,8 +47,6 @@ googleDriveUrl = ''
   <img src="IMG_XXXX-2.jpg" alt="IMG_XXXX-2.jpg" class="grid-w50" />
   <img src="IMG_XXXX-2.jpg" alt="IMG_XXXX-2.jpg" class="grid-w50" />
 {{< /gallery >}}
-
-{{< google-photos-album lang="ja" >}}
 
 
 ### α6500
