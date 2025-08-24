@@ -10,48 +10,34 @@ description = '<ChatGPTによる要約>'
 draft = true
 
 # Params
-googlePhotoUrl = '#'
-googleDriveUrl = '#'
+googlePhotoUrl = ''
+googleDriveUrl = ''
 +++
 
 
-## 概要
+## ストーリー
 
-説明文...
+> 202X年X月、...
+
+
+### \<場所\>
+
+> マップ、画像、リンクなどを含む記事を書きます。
+
+{{< google-maps "" >}}
+
+{{< figure
+    src="IMG_XXXX.jpg"
+    alt="IMG_XXXX.jpg"
+    caption="Image Caption"
+    class="grid-w50"
+    >}}
 
 
 ## ギャラリー
 
 {{< creative-commons lang="ja" license="by-nc-sa" >}}
 
-{{< gallery >}}
-  <img src="IMG_XXXX-2.jpg" alt="IMG_XXXX-2.jpg" class="grid-w50" />
-  <img src="IMG_XXXX-2.jpg" alt="IMG_XXXX-2.jpg" class="grid-w50" />
-
-  <img src="DSC0XXXX-Enhanced-NR.jpg" alt="DSC0XXXX-Enhanced-NR.jpg" class="grid-w60" />
-  <img src="DSC0XXXX-Enhanced-NR.jpg" alt="DSC0XXXX-Enhanced-NR.jpg" class="grid-w40" />
-{{< /gallery >}}
-
-{{< google-photos-album lang="ja" >}}
-
-
-## マップ
-
-### <場所>
-
-Google Mapのiframe（640x480）
-
-{{< google-maps "#" >}}
-
-
-### 場所一覧
-
-Google My Mapのiframe（640x480）
-
-{{< google-my-maps "#" >}}
-
-
-## 写真の詳細
 
 ### iPhone 12 mini
 
@@ -60,23 +46,27 @@ Google My Mapのiframe（640x480）
   <img src="IMG_XXXX-2.jpg" alt="IMG_XXXX-2.jpg" class="grid-w50" />
 {{< /gallery >}}
 
-1. IMG\_XXXX-2.jpg ( {{< google-photos-album-jpg >}} ):  
-    ...の写真です。
-1. IMG\_XXXX-2.jpg ( {{< google-photos-album-jpg >}} ):  
-    ...のパノラマ写真です。
+{{< google-photos-album lang="ja" >}}
 
 
-### Sony α6500
+### α6500
 
 {{< gallery >}}
   <img src="DSC0XXXX-Enhanced-NR.jpg" alt="DSC0XXXX-Enhanced-NR.jpg" class="grid-w60" />
   <img src="DSC0XXXX-Enhanced-NR.jpg" alt="DSC0XXXX-Enhanced-NR.jpg" class="grid-w40" />
 {{< /gallery >}}
 
-1. DSC0XXXX-Enhanced-NR.jpg ( {{< google-photos-album-jpg >}} / {{< google-drive-raw >}} ):  
-    ...の写真です。
-1. DSC0XXXX-Enhanced-NR.jpg ( {{< google-photos-album-jpg >}} / {{< google-drive-raw >}} ):  
-    ...の写真です。
+
+## マップ
+
+### \<場所\>
+
+{{< google-maps "#" >}}
+
+
+### 場所一覧
+
+{{< google-my-maps "#" >}}
 
 
 ## 編集履歴
