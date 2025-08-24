@@ -157,6 +157,8 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1YZi6YZ-eDuyQ-MLbn_jwIH
 
 {{< creative-commons lang="ja" license="by-nc-sa" >}}
 
+{{< google-photos-album lang="ja" >}}
+
 
 ### iPhone 12 mini
 
@@ -170,8 +172,6 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1YZi6YZ-eDuyQ-MLbn_jwIH
 <img src="IMG_3357.jpg" alt="IMG_3357.jpg" class="grid-w33" />
 <img src="IMG_3358.jpg" alt="IMG_3358.jpg" class="grid-w33" />
 {{< /gallery >}}
-
-{{< google-photos-album lang="ja" >}}
 
 
 ### α6500
