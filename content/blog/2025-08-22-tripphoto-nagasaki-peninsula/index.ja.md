@@ -182,6 +182,8 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1YZi6YZ-eDuyQ-MLbn_jwIH
 <img src="DSC05965-Enhanced-NR.jpg" alt="DSC05965-Enhanced-NR.jpg" class="grid-w50" />
 {{< /gallery >}}
 
+{{< google-drive-photo-raw lang="ja" >}}
+
 
 ## マップ
 

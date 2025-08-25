@@ -186,6 +186,8 @@ The highlight for me was the moving dinosaur robot on the second floor -- it was
 <img src="DSC05965-Enhanced-NR.jpg" alt="DSC05965-Enhanced-NR.jpg" class="grid-w50" />
 {{< /gallery >}}
 
+{{< google-drive-photo-raw lang="en" >}}
+
 
 ## Map
 
