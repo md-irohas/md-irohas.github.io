@@ -1,0 +1,11 @@
+
+{{- $lang := .Get "lang" -}}
+
+<p style="font-style: italic; text-align: right;">
+{{- if eq $lang "ja" -}}
+RAW画像は<a href="{{ .Page.Params.googleDriveUrl }}" target="_blank">こちら</a>。
+{{- else -}}
+You can download the RAW images <a href="{{ .Page.Params.googleDriveUrl }}" target="_blank">here</a>.
+{{- end -}}
+</p>
+

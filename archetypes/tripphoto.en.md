@@ -56,6 +56,8 @@ In \<Month\> \<Year\>, ...
   <img src="DSC0XXXX-Enhanced-NR.jpg" alt="DSC0XXXX-Enhanced-NR.jpg" class="grid-w40" />
 {{< /gallery >}}
 
+{{< google-drive-photo-raw lang="en" >}}
+
 
 ## Map
 
