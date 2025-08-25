@@ -204,6 +204,7 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1YZi6YZ-eDuyQ-MLbn_jwIH
 
 ## 編集履歴
 
+- 2025/08/25: RAW画像へのリンクを追加。
 - 2025/08/24: 初稿作成。
 
 

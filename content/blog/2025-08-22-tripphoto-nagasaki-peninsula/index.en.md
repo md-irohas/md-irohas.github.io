@@ -208,6 +208,7 @@ The highlight for me was the moving dinosaur robot on the second floor -- it was
 
 ## Change History
 
+- 2025/08/25: Add a link to RAW images.
 - 2025/08/24: First version.
 
 
