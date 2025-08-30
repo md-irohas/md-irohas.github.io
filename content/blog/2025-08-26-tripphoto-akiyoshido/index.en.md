@@ -207,6 +207,23 @@ Since tripods aren't practical along the walkway,
 I relied on a bright prime lens with an aperture of f/1.4.
 
 
+{{< alert icon="circle-info" >}}
+
+A fast (wide-aperture) lens is recommended for taking photos inside the cave.
+
+Although the cave is illuminated, it's still very dark,
+so bringing a lens that handles low light will make shooting much easier.
+<br>
+I used an f/1.4 prime lens.
+I also tried a telephoto (Sony SEL18200LE),
+but in auto mode it called for about a 1-second exposure,
+which is difficult without a tripod
+(tripods should not be used inside the cave due to the narrow walkways).
+Even with an iPhone 12 mini, an exposure time of about 1 second was necessary.
+
+{{< /alert >}}
+
+
 ### Akiyoshidai Karst Observatory
 
 Because the Kurotani Entrance was some distance from the Akiyoshidai Karst Observatory,
