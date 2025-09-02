@@ -1,0 +1,30 @@
+
+.w25 {
+    width: calc(25% - 5px);
+    margin: 0px !important;
+}
+
+.w33 {
+    width: calc(33% - 5px);
+    margin: 0px !important;
+}
+
+.w50 {
+    width: calc(50% - 5px);
+    margin: 0px !important;
+}
+
+.w67 {
+    width: calc(67% - 5px);
+    margin: 0px !important;
+}
+
+.w75 {
+    width: calc(75% - 5px);
+    margin: 0px !important;
+}
+
+.w100 {
+    width: calc(100% - 5px);
+    margin: 0px !important;
+}
