@@ -1,0 +1,8 @@
+
+{{- $url := .Get "url" -}}
+{{- $width := .Get "width" | default "640" }}
+{{- $height := .Get "height" | default "480" }}
+
+<br>
+<iframe src="{{ $url }}" width="{{ $width }}" height="{{ $height }}" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<br>
