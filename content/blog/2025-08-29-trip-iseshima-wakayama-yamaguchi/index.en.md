@@ -20,7 +20,7 @@ In March 2025, just like last year, I took about two weeks off and went on a roa
 {{< google-my-maps "https://www.google.com/maps/d/embed?mid=1DyBsZw6VKng0PUMfvncx8UBHwofmsa4&ehbc=2E312F&noprof=1" >}}
 
 The total distance traveled was about 3,500 km.
-This time, I tried some new things, such as taking a ferry for part of the journey and staying at campgrounds.
+This year, I tried some new things, such as taking a ferry for part of the journey and staying at campgrounds.
 I visited places like Ise-Shima in Mie, Nachi Taisha and Shionomisaki in Wakayama, Nagasaki Peninsula, and Akiyoshido Cave in Yamaguchi.
 
 It was a physically demanding trip again this year,
@@ -90,8 +90,9 @@ If you want to take your time sightseeing, it's best to allow plenty of days.
 
 I visited both the Outer Shrine and Inner Shrine of Ise Jingu.
 
-<br>
-<br>
+<ul>
+    <li>Ise Jingu: <a href="https://www.isejingu.or.jp/en/" target="_blank">https://www.isejingu.or.jp/en/</a></li>
+</ul>
 
 As expected, Ise Jingu was very crowded even on a weekday.
 It was hard to take photos without people in them,
@@ -109,6 +110,10 @@ I had zenzai (sweet red bean soup) at the Akafuku main store.
 It had been a while since I had sweet red bean paste, and it was delicious.
 I thought about buying Akafuku mochi as a souvenir,
 but the shelf life was short (only two days), so I gave up.
+
+<ul>
+    <li>Akafuku: <a href="https://www.akafuku.co.jp/en/" target="_blank">https://www.akafuku.co.jp/en/</a></li>
+</ul>
 
 {{< figure
     src="IMG_3119.jpg"
@@ -227,7 +232,7 @@ Wakayama was much bigger than I expected...
 I stopped by the Umigame Aquarium in Kiho Town, Mie Prefecture.
 
 <ul>
-    <li>Official Website: <a href="https://umigame.info/" target="_blank">https://umigame.info/</a></li>
+    <li>Umigame Aquarium: <a href="https://umigame.info/" target="_blank">https://umigame.info/</a></li>
 </ul>
 
 {{< google-maps-2

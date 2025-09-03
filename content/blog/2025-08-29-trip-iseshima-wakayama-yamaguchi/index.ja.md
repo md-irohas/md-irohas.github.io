@@ -20,7 +20,7 @@ draft = false
 {{< google-my-maps "https://www.google.com/maps/d/embed?mid=1DyBsZw6VKng0PUMfvncx8UBHwofmsa4&ehbc=2E312F&noprof=1" >}}
 
 全行程の総移動距離は約3500km。
-今回は一部フェリーを使ったり、キャンプ場に宿泊したりと、新しいことを試しつつ、
+今年は一部フェリーを使ったり、キャンプ場に宿泊したりと、新しいことを試しつつ、
 三重県の伊勢志摩、和歌山県の那智大社・潮岬、長崎県の長崎半島、山口県の秋芳洞等を巡ってきました。
 
 今年も体力的にハードな旅でしたが、
@@ -93,8 +93,9 @@ draft = false
 
 伊勢神宮の外宮と内宮を参拝しました。
 
-<br>
-<br>
+<ul>
+    <li>伊勢神宮: <a href="https://www.isejingu.or.jp/" target="_blank">https://www.isejingu.or.jp/</a></li>
+</ul>
 
 流石の伊勢神宮で、平日にも関わらずとても混雑していました。
 どうしても人が写真に入り込んでしまうため、公開できる写真はほとんどありません。
@@ -111,7 +112,9 @@ draft = false
 赤福餅をお土産にしようかと思ったのですが、
 消費期限が短かった（確か翌日まで）ので断念しました。
 
-<br>
+<ul>
+    <li>伊勢名物 赤福: <a href="https://www.akafuku.co.jp/" target="_blank">https://www.akafuku.co.jp/</a></li>
+</ul>
 
 {{< figure
     src="IMG_3119.jpg"
@@ -226,7 +229,7 @@ draft = false
 三重県紀宝町のウミガメ水族館に立ち寄りました。
 
 <ul>
-    <li>公式Webサイト: <a href="https://umigame.info/" target="_blank">https://umigame.info/</a></li>
+    <li>ウミガメ水族館: <a href="https://umigame.info/" target="_blank">https://umigame.info/</a></li>
 </ul>
 
 {{< google-maps-2
