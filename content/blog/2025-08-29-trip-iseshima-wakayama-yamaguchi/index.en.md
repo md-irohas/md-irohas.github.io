@@ -6,6 +6,7 @@ tags = ['Trip Recap', 'Mie', 'Wakayama', 'Nagasaki', 'Yamaguchi']
 
 isCJKLanguage = false
 description = '🚙 A blog post about my trip to Mie, Wakayama, Nagasaki, and Yamaguchi in March 2025.'
+summary = '📍 Ise Jingu, Iseshima Skyline, Iseshima, Kumano Nachi Taisha, Shionomisaki, Nagasaki Peninsula, Akiyosido'
 
 draft = false
 

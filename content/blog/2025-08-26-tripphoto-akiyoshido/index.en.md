@@ -2,10 +2,11 @@
 title = 'Trip Photo: Akiyoshido Cave (March, 2025)'
 date = '2025-08-26'
 categories = ['Blog (Trip Photo)']
-tags = ['Trip', 'Photo', 'Yamaguchi', 'Akiyoshido Cave', 'Akiyoshidai Karst Observatory']
+tags = ['Trip', 'Photo', 'Yamaguchi', 'Cave', 'Grassland']
 
 isCJKLanguage = false
 description = '🔦 A blog post about my visit to Akiyoshido Cave in March 2025. It was a fantastical and majestic space.'
+summary  = '📍 Akiyoshido, Akiyoshidai Karst Observatory'
 
 draft = false
 

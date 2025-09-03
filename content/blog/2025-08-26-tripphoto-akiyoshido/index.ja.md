@@ -2,11 +2,11 @@
 title = '旅の写真: 秋芳洞（2025年3月）'
 date = '2025-08-26'
 categories = ['ブログ（旅の写真）']
-tags = ['旅行', '写真', '山口県', '秋芳洞', '秋吉台展望台']
+tags = ['旅行', '写真', '山口県', '洞窟', '草原']
 
 isCJKLanguage = true
 description = '🔦 2025年3月に訪れた秋芳洞の記事です。幻想的で雄大な空間でした。'
-
+summary = '📍 秋芳洞、秋吉台展望台'
 draft = false
 
 # Params
