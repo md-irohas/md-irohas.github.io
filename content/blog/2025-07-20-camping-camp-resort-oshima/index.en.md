@@ -2,10 +2,11 @@
 title = 'Camping: Camp Resort Ohshima (March, 2025)'
 date = '2025-07-20'
 categories = ['Blog (Camping)']
-tags = ['Camping', 'Photo', 'Wakayama', 'Camp Resort Ohshima']
+tags = ['Camping', 'Photo', 'Wakayama', 'Sea', 'Starry Night']
 
 isCJKLanguage = false
-description = 'An article about camping I stayed in March, 2025.'
+description = '🏕️ An article about camping I stayed in March, 2025.'
+summary = '📍 Camp Resort Ohshima'
 
 draft = false
 
@@ -81,6 +82,5 @@ here again.
 
 ## Change History
 
+- 2025/09/04: Reconsider tags.
 - 2025/07/20: First version.
-
-

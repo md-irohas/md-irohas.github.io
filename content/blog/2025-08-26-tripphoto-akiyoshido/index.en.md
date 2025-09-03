@@ -292,6 +292,5 @@ The open landscape along the drive was also very refreshing.
 
 ## Change History
 
+- 2025/09/04: Reorganize tags.
 - 2025/08/28: First version.
-
-

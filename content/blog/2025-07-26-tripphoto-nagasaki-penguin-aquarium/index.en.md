@@ -2,10 +2,11 @@
 title = 'Trip Photo: Nagasaki Penguin Aquarium (March, 2025)'
 date = '2025-07-26'
 categories = ['Blog (Trip Photo)']
-tags = ['Trip', 'Photo', 'Nagasaki', 'Nagasaki Penguin Aquarium']
+tags = ['Trip', 'Photo', 'Nagasaki', 'Aquarium']
 
 isCJKLanguage = false
 description = "🐧 A blog post about my visit to the Nagasaki Penguin Aquarium in March 2025. The penguins were adorable."
+summary = '📍 Nagasaki Penguin Aquarium'
 
 draft = false
 
@@ -122,6 +123,5 @@ one of the largest freshwater fish in the world.
 
 ## Change History
 
+- 2025/09/04: Reconsider tags.
 - 2025/08/22: First version.
-
-

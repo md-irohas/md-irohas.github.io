@@ -92,6 +92,5 @@ a key hub for maritime traffic.
 
 ## Change History
 
+- 2025/09/04: Reorganize tags.
 - 2025/08/26: First version.
-
-

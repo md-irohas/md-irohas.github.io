@@ -2,10 +2,11 @@
 title = 'Trip Photo: Nagasaki Peninsula (March, 2025)'
 date = '2025-08-22'
 categories = ['Blog (Trip Photo)']
-tags = ['Trip', 'Photo', 'Nagasaki', 'Nagasaki Peninsula', 'Kabashima Lighthouse', 'Nomozaki Peninsula', 'Nagasaki Nomozaki Dinosaur Park', 'Nagasaki City Dinosaur Museum', 'Gunkanjima (Hashima)']
+tags = ['Trip', 'Photo', 'Nagasaki', 'Sea', 'Sky', 'Lighthouse', 'Park', 'Museum', 'Historic Spot']
 
 isCJKLanguage = false
 description = "🦖 A blog post about my visit to the Nagasaki Peninsula in March2025, featuring Kabashima Lighthouse and Nagasaki Nomozaki Dinosaur Park."
+summary = '📍 Nagasaki Peninsula, Kabashima Lighthouse, Nomozaki Peninsula, Nagasaki Nomozaki Dinosaur Park, Nagasaki City Dinosaur Museum, Gunkanjima (Hashima)'
 
 draft = false
 
@@ -208,7 +209,6 @@ The highlight for me was the moving dinosaur robot on the second floor -- it was
 
 ## Change History
 
+- 2025/09/04: Reorganize tags.
 - 2025/08/25: Add a link to RAW images.
 - 2025/08/24: First version.
-
-

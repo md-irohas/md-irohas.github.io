@@ -2,10 +2,11 @@
 title = 'キャンプ: 南紀串本リゾート大島（2025年3月）'
 date = '2025-07-20'
 categories = ['ブログ（キャンプ）']
-tags = ['キャンプ', '写真', '和歌山県', '南紀串本リゾート大島']
+tags = ['キャンプ', '写真', '和歌山県', '海', '星空']
 
 isCJKLanguage = true
-description = '2025年3月に滞在した南紀串本リゾート大島のキャンプ場の記事です。'
+description = '🏕️ 2025年3月に滞在した南紀串本リゾート大島のキャンプ場の記事です。'
+summary = '📍 南紀串本リゾート大島'
 
 draft = false
 
@@ -69,6 +70,7 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1yEnrWX32ib-ChWhSRrkNTP
 
 ## 編集履歴
 
+- 2025/09/04: タグを修正
 - 2025/07/20: 初稿作成。
 
 

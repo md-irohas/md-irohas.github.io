@@ -280,6 +280,5 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1sZqxEe1eKhc5KFmviL429l
 
 ## 編集履歴
 
+- 2025/09/04: タグを修正。
 - 2025/08/28: 初稿作成。
-
-
