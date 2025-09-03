@@ -24,7 +24,7 @@ This time, I tried some new things, such as taking a ferry for part of the journ
 I visited places like Ise-Shima in Mie, Nachi Taisha and Shionomisaki in Wakayama, Nagasaki Peninsula, and Akiyoshido Cave in Yamaguchi.
 
 It was a physically demanding trip again this year,
-but I was able to see many landscapes I had never experienced before,
+but I was able to see many landscapes I had never seen before,
 making it a very satisfying journey.
 
 
