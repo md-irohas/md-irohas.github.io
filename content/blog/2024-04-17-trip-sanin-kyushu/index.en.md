@@ -6,6 +6,7 @@ tags = ['Trip Recap', 'Tottori', 'Shimane', 'Kumamoto']
 
 isCJKLanguage = false
 description = 'A summary of a trip to San-in & Kyushu in March 2024.'
+summary = '📍 Tottori Sando Dunes, Mizuki Shigeru Road, Izumo Hinomisaki Lighthouse, Mt. Aso, Daikanbo'
 
 draft = false
 
@@ -136,5 +137,3 @@ wasn't feeling well, I rushed back to Tokyo.
 
 - 2025/06/03: Revise sentences.
 - 2025/05/30: First version.
-
-
