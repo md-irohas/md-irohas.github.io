@@ -2,10 +2,11 @@
 title = '旅の写真: 鳥取砂丘（2024年3月）'
 date = '2024-04-18'
 categories = ['ブログ（旅行写真）']
-tags = ['旅行', '写真', '鳥取県', '鳥取砂丘']
+tags = ['旅行', '写真', '鳥取県', '砂丘', '空']
 
 isCJKLanguage = true
 description = '2024年3月に立ち寄った鳥取砂丘の記事です。'
+summary = '📍 鳥取砂丘'
 
 draft = false
 
@@ -91,6 +92,7 @@ googleDriveUrl = "https://drive.google.com/drive/folders/1K9zUdPwhUa8U-_jj5lG94s
 
 ## 編集履歴
 
+- 2025/09/04: タグを修正。
 - 2025/06/03: 文面を修正。
 - 2025/05/24: 文章を修正。ページの構成を変更。
 - 2024/04/28: 写真のリンクを修正。
@@ -98,5 +100,3 @@ googleDriveUrl = "https://drive.google.com/drive/folders/1K9zUdPwhUa8U-_jj5lG94s
 - 2024/04/21: iPhoneの画像を追加。
 - 2024/04/20: カテゴリ、タグを日本語に修正。
 - 2024/04/19: 初稿作成。
-
-

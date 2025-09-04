@@ -2,10 +2,11 @@
 title = 'Trip Photo: Tottori Sand Dunes (March, 2024)'
 date = '2024-04-18'
 categories = ['Blog (Trip Photo)']
-tags = ['Trip', 'Photo', 'Tottori', 'Tottori Sand Dunes']
+tags = ['Trip', 'Photo', 'Tottori', 'Sand Dunes', 'Sky']
 
 isCJKLanguage = false
 description = 'An article about Tottori Sand Dunes I visited in March 2024.'
+summary = '📍 Tottori Sand Dunes'
 
 draft = false
 
@@ -96,11 +97,10 @@ I really enjoyed it.
 
 ## Change History
 
+- 2025/09/04: Reorganize tags.
 - 2025/06/03: Revise sentences.
 - 2025/05/24: Rewrote the article. Restructured the article.
 - 2024/06/27: Small fixes.
 - 2024/04/28: Fixed links of photos.
 - 2024/04/21: Added photos taken by iPhone.
 - 2024/04/20: First version.
-
-

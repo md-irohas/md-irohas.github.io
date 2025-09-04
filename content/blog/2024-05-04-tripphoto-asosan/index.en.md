@@ -2,10 +2,11 @@
 title = 'Trip Photo: Mt. Aso (March, 2024)'
 date = '2024-05-04'
 categories = ['Blog (Trip Photo)']
-tags = ['Trip', 'Photo', 'Kumamoto', 'Mt. Aso', 'Milk Road', 'Daikanbo']
+tags = ['Trip', 'Photo', 'Kumamoto', 'Mountain', 'Sky', 'Scenic Road', 'Lookout']
 
 isCJKLanguage = false
 description = 'An article about Mt. Aso I visited in March 2024.'
+summary = '📍 Mt. Aso, Milk Road, Daikanbo'
 
 draft = false
 
@@ -99,6 +100,7 @@ of the Aso caldera.
 
 ## Change History
 
+- 2025/09/04: Reorganize tags.
 - 2025/06/04: Revise sentences.
 - 2025/05/28: Modified contents, added photos of iPhone, and restructured the article.
 - 2024/06/28: Modified some sentences and meta info.

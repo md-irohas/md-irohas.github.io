@@ -2,10 +2,11 @@
 title = '旅の写真: 水木しげるロード（2024年3月）'
 date = '2024-04-25'
 categories = ['ブログ（旅行写真）']
-tags = ['旅行', '写真', '鳥取県', '水木しげるロード']
+tags = ['旅行', '写真', '鳥取県', '観光エリア']
 
 isCJKLanguage = true
 description = '2024年3月に観光した水木しげるロードの記事です。'
+summary = '📍 水木しげるロード'
 
 draft = false
 
@@ -113,6 +114,7 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/19Fbfx3dihUcgKf4hSbg2zO
 
 ## 編集履歴
 
+- 2025/09/04: タグを修正。
 - 2025/06/04: 文面を修正。
 - 2025/05/26: 文章を修正。ページの構成を変更。
 - 2024/06/28: 一部表現、メタ情報を修正。

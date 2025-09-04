@@ -2,10 +2,11 @@
 title = 'Trip Photo: Mizuki Shigeru Road (March, 2024)'
 date = '2024-04-25'
 categories = ['Blog (Trip Photo)']
-tags = ['Trip', 'Photo', 'Tottori', 'Mizuki Shigeru Road']
+tags = ['Trip', 'Photo', 'Tottori', 'Tourist Area']
 
 isCJKLanguage = false
 description = 'An article about sightseeing on Mizuki Shigeru Road in March 2024.'
+summary = '📍 Mizuki Shigeru Road'
 
 draft = false
 
@@ -125,10 +126,9 @@ I didn't take notes of the statue names, so I'll skip the explanations.
 
 ## Change History
 
+- 2025/09/04: Reorganize tags.
 - 2025/06/04: Revise sentences.
 - 2025/05/26: Modified contents and restructured the article.
 - 2024/06/28: Modified some sentences and meta info.
 - 2024/04/28: Fixed links of photos.
 - 2024/04/25: First version.
-
-

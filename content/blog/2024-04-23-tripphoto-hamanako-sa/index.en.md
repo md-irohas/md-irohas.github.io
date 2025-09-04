@@ -2,10 +2,11 @@
 title = 'Trip Photo: Hamana-ko Service Area (March, 2024)'
 date = '2024-04-22'
 categories = ['Blog (Trip Photo)']
-tags = ['Trip', 'Photo', 'Shizuoka', 'Hamana-ko SA']
+tags = ['Trip', 'Photo', 'Shizuoka', 'Lake', 'Sky', 'Service Area']
 
 isCJKLanguage = false
 description = 'An article about Hamana-ko service area I dropped in at in March 2024.'
+summary = '📍 Hamana-ko Service Area'
 
 draft = false
 
@@ -75,10 +76,9 @@ from the terrace, I had a panoramic view of Lake Hamana.
 
 ## Change History
 
+- 2025/09/04: Reorganize tags.
 - 2025/06/03: Revise sentences.
 - 2025/05/25: Modified contents and restructured the article.
 - 2024/06/13: Modified some sentences and meta info.
 - 2024/04/28: Added a license of photos. Fix links of photos.
 - 2024/04/23: First version.
-
-

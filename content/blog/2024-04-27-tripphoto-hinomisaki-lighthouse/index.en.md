@@ -2,10 +2,11 @@
 title = 'Trip Photo: Izumo Hinomisaki Lighthouse (March, 2024)'
 date = '2024-04-27'
 categories = ['Blog (Trip Photo)']
-tags = ['Trip', 'Photo', 'Shimane', 'Izumo Hinomisaki Lighthouse']
+tags = ['Trip', 'Photo', 'Shimane', 'Sea', 'Sky', 'Lighthouse']
 
 isCJKLanguage = false
 description = 'An article about Izumo Hinomisaki Lighthouse I visited in March 2024.'
+summary = '📍 Izumo Hinomisaki Lighthouse, Inasa Beach'
 
 draft = false
 
@@ -109,9 +110,8 @@ nervous that I couldn't bring myself to walk around the deck...
 
 ## Change History
 
+- 2025/09/04: Reorganize tags.
 - 2025/06/04: Revise sentences.
 - 2025/05/26: Restructured the article.
 - 2024/06/28: Modified some sentences and meta info. Added a map.
 - 2024/04/28: First version.
-
-

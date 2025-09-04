@@ -2,10 +2,11 @@
 title = '旅の写真: 阿蘇山（2024年3月）'
 date = '2024-05-04'
 categories = ['ブログ（旅行写真）']
-tags = ['旅行', '写真', '熊本県', '阿蘇山', 'ミルクロード', '大観峰']
+tags = ['旅行', '写真', '熊本県', '山', '空', '景観道路', '展望台']
 
 isCJKLanguage = true
 description = '2024年3月に観光した阿蘇山の記事です。'
+summary = '📍 阿蘇山、ミルクロード、大観峰'
 
 draft = false
 
@@ -93,6 +94,7 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/15jre1iIevkJH19ELPdTYY3
 
 ## 編集履歴
 
+- 2025/09/04: タグを修正。
 - 2025/06/04: 文面を修正。
 - 2025/05/28: 文章を修正。iPhoneの写真を追加。ページの構成を変更。
 - 2024/06/28: 一部表現、メタ情報を修正。
