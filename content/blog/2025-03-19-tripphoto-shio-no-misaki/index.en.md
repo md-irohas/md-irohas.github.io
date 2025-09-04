@@ -2,10 +2,11 @@
 title = 'Trip Photo: Cape Shionomisaki & Shionomisaki Lighthouse (March, 2025)'
 date = '2025-06-15'
 categories = ['Blog (Trip Photo)']
-tags = ['Trip', 'Photo', 'Wakayama', 'Cape Shionomisaki', 'Shionomisaki Lighthouse']
+tags = ['Trip', 'Photo', 'Wakayama', 'Cape', 'Lighthouse']
 
 isCJKLanguage = false
 description = 'An article about Cape Shionomisaki & Shionomisaki Lighthouse I visited in March 2025.'
+summary = '📍 Cape Shionomisaki, Shionomisaki Lighthouse'
 
 draft = false
 
@@ -122,6 +123,5 @@ Climbing to the top of the lighthouse, I was rewarded with a stunning
 
 ## Change History
 
+- 2025/09/04: Reorganize tags.
 - 2025/06/15: First version.
-
-

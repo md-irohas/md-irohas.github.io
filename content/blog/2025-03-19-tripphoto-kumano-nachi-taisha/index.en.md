@@ -2,10 +2,11 @@
 title = 'Trip Photo: Kumano Nachi Taisha (March, 2025)'
 date = '2025-06-12'
 categories = ['Blog (Trip Photo)']
-tags = ['Trip', 'Photo', 'Wakayama', 'Kumano Nachi Taisha', 'Nachi Waterfall']
+tags = ['Trip', 'Photo', 'Wakayama', 'Shrine', 'Temple', 'Waterfall']
 
 isCJKLanguage = false
 description = 'An article about Kumano Nachi Taisha I visited in March 2025.'
+summary = '📍 Kumano Nachi Taisha, Nachi Waterfall'
 
 draft = false
 
@@ -128,6 +129,5 @@ to the waterfall and experience its grandeur up close.
 
 ## Change History
 
+- 2025/09/04: Reogranize tags.
 - 2025/06/12: First version.
-
-

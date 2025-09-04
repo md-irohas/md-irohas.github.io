@@ -2,10 +2,11 @@
 title = '旅の写真: 潮岬・潮岬灯台（2025年3月）'
 date = '2025-06-15'
 categories = ['ブログ（旅行写真）']
-tags = ['旅行', '写真', '和歌山', '潮岬', '潮岬灯台']
+tags = ['旅行', '写真', '和歌山', '岬', '灯台']
 
 isCJKLanguage = true
 description = '2025年3月に立ち寄った潮岬・潮岬灯台の記事です。'
+summary = '📍 潮岬、潮岬灯台'
 
 draft = false
 
@@ -108,6 +109,5 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1Us7QHXM7eqDfIP178VaqKP
 
 ## 編集履歴
 
+- 2025/09/04: タグの修正。
 - 2025/06/15: 初稿作成。
-
-

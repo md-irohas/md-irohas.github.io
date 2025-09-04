@@ -2,10 +2,11 @@
 title = '旅の写真: 伊勢志摩スカイライン（2025年3月）'
 date = '2025-06-06'
 categories = ['ブログ（旅行写真）']
-tags = ['旅行', '写真', '三重県', '伊勢志摩スカイライン']
+tags = ['旅行', '写真', '三重県', '海', '空', '景観道路', '寺院', '展望台']
 
 isCJKLanguage = true
 description = '2025年3月に走った伊勢志摩スカイラインの記事です。'
+summary = '📍 伊勢志摩スカイライン、朝熊岳金剛證寺、朝熊山頂展望台'
 
 draft = false
 
@@ -122,6 +123,5 @@ googleDriverl = 'https://drive.google.com/drive/folders/1Mu0Ws50iwn264XI5B4V5-U8
 
 ## 編集履歴
 
+- 2025/09/04: タグを修正。
 - 2025/06/06: 初稿作成。
-
-

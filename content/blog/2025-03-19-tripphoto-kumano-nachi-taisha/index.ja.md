@@ -2,10 +2,11 @@
 title = '旅の写真: 熊野那智大社（2025年3月）'
 date = '2025-06-12'
 categories = ['ブログ（旅行写真）']
-tags = ['旅行', '写真', '和歌山県', '熊野那智大社', '那智の滝']
+tags = ['旅行', '写真', '和歌山県', '神社', '寺院', '滝']
 
 isCJKLanguage = true
 description = '2025年3月に参拝した熊野那智大社の記事です。'
+summary = '📍 熊野那智大社、那智の滝'
 
 draft = false
 
@@ -117,6 +118,5 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1OwB9EZJ442IfOmjuN-TTa1
 
 ## 編集履歴
 
+- 2025/09/04: タグを修正。
 - 2025/06/12: 初稿作成。
-
-

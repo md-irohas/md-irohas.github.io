@@ -2,10 +2,11 @@
 title = 'Trip Photo: Iseshima Skyline (March, 2025)'
 date = '2025-06-06'
 categories = ['Blog (Trip Photo)']
-tags = ['Trip', 'Photo', 'Mie', 'Iseshima Skyline']
+tags = ['Trip', 'Photo', 'Mie', 'Sea', 'Sky', 'Scenic Road', 'Temple', 'Lookout']
 
 isCJKLanguage = false
 description = 'An article about Iseshima Skyline I drove along in March 2025.'
+summary = '📍 Iseshima Skyline, Asamayama Kongosho-ji Temple, Asama Mountain View Point'
 
 draft = false
 
@@ -129,6 +130,5 @@ Just a heads-up: even on a weekday morning, the Ise Shrine was incredibly crowde
 
 ## Change History
 
+- 2025/09/04: Reorganize tags.
 - 2025/06/06: First version.
-
-

@@ -2,10 +2,11 @@
 title = '旅の写真: 伊勢志摩（2025年3月）'
 date = '2025-06-08'
 categories = ['ブログ（旅行写真）']
-tags = ['旅行', '写真', '三重県', '伊勢志摩', '鳥羽展望台 海女のテラス', '横山展望台']
+tags = ['旅行', '写真', '三重県', '海', '空', '展望台']
 
 isCJKLanguage = true
 description = '2025年3月に立ち寄った伊勢志摩の記事です。'
+summary = '📍 伊勢志摩、鳥羽展望台 海女のテラス、横山展望台'
 
 draft = false
 
@@ -72,6 +73,5 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1SSRXTsav0iwnniD9OV1kKb
 
 ## 編集履歴
 
+- 2025/09/04: タグを修正。
 - 2025/06/08: 初稿作成。
-
-

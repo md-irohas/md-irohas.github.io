@@ -2,10 +2,11 @@
 title = 'Trip Photo: Iseshima (March, 2025)'
 date = '2025-06-08'
 categories = ['Blog (Trip Photo)']
-tags = ['Trip', 'Photo', 'Mie', 'Iseshima', 'Toba Observatory Ama-no-Terrace', 'Yokoyama Observatory Deck']
+tags = ['Trip', 'Photo', 'Mie', 'Sea', 'Sky', 'Lookout']
 
 isCJKLanguage = false
 description = 'An article about Iseshima I visited in March 2025.'
+summary = '📍 Iseshima, Toba Observatory Ama-no-Terrace, Yokoyama Observatory Deck'
 
 draft = false
 
@@ -80,6 +81,5 @@ coastline.
 
 ## Change History
 
+- 2025/09/04: Reorganize tags.
 - 2025/06/08: First version.
-
-
