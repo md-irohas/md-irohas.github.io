@@ -2,10 +2,11 @@
 title = '旅の写真: XXXX（202X年X月）'
 date = '{{ now.Format "2006-01-02" }}'
 categories = ['ブログ（旅の写真）']
-tags = ['旅行', '写真', '<都道府県>', '<場所>']
+tags = ['旅行', '写真', '<都道府県>', '<場所の種類>']
 
 isCJKLanguage = true
 description = '<ChatGPTによる要約>'
+summary = '📍 <場所1>、<場所2>、...'
 
 draft = true
 
@@ -24,13 +25,13 @@ googleDriveUrl = ''
 
 > マップ、画像、リンクなどを含む記事を書きます。
 
-{{< google-maps "" >}}
+{{< google-maps-2 "" >}}
 
 {{< figure
     src="IMG_XXXX.jpg"
     alt="IMG_XXXX.jpg"
     caption="Photo Caption"
-    class="grid-w50"
+    class="w50"
     >}}
 
 
@@ -63,16 +64,14 @@ googleDriveUrl = ''
 
 ### \<場所\>
 
-{{< google-maps "#" >}}
+{{< google-maps-2 "#" >}}
 
 
 ### 場所一覧
 
-{{< google-my-maps "#" >}}
+{{< google-maps-2 "#" >}}
 
 
 ## 編集履歴
 
 - 202X/XX/XX: 初稿作成。
-
-

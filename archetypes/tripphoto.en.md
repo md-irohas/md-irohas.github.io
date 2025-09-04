@@ -2,10 +2,11 @@
 title = 'Trip Photo: XXX (Month, Year)'
 date = '{{ now.Format "2006-01-02" }}'
 categories = ['Blog (Trip Photo)']
-tags = ['Trip', 'Photo', '<Prefecture>', '<Place>']
+tags = ['Trip', 'Photo', '<Prefecture>', '<Kind-of-Place>']
 
 isCJKLanguage = false
 description = '<Summary by ChatGPT>'
+summary = '📍 <Place1>, <Place2>, ...'
 
 draft = true
 
@@ -30,7 +31,7 @@ In \<Month\> \<Year\>, ...
     src="IMG_XXXX.jpg"
     alt="IMG_XXXX.jpg"
     caption="Photo Caption"
-    class="grid-w50"
+    class="w50"
     >}}
 
 
@@ -74,5 +75,3 @@ In \<Month\> \<Year\>, ...
 ## Change History
 
 - 2024/XX/XX: First version.
-
-
