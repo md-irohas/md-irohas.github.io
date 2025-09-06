@@ -12,7 +12,7 @@ draft = false
 
 # Params
 googlePhotoUrl = 'https://photos.app.goo.gl/1oysXXgnVbKfymP18'
-googleDriveUrl = 'https://drive.google.com/drive/folders/1Us7QHXM7eqDfIP178VaqKPAoE7-FAs1G?usp=sharing'
+googleDriveUrl = 'https://drive.google.com/drive/folders/1Us7QHXM7eqDfIP178VaqKPAoE7-FAs1G'
 +++
 
 

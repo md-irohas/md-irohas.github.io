@@ -2,7 +2,7 @@
 title = 'Trip Photo: Cape Shionomisaki & Shionomisaki Lighthouse (March, 2025)'
 date = '2025-06-15'
 categories = ['Blog (Trip Photo)']
-tags = ['Trip', 'Photo', 'Wakayama', 'Cape', 'Lighthouse']
+tags = ['Trip', 'Photo', 'Wakayama', 'Sea', 'Sky', 'Cape', 'Lighthouse']
 
 isCJKLanguage = false
 description = 'An article about Cape Shionomisaki & Shionomisaki Lighthouse I visited in March 2025.'
@@ -12,7 +12,7 @@ draft = false
 
 # Params
 googlePhotoUrl = 'https://photos.app.goo.gl/1oysXXgnVbKfymP18'
-googleDriveUrl = 'https://drive.google.com/drive/folders/1Us7QHXM7eqDfIP178VaqKPAoE7-FAs1G?usp=sharing'
+googleDriveUrl = 'https://drive.google.com/drive/folders/1Us7QHXM7eqDfIP178VaqKPAoE7-FAs1G'
 +++
 
 
