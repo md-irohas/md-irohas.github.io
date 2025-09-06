@@ -21,7 +21,6 @@ I took about two weeks off and went on a road trip through Mie, Wakayama, Nagasa
 
 {{< google-maps-2
     url="https://www.google.com/maps/d/embed?mid=1DyBsZw6VKng0PUMfvncx8UBHwofmsa4&ehbc=2E312F&noprof=1"
-    width="100%"
     >}}
 
 The total distance traveled was about 3,500 km.
@@ -565,7 +564,6 @@ With this, my solo trip through Mie, Wakayama, Nagasaki, and Yamaguchi in March 
 
 {{< google-maps-2
     url="https://www.google.com/maps/d/embed?mid=1DyBsZw6VKng0PUMfvncx8UBHwofmsa4&ehbc=2E312F&noprof=1"
-    width="100%"
     >}}
 
 {{< text-right >}} *The route is approximate. {{< /text-right >}}

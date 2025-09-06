@@ -20,7 +20,6 @@ draft = false
 
 {{< google-maps-2
     url="https://www.google.com/maps/d/embed?mid=1DyBsZw6VKng0PUMfvncx8UBHwofmsa4&ehbc=2E312F&noprof=1"
-    width="100%"
     >}}
 
 全行程の総移動距離は約3500km。
@@ -563,7 +562,6 @@ draft = false
 
 {{< google-maps-2
     url="https://www.google.com/maps/d/embed?mid=1DyBsZw6VKng0PUMfvncx8UBHwofmsa4&ehbc=2E312F&noprof=1"
-    width="100%"
     >}}
 
 {{< text-right >}}
