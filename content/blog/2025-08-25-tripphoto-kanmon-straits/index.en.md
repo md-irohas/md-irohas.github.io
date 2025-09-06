@@ -5,7 +5,7 @@ categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Fukuoka', 'Yamaguchi', 'Sea', 'Bridge', 'Straits', 'Service Area']
 
 isCJKLanguage = false
-description = '🌉 A blog post about my visit to Mekari PA in March 2025, where I enjoyed views of the Kanmon Straits and the Kanmon Bridge.'
+description = '🌉 A blog post about my photos at Mekari PA in March 2025, where I enjoyed views of the Kanmon Straits and the Kanmon Bridge.'
 summary = '📍 Kanmon Straits, Kanmon Bridge, Mekari PA'
 
 draft = false

@@ -5,7 +5,7 @@ categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Yamaguchi', 'Cave', 'Grassland']
 
 isCJKLanguage = false
-description = '🔦 A blog post about my visit to Akiyoshido Cave in March 2025. It was a fantastical and majestic space.'
+description = '🔦 A blog post about my photos I took at Akiyoshido Cave in March 2025. It was a fantastical and majestic space.'
 summary  = '📍 Akiyoshido Cave, Akiyoshidai Karst Observatory'
 
 draft = false

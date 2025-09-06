@@ -5,7 +5,7 @@ categories = ['ブログ（旅の写真）']
 tags = ['旅行', '写真', '山口県', '洞窟', '草原']
 
 isCJKLanguage = true
-description = '🔦 2025年3月に訪れた秋芳洞の記事です。幻想的で雄大な空間でした。'
+description = '🔦 2025年3月に訪れた秋芳洞で撮影した写真です。幻想的で雄大な空間でした。'
 summary = '📍 秋芳洞、秋吉台展望台'
 draft = false
 

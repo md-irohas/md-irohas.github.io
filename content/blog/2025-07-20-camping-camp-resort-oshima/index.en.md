@@ -5,7 +5,7 @@ categories = ['Blog (Camping)']
 tags = ['Camping', 'Photo', 'Wakayama', 'Sea', 'Starry Night']
 
 isCJKLanguage = false
-description = '🏕️ An article about camping I stayed in March, 2025.'
+description = '🏕️ A blog post about my photos I took at Camp Resort Oshima I stayed in March 2025.'
 summary = '📍 Camp Resort Ohshima'
 
 draft = false

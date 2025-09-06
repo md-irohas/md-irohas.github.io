@@ -5,7 +5,7 @@ categories = ['ブログ（旅の写真）']
 tags = ['旅行', '写真', '長崎県', '水族館']
 
 isCJKLanguage = true
-description = '🐧 2025年3月に訪れた長崎ペンギン水族館の記事です。ペンギン可愛い 🐧🐧🐧'
+description = '🐧 2025年3月に訪れた長崎ペンギン水族館で撮影した写真です。ペンギン可愛い 🐧🐧🐧'
 summary = '📍 長崎ペンギン水族館'
 
 draft = false

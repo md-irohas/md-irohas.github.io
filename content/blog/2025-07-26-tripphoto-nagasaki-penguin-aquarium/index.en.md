@@ -5,7 +5,7 @@ categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Nagasaki', 'Aquarium']
 
 isCJKLanguage = false
-description = "🐧 A blog post about my visit to the Nagasaki Penguin Aquarium in March 2025. The penguins were adorable 🐧🐧🐧"
+description = "🐧 A blog post about my photos I took at the Nagasaki Penguin Aquarium in March 2025. The penguins were adorable 🐧🐧🐧"
 summary = '📍 Nagasaki Penguin Aquarium'
 
 draft = false

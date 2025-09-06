@@ -5,7 +5,7 @@ categories = ['ブログ（キャンプ）']
 tags = ['キャンプ', '写真', '和歌山県', '海', '星空']
 
 isCJKLanguage = true
-description = '🏕️ 2025年3月に南紀串本リゾート大島というキャンプ場でキャンプしました。'
+description = '🏕️ 2025年3月に南紀串本リゾート大島というキャンプ場でキャンプしたときの写真です。'
 summary = '📍 南紀串本リゾート大島'
 
 draft = false
