@@ -20,10 +20,11 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1aB3l9StwcJPqt-Zn3ancYx
 
 In March 2025, I stopped by Mekari Parking Area (PA) during a trip.
 
-{{< google-maps "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d159884.37835832342!2d130.94502431773677!3d33.99681434033383!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x354397d6ceda9113%3A0x43208c15bed5047b!2sMekari%20Parking%20Area%20(Northbound)!5e0!3m2!1sen!2sjp!4v1756133300377!5m2!1sen!2sjp" >}}
+{{< google-maps-2
+    url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d159884.37835832342!2d130.94502431773677!3d33.99681434033383!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x354397d6ceda9113%3A0x43208c15bed5047b!2sMekari%20Parking%20Area%20(Northbound)!5e0!3m2!1sen!2sjp!4v1756133300377!5m2!1sen!2sjp"
+    >}}
 
-Mekari PA is located at the foot of [the Kanmon Bridge (Wikipedia)](https://en.wikipedia.org/wiki/Kanmon_Bridge),
-which spans [the Kanmon Straits (Wikipedia)](https://en.wikipedia.org/wiki/Kanmon_Straits).
+Mekari PA is located at the foot of [the Kanmon Bridge (Wikipedia)](https://en.wikipedia.org/wiki/Kanmon_Bridge), which spans [the Kanmon Straits (Wikipedia)](https://en.wikipedia.org/wiki/Kanmon_Straits).
 
 I hadn't originally planned to stop, but I decided to take a short break.
 Inside the building, I found an observation deck.
@@ -34,30 +35,29 @@ a key hub for maritime traffic.
     src="IMG_3361.jpg"
     alt="IMG_3361.jpg"
     caption="View of the Kanmon Strait from the observation deck"
-    class="grid-w50"
+    class="w50"
     >}}
 
 {{< figure
     src="IMG_3362.jpg"
     alt="IMG_3362.jpg"
     caption="Panoramic view of the Kanmon Straits and the Kanmon Bridge"
-    class="grid-w100"
+    class="w100"
     >}}
 
 {{< figure
     src="DSC05981-Enhanced-NR.jpg"
     alt="DSC05981-Enhanced-NR.jpg"
     caption="The Kanmon Bridge"
-    class="grid-w50"
+    class="w50"
     >}}
 
 {{< figure
     src="DSC05982-Enhanced-NR.jpg"
     alt="DSC05982-Enhanced-NR.jpg"
     caption="A container ship passing through the Kanmon Straits"
-    class="grid-w50"
+    class="w50"
     >}}
-
 
 
 ## Gallery
@@ -87,10 +87,15 @@ a key hub for maritime traffic.
 
 ## Map
 
-{{< google-maps "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d159884.37835832342!2d130.94502431773677!3d33.99681434033383!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x354397d6ceda9113%3A0x43208c15bed5047b!2sMekari%20Parking%20Area%20(Northbound)!5e0!3m2!1sen!2sjp!4v1756133300377!5m2!1sen!2sjp" >}}
+### Mekari PA
+
+{{< google-maps-2
+    url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d159884.37835832342!2d130.94502431773677!3d33.99681434033383!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x354397d6ceda9113%3A0x43208c15bed5047b!2sMekari%20Parking%20Area%20(Northbound)!5e0!3m2!1sen!2sjp!4v1756133300377!5m2!1sen!2sjp"
+    >}}
 
 
 ## Change History
 
+- 2025/09/06: Fixed minor wording issues.
 - 2025/09/04: Reorganize tags.
 - 2025/08/26: First version.
