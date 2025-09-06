@@ -16,13 +16,17 @@ draft = false
 
 ## Story
 
-In March 2025, just like last year, I took about two weeks off and went on a road trip through Mie, Wakayama, Nagasaki, and Yamaguchi prefectures.
+In March 2025, just like last year,
+I took about two weeks off and went on a road trip through Mie, Wakayama, Nagasaki, and Yamaguchi prefectures.
 
-{{< google-my-maps "https://www.google.com/maps/d/embed?mid=1DyBsZw6VKng0PUMfvncx8UBHwofmsa4&ehbc=2E312F&noprof=1" >}}
+{{< google-maps-2
+    url="https://www.google.com/maps/d/embed?mid=1DyBsZw6VKng0PUMfvncx8UBHwofmsa4&ehbc=2E312F&noprof=1"
+    width="100%"
+    >}}
 
 The total distance traveled was about 3,500 km.
 This year, I tried some new things, such as taking a ferry for part of the journey and staying at campgrounds.
-I visited places like Ise-Shima in Mie, Nachi Taisha and Shionomisaki in Wakayama, Nagasaki Peninsula, and Akiyoshido Cave in Yamaguchi.
+I visited places like Ise-Shima in Mie, Nachi Taisha and Shionomisaki in Wakayama, Nagasaki Peninsula, and Akiyoshido in Yamaguchi.
 
 It was a physically demanding trip again this year,
 but I was able to see many landscapes I had never seen before,
@@ -107,10 +111,10 @@ so I don't have many pictures to share.
     >}}
 
 On the way back from the shrine,
-I had zenzai (sweet red bean soup) at the Akafuku main store.
+I had zenzai (sweet red bean soup) at the Akafuku.
 It had been a while since I had sweet red bean paste, and it was delicious.
 I thought about buying Akafuku mochi as a souvenir,
-but the shelf life was short (only two days), so I gave up.
+but the shelf life was short (only two days?), so I gave up.
 
 <ul>
     <li>Akafuku: <a href="https://www.akafuku.co.jp/en/" target="_blank">https://www.akafuku.co.jp/en/</a></li>
@@ -123,10 +127,8 @@ but the shelf life was short (only two days), so I gave up.
     class="w50"
     >}}
 
-I went early on a weekday morning,
-but the parking lot at the Inner Shrine was almost full.
-I parked a bit farther away,
-but even that lot had a line of cars waiting when I left.
+I went early on a weekday morning, but the parking lot at the Inner Shrine was almost full.
+I parked a bit farther away, but even that lot had a line of cars waiting when I left.
 If you plan to visit by car, be careful about parking.
 
 {{< /timelineItem >}}
@@ -159,8 +161,7 @@ and the solemn Kongoshoji Temple were all wonderful experiences.
     icon="camera-fill"
     >}}
 
-After driving the Iseshima Skyline,
-I took the Pearl Road toward Ise-Shima.
+After driving the Iseshima Skyline, I took the Pearl Road toward Iseshima.
 
 <br>
 <br>
@@ -214,7 +215,7 @@ the southernmost point of Honshu, starting from Ise City.
     height="360"
     >}}
 
-I stopped by the Umigame (Sea Turtle) Aquarium, Kumano Nachi Taisha,and Nachi Falls,
+I stopped by the Umigame (Sea Turtle) Aquarium, Kumano Nachi Taisha, and Nachi Falls,
 then enjoyed Shionomisaki, the southernmost tip of Honshu, and the Shionomisaki Lighthouse, before heading to the campground for the night.
 
 <br>
@@ -293,7 +294,7 @@ so if you're interested, follow them for some healing content 🐢🐢🐢
 
 
 {{< timelineItem
-    header="Day 3-2: Kumano Nachi Taisha Shrine"
+    header="Day 3-2: Kumano Nachi Taisha"
     icon="camera-fill"
     >}}
 
@@ -336,6 +337,7 @@ On the third night, I stayed at a campground on Kii Oshima, next to Shionomisaki
 {{< article link="/blog/2025-07-20-camping-camp-resort-oshima/" >}}
 
 {{< /timelineItem >}}
+
 
 {{< timelineItem
     header="Day 4: Kushimoto Town, Wakayama → Iyo City, Ehime"
@@ -380,7 +382,7 @@ I arrived in Iyo City in the evening and had dinner at a local ramen chain in a 
 
 
 {{< timelineItem
-    header="Day 5: Iyo City, Ehime → Nagasaki Prefecture"
+    header="Day 5: Iyo City, Ehime → Nagasaki City, Nagasaki"
     icon="car-front-fill"
     >}}
 
@@ -561,7 +563,10 @@ With this, my solo trip through Mie, Wakayama, Nagasaki, and Yamaguchi in March 
 
 ## Map
 
-{{< google-my-maps "https://www.google.com/maps/d/embed?mid=1DyBsZw6VKng0PUMfvncx8UBHwofmsa4&ehbc=2E312F&noprof=1" >}}
+{{< google-maps-2
+    url="https://www.google.com/maps/d/embed?mid=1DyBsZw6VKng0PUMfvncx8UBHwofmsa4&ehbc=2E312F&noprof=1"
+    width="100%"
+    >}}
 
 {{< text-right >}} *The route is approximate. {{< /text-right >}}
 
@@ -581,5 +586,5 @@ With this, my solo trip through Mie, Wakayama, Nagasaki, and Yamaguchi in March 
 
 ## Change History
 
+- 2025/09/06: Fixed minor wording issues.
 - 2025/09/03: First version.
-
