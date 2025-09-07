@@ -5,7 +5,7 @@ categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', '<Prefecture>', '<Kind-of-Place>']
 
 isCJKLanguage = false
-description = '<Summary by ChatGPT>'
+description = '📝 A blog post about my photos I took at XXXX in Month 202X. <Additinal-Text>'
 summary = '📍 <Place1>, <Place2>, ...'
 
 draft = true
@@ -64,12 +64,12 @@ In \<Month\> \<Year\>, ...
 
 ### \<Site\>
 
-{{< google-maps "#" >}}
+{{< google-maps-2 "#" >}}
 
 
 ### Sites
 
-{{< google-my-maps "#" >}}
+{{< google-maps-2 "#" >}}
 
 
 ## Change History

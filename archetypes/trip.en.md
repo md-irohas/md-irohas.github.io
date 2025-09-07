@@ -18,6 +18,8 @@ draft = false
 
 Some sentences...
 
+{{< google-maps-2 "#" >}}
+
 
 ## Timeline
 

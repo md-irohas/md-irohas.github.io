@@ -2,10 +2,11 @@
 title = 'キャンプ: <場所>（202X年X月）'
 date = '{{ now.Format "2006-01-02" }}'
 categories = ['ブログ（キャンプ）']
-tags = ['キャンプ', '写真', '<都道府県>', '<場所>']
+tags = ['キャンプ', '写真', '<都道府県>', '<キャンプ場の種類>']
 
 isCJKLanguage = true
-description = '<ChatGPTによる要約>'
+description = '🏕️ 2025年3月に〜キャンプ場でキャンプしたときの写真です。'
+summary = '📍 <キャンプ場>'
 
 draft = false
 
@@ -21,13 +22,13 @@ googleDriveUrl = ''
 
 > マップ、画像、リンクなどを含む記事を書きます。
 
-{{< google-maps "" >}}
+{{< google-maps-2 "#" >}}
 
 {{< figure
     src="IMG_XXXX.jpg"
     alt="IMG_XXXX.jpg"
     caption="Photo Caption"
-    class="grid-w50"
+    class="w50"
     >}}
 
 
@@ -56,11 +57,11 @@ googleDriveUrl = ''
 
 ## マップ
 
-{{< google-maps "#" >}}
+### <キャンプ場>
+
+{{< google-maps-2 "#" >}}
 
 
 ## 編集履歴
 
 - 202X/XX/XX: 初稿作成。
-
-
