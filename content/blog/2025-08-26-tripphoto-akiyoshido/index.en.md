@@ -28,17 +28,17 @@ located in Akiyoshidai Quasi-National Park in Yamaguchi Prefecture, Japan.
 - Akiyoshidai Quasi-National Park: https://akiyoshidai-park.com/en/
 - Akiyoshido Cave: https://en.karusuto.com/spot/akiyoshido/
 
+Akiyoshido is one of the largest limestone caves in Japan,
+stretching about 11.2 km in total length.
+It was designated a Special Natural Monument in 1952 and later became part of Akiyoshidai Quasi-National Park in 1955.
+Today, about 1 km of the cave is maintained and open to visitors as a tourist route.
+
 {{< alert icon="circle-info" >}}
 
 A cave map is available online, and it's worth checking beforehand.
 I didn't look carefully and regretted it a little during my visit.
 
 {{< /alert >}}
-
-Akiyoshido is one of the largest limestone caves in Japan,
-stretching about 11.2 km in total length.
-It was designated a Special Natural Monument in 1952 and later became part of Akiyoshidai Quasi-National Park in 1955.
-Today, about 1 km of the cave is maintained and open to visitors as a tourist route.
 
 
 ### Akiyoshido: Approaching the Main Entrance
