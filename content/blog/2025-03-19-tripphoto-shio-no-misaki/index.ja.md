@@ -150,7 +150,8 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1Us7QHXM7eqDfIP178VaqKP
 ### 潮岬
 
 {{< google-maps-2
-    url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d851514.5088517724!2d135.15667067919105!3d33.52144295228881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600625967a198d93%3A0x3b3afef98cb3ef93!2sShionomisaki!5e0!3m2!1sen!2sjp!4v1749729660016!5m2!1sen!2sjp" >}}
+    url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1184653.259156715!2d134.84602640141043!3d33.439665987696195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600625967a198d93%3A0x3b3afef98cb3ef93!2z5r2u5bKs!5e0!3m2!1sja!2sjp!4v1757239252656!5m2!1sja!2sjp"
+    >}}
 
 
 ### 場所一覧
