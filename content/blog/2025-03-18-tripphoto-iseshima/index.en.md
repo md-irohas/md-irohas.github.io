@@ -112,7 +112,7 @@ and from the terrace seats, you can enjoy sweeping views of Ago Bay and the rias
 ### Yokoyama Observatory
 
 {{< google-maps-2
-  url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d45676.91568929373!2d136.8635389296457!3d34.43443513274686!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6004fdf1b36d0ccb%3A0x573c62eaa550460!2sToba%20Tenbodai%20Observatory%20(Ama-no-Terrace)!5e0!3m2!1sen!2sjp!4v1757258510348!5m2!1sen!2sjp"
+  url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d105431.37959634219!2d136.71665133912566!3d34.33187927305301!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6005aa588cac65d5%3A0xd9226323bd0afe0e!2sYokoyama%20View%20Point!5e0!3m2!1sen!2sjp!4v1757258421179!5m2!1sen!2sjp"
   >}}
 
 

@@ -54,6 +54,7 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1SSRXTsav0iwnniD9OV1kKb
   url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d105431.3796836623!2d136.7143553524492!3d34.33187920357217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6005aa588cac65d5%3A0xd9226323bd0afe0e!2z5qiq5bGx5bGV5pyb5Y-w!5e0!3m2!1sja!2sjp!4v1757257853726!5m2!1sja!2sjp"
   >}}
 
+
 横山展望台にはカフェも併設されていて、テラス席から英虞湾（あごわん）に広がるリアス海岸の風景を一望できました。
 
 {{< figure
