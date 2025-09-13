@@ -1,7 +1,7 @@
 +++
 title = '旅の写真: 伊勢志摩（2025年3月）'
 date = '2025-06-08'
-categories = ['ブログ（旅行写真）']
+categories = ['ブログ（旅の写真）']
 tags = ['旅行', '写真', '三重県', '海', '空', '展望台']
 
 isCJKLanguage = true

@@ -1,7 +1,7 @@
 +++
 title = '旅の写真: 出雲日御碕灯台（2024年3月）'
 date = '2024-04-27'
-categories = ['ブログ（旅行写真）']
+categories = ['ブログ（旅の写真）']
 tags = ['旅行', '写真', '島根県', '海', '空', '灯台']
 
 isCJKLanguage = true

@@ -1,7 +1,7 @@
 +++
 title = '旅の写真: 熊野那智大社（2025年3月）'
 date = '2025-06-12'
-categories = ['ブログ（旅行写真）']
+categories = ['ブログ（旅の写真）']
 tags = ['旅行', '写真', '和歌山県', '神社', '寺院', '滝']
 
 isCJKLanguage = true

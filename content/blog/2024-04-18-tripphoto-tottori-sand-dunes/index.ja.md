@@ -1,7 +1,7 @@
 +++
 title = '旅の写真: 鳥取砂丘（2024年3月）'
 date = '2024-04-18'
-categories = ['ブログ（旅行写真）']
+categories = ['ブログ（旅の写真）']
 tags = ['旅行', '写真', '鳥取県', '砂丘', '空']
 
 isCJKLanguage = true
