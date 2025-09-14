@@ -47,6 +47,7 @@ draft = false
 1日目は、東京の自宅を出発し、最初の目的地である三重県伊勢市へ向かいました。
 
 <br>
+<br>
 
 {{< google-maps-2
     url="https://www.google.com/maps/d/embed?mid=1qczpuR47L_xcTsWJnNCqgeWkMSUbAes&ehbc=2E312F&noprof=1"
@@ -75,6 +76,7 @@ draft = false
 
 2日目は伊勢神宮・伊勢志摩を巡りました。
 
+<br>
 <br>
 
 {{< google-maps-2
@@ -208,6 +210,7 @@ draft = false
 3日目は、伊勢市から本州最南端の和歌山県串本町を目指しました。
 
 <br>
+<br>
 
 {{< google-maps-2
     url="https://www.google.com/maps/d/embed?mid=1RCMRD0C1eGMJDb4OPpEQh41eGac8B5w&ehbc=2E312F&noprof=1"
@@ -236,6 +239,8 @@ draft = false
 <ul>
     <li>ウミガメ水族館: <a href="https://umigame.info/" target="_blank">https://umigame.info/</a></li>
 </ul>
+
+<br>
 
 {{< google-maps-2
     url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d849061.7586775182!2d135.36932063274014!3d33.769773873264626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60066d9e27442c91%3A0x2fb53245f1deb570!2z44Km44Of44Ks44Oh5rC05peP6aSo!5e0!3m2!1sja!2sjp!4v1756808023062!5m2!1sja!2sjp"
@@ -352,6 +357,7 @@ draft = false
 移動距離は約500km、ノンストップでも7時間の行程です。
 
 <br>
+<br>
 
 {{< google-maps-2
     url="https://www.google.com/maps/d/embed?mid=1KtAJdNCvOqu8tnEv0Lb_P__iJKMchvw&ehbc=2E312F&noprof=1"
@@ -387,6 +393,7 @@ draft = false
 
 5日目は伊予市から長崎県長崎市を目指しました。
 
+<br>
 <br>
 
 {{< google-maps-2
@@ -485,6 +492,7 @@ draft = false
 10日目。東京へ戻る後半戦の開始です。
 
 <br>
+<br>
 
 {{< google-maps-2
     url="https://www.google.com/maps/d/embed?mid=1AJ68fwMmbf-ssEO7wn6kvtIJvMm5CCw&ehbc=2E312F&noprof=1"
@@ -520,6 +528,7 @@ draft = false
 11日目、岡山市から東京まで一日で戻りました。
 途中、三重の温泉でのんびりしました。
 
+<br>
 <br>
 
 {{< google-maps-2

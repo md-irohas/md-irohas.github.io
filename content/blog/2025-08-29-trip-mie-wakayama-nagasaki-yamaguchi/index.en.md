@@ -46,6 +46,8 @@ Here is the timeline and the spots I visited during the trip.
     icon="car-front-fill" >}}
 
 On the 1st day, I left my home in Tokyo and headed to my first destination, Ise City in Mie Prefecture. 
+
+<br>
 <br>
 
 {{< google-maps-2
@@ -73,6 +75,7 @@ so I dropped off my luggage at the hotel and went to a nearby hot spring to rela
 
 On the 2nd day, I toured Ise Jingu and the Ise-Shima area.
 
+<br>
 <br>
 
 {{< google-maps-2
@@ -207,6 +210,7 @@ On the 3rd day, I aimed for Kushimoto Town,
 the southernmost point of Honshu, starting from Ise City.
 
 <br>
+<br>
 
 {{< google-maps-2
     url="https://www.google.com/maps/d/embed?mid=1RCMRD0C1eGMJDb4OPpEQh41eGac8B5w&ehbc=2E312F&noprof=1"
@@ -235,6 +239,8 @@ I stopped by the Umigame Aquarium in Kiho Town, Mie Prefecture.
 <ul>
     <li>Umigame Aquarium: <a href="https://umigame.info/" target="_blank">https://umigame.info/</a></li>
 </ul>
+
+<br>
 
 {{< google-maps-2
     url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d849061.7586775182!2d135.36932063274014!3d33.769773873264626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60066d9e27442c91%3A0x2fb53245f1deb570!2sUmigame%20Aquarium!5e0!3m2!1sen!2sjp!4v1756896402186!5m2!1sen!2sjp"
@@ -352,6 +358,7 @@ moving from Kushimoto Town at the southern tip of Wakayama to Iyo City in wester
 The distance was about 500 km, taking 7 hours even without stops.
 
 <br>
+<br>
 
 {{< google-maps-2
     url="https://www.google.com/maps/d/embed?mid=1KtAJdNCvOqu8tnEv0Lb_P__iJKMchvw&ehbc=2E312F&noprof=1"
@@ -387,6 +394,7 @@ I arrived in Iyo City in the evening and had dinner at a local ramen chain in a 
 
 On the 5th day, I headed from Iyo City to Nagasaki City in Nagasaki Prefecture.
 
+<br>
 <br>
 
 {{< google-maps-2
@@ -486,6 +494,7 @@ On the 9th day, I visited Kabashima Lighthouse and the Nagasaki Dinosaur Museum 
 The 10th day marks the start of the return journey to Tokyo.
 
 <br>
+<br>
 
 {{< google-maps-2
     url="https://www.google.com/maps/d/embed?mid=1AJ68fwMmbf-ssEO7wn6kvtIJvMm5CCw&ehbc=2E312F&noprof=1"
@@ -522,6 +531,7 @@ After that, I visited Akiyoshido Cave and then traveled to Okayama for the night
 On the 11th day, I returned from Okayama City to Tokyo in one day.
 I relaxed at a hot spring in Mie along the way.
 
+<br>
 <br>
 
 {{< google-maps-2
