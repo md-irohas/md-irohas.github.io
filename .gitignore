@@ -9,3 +9,6 @@
 # image files
 *-orig.jpg
 *.jpg_original
+
+# unused icons
+/assets/icons-bootstrap/
