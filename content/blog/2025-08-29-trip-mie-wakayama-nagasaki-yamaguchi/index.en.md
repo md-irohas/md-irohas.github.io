@@ -43,7 +43,8 @@ Here is the timeline and the spots I visited during the trip.
 
 {{< timelineItem
     header="Day 1: Tokyo (Home) → Ise City"
-    icon="car-front-fill" >}}
+    icon="car-front-fill"
+    >}}
 
 On the 1st day, I left my home in Tokyo and headed to my first destination, Ise City in Mie Prefecture. 
 
@@ -70,7 +71,7 @@ so I dropped off my luggage at the hotel and went to a nearby hot spring to rela
 
 {{< timelineItem
     header="Day 2: Ise Jingu & Ise-Shima Sightseeing"
-    icon="geo-alt-fill" 
+    icon="geo-alt-fill"
     >}}
 
 On the 2nd day, I toured Ise Jingu and the Ise-Shima area.
@@ -316,7 +317,8 @@ I continued south and visited Kumano Nachi Taisha and Nachi Falls.
 
 {{< timelineItem
     header="Day 3-3: Shionomisaki"
-    icon="camera-fill" >}}
+    icon="camera-fill"
+    >}}
 
 After visiting Kumano Nachi Taisha,
 I headed to Shionomisaki, the southernmost tip of Honshu, and the Shionomisaki Lighthouse.
