@@ -245,7 +245,9 @@ draft = false
 
 
 {{< timelineItem
-    header="Day 3-1: 出雲大社" icon="camera-fill" >}}
+    header="Day 3-1: 出雲大社"
+    icon="camera-fill"
+    >}}
 
 はじめに、島根県立古代出雲歴史博物館を訪れました。
 
@@ -328,7 +330,9 @@ draft = false
 
 
 {{< timelineItem
-    header="Day 3-2: 出雲日御碕灯台" icon="camera-fill" >}}
+    header="Day 3-2: 出雲日御碕灯台"
+    icon="camera-fill"
+    >}}
 
 出雲大社を観光した後、出雲日御碕灯台へ向かいました。
 

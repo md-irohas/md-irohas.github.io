@@ -249,7 +249,9 @@ On the third day, I traveled from Sakaiminato to Izumo, visited Izumo Taisha Shr
 
 
 {{< timelineItem
-    header="Day 3-1: Izumo Taisha Shrine" icon="camera-fill" >}}
+    header="Day 3-1: Izumo Taisha Shrine"
+    icon="camera-fill"
+    >}}
 
 First, I visited the Shimane Museum of Ancient Izumo.
 
@@ -332,7 +334,9 @@ There was a Starbucks near the entrance to Izumo Taisha, so I took a break there
 
 
 {{< timelineItem
-    header="Day 3-2: Hinomisaki Lighthouse" icon="camera-fill" >}}
+    header="Day 3-2: Hinomisaki Lighthouse"
+    icon="camera-fill"
+    >}}
 
 After touring Izumo Taisha, I headed to Hinomisaki Lighthouse.
 
