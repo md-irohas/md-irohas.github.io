@@ -350,9 +350,9 @@ draft = false
 
 
 {{< timelineItem
-     header="Day 4: 島根県浜田市 → 長崎県長崎市"
-     icon="car-front-fill"
-     >}}
+    header="Day 4: 島根県浜田市 → 長崎県長崎市"
+    icon="car-front-fill"
+    >}}
 
 4日目は、角島灯台と角島大橋を散策する予定だったのですが、
 暴風雨でとても観光できる状況ではなかったため、早々に移動しました。

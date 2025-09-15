@@ -30,7 +30,7 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1sZqxEe1eKhc5KFmviL429l
 1952年に国の特別天然記念物に指定され、1955年には秋吉台国定公園の一部となりました。
 現在は、そのうちの約1kmが観光ルートとして整備・公開されています。
 
-{{< alert icon="circle-info">}}
+{{< alert icon="circle-info" >}}
 
 洞窟マップが公開されているので、事前に確認しておくと便利です。
 私はあまり確認せずに行ってちょっと後悔しました。
@@ -203,7 +203,7 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1sZqxEe1eKhc5KFmviL429l
 観光案内には往復90分程度と書かれていましたが、
 私は写真を撮りながら歩いていたため、往復で2時間以上かかりました。
 
-{{< alert icon="circle-info">}}
+{{< alert icon="circle-info" >}}
 
 **洞窟内の写真撮影には明るいレンズ** がおすすめです。
 

@@ -353,9 +353,9 @@ After enjoying Inasa Beach, I continued west and stayed overnight at a hotel in 
 
 
 {{< timelineItem
-     header="Day 4: Hamada, Shimane → Nagasaki, Nagasaki"
-     icon="car-front-fill"
-     >}}
+    header="Day 4: Hamada, Shimane → Nagasaki, Nagasaki"
+    icon="car-front-fill"
+    >}}
 
 On the fourth day, I had planned to visit Tsunoshima Lighthouse and Tsunoshima Bridge,
 but the weather was so stormy that sightseeing wasn’t really possible, so I moved on quickly.
