@@ -25,6 +25,18 @@
   pageRef = "gallery"
   weight = 30
 
+[[main]]
+  name = "2024"
+  parent = "Gallery"
+  pageRef = "gallery/2024"
+  weight = 302024
+
+[[main]]
+  name = "2025"
+  parent = "Gallery"
+  pageRef = "gallery/2025"
+  weight = 302025
+
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
