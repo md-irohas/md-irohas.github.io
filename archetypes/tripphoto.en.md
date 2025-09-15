@@ -25,7 +25,7 @@ In \<Month\> \<Year\>, ...
 
 > The main story includes maps, photos, and links.
 
-{{< google-maps "" >}}
+{{< google-maps-2 "" >}}
 
 {{< figure
     src="IMG_XXXX.jpg"
