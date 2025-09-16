@@ -5,7 +5,7 @@ categories = ['ブログ（旅の写真）']
 tags = ['旅行', '写真', '山梨県', '山', '湖', '展望台']
 
 isCJKLanguage = true
-description = '🗻 2025年6月に訪れた山中湖で撮影した写真です。'
+description = '🗻 2025年6月に散策した山中湖で撮影した写真です。'
 summary = '📍 山中湖、山中湖親水公園、明神山パノラマ台、富士山'
 
 draft = false
