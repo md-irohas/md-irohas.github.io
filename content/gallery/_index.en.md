@@ -29,3 +29,10 @@ The original files are available on blog posts.
 
 <br>
 <br>
+
+{{< google-maps-2
+    url="https://www.google.com/maps/d/embed?mid=1FdvYOIpZlzuJW-wb9wspAowalbHileU&ehbc=2E312F&noprof=1"
+    >}}
+
+<br>
+<br>
