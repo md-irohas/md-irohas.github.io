@@ -36,6 +36,13 @@ showRelatedContent = false
 {{< /gallery >}}
 
 
+## マップ
+
+{{< google-maps-2
+  url="https://www.google.com/maps/d/embed?mid=1aeqDiW2l2CcIYREbeIOYBaZSjZ83Fb8&ehbc=2E312F&noprof=1"
+  >}}
+
+
 ## 関連記事
 
 {{< article link="/ja/blog/2024-04-18-tripphoto-tottori-sand-dunes/" >}}

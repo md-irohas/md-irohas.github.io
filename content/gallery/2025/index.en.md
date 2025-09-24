@@ -41,6 +41,13 @@ showRelatedContent = false
 {{< /gallery >}}
 
 
+## Map
+
+{{< google-maps-2
+    url="https://www.google.com/maps/d/embed?mid=1imG9InSLnMdhm2F9R94c5JmIwhZDGLs&ehbc=2E312F&noprof=1"
+    >}}
+
+
 ## Related Articles
 
 {{< article link="/blog/2025-03-15-tripphoto-iseshima-skyline/" >}}
