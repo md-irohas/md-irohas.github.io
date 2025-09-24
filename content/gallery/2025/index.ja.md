@@ -39,6 +39,12 @@ showRelatedContent = false
 <img src="DSC06012.jpg" alt="DSC06012.jpg" class="grid-w33" />
 <img src="DSC06041.jpg" alt="DSC06041.jpg" class="grid-w33" />
 <img src="DSC06095.jpg" alt="DSC06095.jpg" class="grid-w33" />
+<img src="DSC06125.jpg" alt="DSC06125.jpg" class="grid-w33" />
+<img src="DSC06134.jpg" alt="DSC06134.jpg" class="grid-w33" />
+<img src="IMG_3474.jpg" alt="IMG_3474.jpg" class="grid-w100" />
+<img src="DSC06178.jpg" alt="DSC06178.jpg" class="grid-w33" />
+<img src="DSC06191.jpg" alt="DSC06191.jpg" class="grid-w33" />
+<img src="DSC06210.jpg" alt="DSC06210.jpg" class="grid-w33" />
 {{< /gallery >}}
 
 
@@ -59,3 +65,6 @@ showRelatedContent = false
 {{< article link="/ja/blog/2025-08-22-tripphoto-nagasaki-peninsula/" >}}
 {{< article link="/ja/blog/2025-08-25-tripphoto-kanmon-straits/" >}}
 {{< article link="/ja/blog/2025-08-26-tripphoto-akiyoshido/" >}}
+{{< article link="/ja/blog/2025-09-15-tripphoto-yamanakako/" >}}
+{{< article link="/ja/blog/2025-09-17-tripphoto-kiyosato-yashimagahara-utsukushigahara/" >}}
+

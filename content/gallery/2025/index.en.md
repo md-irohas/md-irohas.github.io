@@ -31,6 +31,7 @@ showRelatedContent = false
 <img src="DSC05841-Enhanced-NR.jpg" alt="DSC05841-Enhanced-NR.jpg" class="grid-w33" />
 <img src="DSC05882-Enhanced-NR.jpg" alt="DSC05882-Enhanced-NR.jpg" class="grid-w33" />
 <img src="DSC05932-Enhanced-NR-2.jpg" alt="DSC05932-Enhanced-NR-2.jpg" class="grid-w33" />
+<img src="DSC05958-Enhanced-NR.jpg" alt="DSC05958-Enhanced-NR.jpg" class="grid-w33" />
 <img src="DSC05965-Enhanced-NR.jpg" alt="DSC05965-Enhanced-NR.jpg" class="grid-w33" />
 <img src="DSC05981-Enhanced-NR.jpg" alt="DSC05981-Enhanced-NR.jpg" class="grid-w33" />
 <img src="DSC05982-Enhanced-NR.jpg" alt="DSC05982-Enhanced-NR.jpg" class="grid-w33" />
@@ -38,6 +39,12 @@ showRelatedContent = false
 <img src="DSC06012.jpg" alt="DSC06012.jpg" class="grid-w33" />
 <img src="DSC06041.jpg" alt="DSC06041.jpg" class="grid-w33" />
 <img src="DSC06095.jpg" alt="DSC06095.jpg" class="grid-w33" />
+<img src="DSC06125.jpg" alt="DSC06125.jpg" class="grid-w33" />
+<img src="DSC06134.jpg" alt="DSC06134.jpg" class="grid-w33" />
+<img src="IMG_3474.jpg" alt="IMG_3474.jpg" class="grid-w100" />
+<img src="DSC06178.jpg" alt="DSC06178.jpg" class="grid-w33" />
+<img src="DSC06191.jpg" alt="DSC06191.jpg" class="grid-w33" />
+<img src="DSC06210.jpg" alt="DSC06210.jpg" class="grid-w33" />
 {{< /gallery >}}
 
 
@@ -58,4 +65,6 @@ showRelatedContent = false
 {{< article link="/blog/2025-08-22-tripphoto-nagasaki-peninsula/" >}}
 {{< article link="/blog/2025-08-25-tripphoto-kanmon-straits/" >}}
 {{< article link="/blog/2025-08-26-tripphoto-akiyoshido/" >}}
+{{< article link="/blog/2025-09-15-tripphoto-yamanakako/" >}}
+{{< article link="/blog/2025-09-17-tripphoto-kiyosato-yashimagahara-utsukushigahara/" >}}
 
