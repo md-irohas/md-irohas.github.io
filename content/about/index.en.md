@@ -18,9 +18,9 @@ Welcome to mkt's personal website.
 
 I am a researcher, an engineer, a workaholic, and a nomad.
 
-I will post articles about travels, photos, and techs.
+I will post articles about travels, photos, campings, and techs.
 
-I'm a beginner in the shell.
+I'm a beginner.
 
 
 ## My Gears
@@ -33,5 +33,4 @@ I'm a beginner in the shell.
      - SIGMA 30mm F1.4 DC DN | Contemporary
      - SIGMA 16mm F1.4 DC DN | Contemporary
 - Development: Adobe Lightroom
-
 
