@@ -1,5 +1,5 @@
 +++
-title = 'ブログ'
+title = '旅と写真のブログ'
 date = '2024-04-07'
 
 draft = false
