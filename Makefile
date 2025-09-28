@@ -3,7 +3,7 @@
 all:
 
 
-# create new content
+# create a new article for trip and photo
 # e.g.)
 # 	make article KIND=trip SLUG=2025-01-01-trip-some-place
 .PHONY: article
@@ -15,8 +15,21 @@ article:
 	@if [ -z "$(SLUG)" ]; then \
 		echo "empty slug."; exit 1; \
 	fi
+
 	hugo new content -k "$(KIND).en" blog/$(SLUG)/index.en.md
 	hugo new content -k "$(KIND).ja" blog/$(SLUG)/index.ja.md
+
+
+# create new article for tech
+# e.g.)
+# 	make tech-article SLUG=2025-01-01-some-slug
+.PHONY: tech-article
+tech-article:
+	@if [ -z "$(SLUG)" ]; then \
+		echo "empty slug."; exit 1; \
+	fi
+	hugo new content -k "tech.en" tech/$(SLUG)/index.en.md
+	hugo new content -k "tech.ja" tech/$(SLUG)/index.ja.md
 
 
 # run a server
