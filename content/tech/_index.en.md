@@ -6,5 +6,8 @@ draft = false
 +++
 
 
-This is a technical blog on development.
+This is a tech blog.
+
+I plan to post mainly IT-related articles.
+
 
