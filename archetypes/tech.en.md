@@ -5,14 +5,14 @@ categories = ['']
 tags = ['']
 
 externalUrl = 'https://dev.to/...'
-isCJKLanguage = true
+isCJKLanguage = false
 description = '<Summary by ChatGPT>'
 summary = ''
-showReadingTime: false
+showReadingTime = false
 
 draft = true
 
-build:
-  render: "false"
-  list: "local"
+[build]
+render = false
+list = "local"
 +++
