@@ -18,7 +18,9 @@ draft = false
 
 説明文...
 
-{{< google-maps-2 "#" >}}
+{{< google-maps-2 
+    url=#"
+    >}}
 
 
 ## タイムライン
@@ -91,7 +93,9 @@ draft = false
 
 ## マップ
 
-{{< google-maps-2 "#" >}}
+{{< google-maps-2
+    url="#"
+    >}}
 
 {{< text-right >}}
 ※ルートは大体の経路です。

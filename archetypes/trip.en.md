@@ -18,7 +18,9 @@ draft = false
 
 Some sentences...
 
-{{< google-maps-2 "#" >}}
+{{< google-maps-2
+    url="#"
+    >}}
 
 
 ## Timeline
@@ -91,7 +93,9 @@ Some sentences...
 
 ## Map
 
-{{< google-maps-2 "#" >}}
+{{< google-maps-2
+    url="#"
+    >}}
 
 {{< text-right >}}
 \* The route is approximate.

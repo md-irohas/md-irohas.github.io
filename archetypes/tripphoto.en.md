@@ -25,7 +25,9 @@ In \<Month\> \<Year\>, ...
 
 > The main story includes maps, photos, and links.
 
-{{< google-maps-2 "" >}}
+{{< google-maps-2
+  url=""
+  >}}
 
 {{< figure
     src="IMG_XXXX.jpg"
@@ -64,12 +66,16 @@ In \<Month\> \<Year\>, ...
 
 ### \<Site\>
 
-{{< google-maps-2 "#" >}}
+{{< google-maps-2
+  url="#"
+  >}}
 
 
 ### Sites
 
-{{< google-maps-2 "#" >}}
+{{< google-maps-2
+  url="#"
+  >}}
 
 
 ## Change History

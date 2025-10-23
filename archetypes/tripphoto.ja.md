@@ -25,7 +25,9 @@ googleDriveUrl = ''
 
 > マップ、画像、リンクなどを含む記事を書きます。
 
-{{< google-maps-2 "" >}}
+{{< google-maps-2
+  url=""
+  >}}
 
 {{< figure
     src="IMG_XXXX.jpg"
@@ -64,12 +66,16 @@ googleDriveUrl = ''
 
 ### \<場所\>
 
-{{< google-maps-2 "#" >}}
+{{< google-maps-2 
+  url="#"
+  >}}
 
 
 ### 場所一覧
 
-{{< google-maps-2 "#" >}}
+{{< google-maps-2
+  url="#"
+  >}}
 
 
 ## 編集履歴

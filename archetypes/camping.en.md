@@ -58,7 +58,9 @@ In \<Month\> \<Year\>, ...
 
 ### <Camp-Site>
 
-{{< google-maps-2 "#" >}}
+{{< google-maps-2
+  url="#"
+  >}}
 
 
 ## Change History

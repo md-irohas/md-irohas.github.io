@@ -22,7 +22,9 @@ googleDriveUrl = ''
 
 > マップ、画像、リンクなどを含む記事を書きます。
 
-{{< google-maps-2 "#" >}}
+{{< google-maps-2
+  url="#"
+  >}}
 
 {{< figure
     src="IMG_XXXX.jpg"
@@ -59,7 +61,9 @@ googleDriveUrl = ''
 
 ### <キャンプ場>
 
-{{< google-maps-2 "#" >}}
+{{< google-maps-2
+  url="#"
+  >}}
 
 
 ## 編集履歴
