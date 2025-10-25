@@ -6,7 +6,7 @@ tags = ['Camping', 'Photo', 'Nagano', 'Highland Camping', 'Starry Night']
 
 isCJKLanguage = false
 description = '🏕️ A blog post about my photos I took at Tatehara Kogen Camping Ground I stayed in October 2025.'
-sumamry = '📍 Shishi-iwa Yatsugatake Observatory, Tatehara Kogen Camping Ground, Yachiho Highland'
+summary = '📍 Shishi-iwa Yatsugatake Observatory, Tatehara Kogen Camping Ground, Yachiho Highland'
 
 draft = false
 
