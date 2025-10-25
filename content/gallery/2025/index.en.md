@@ -6,7 +6,7 @@ tags = ['']
 
 draft = false
 description = "mkt's photo gallery in 2025"
-summary = '📍 Iseshima Skyline, Iseshima, Kumano Nachi Taisha, Nachi Fall, Cape Shionomisaki, Camp Resort Oshima, Nagasaki Peninsula, Gunkanshima, Kanmon Straits, Akiyoshido Cave'
+summary = '📍 Iseshima Skyline, Iseshima, Kumano Nachi Taisha, Nachi Fall, Cape Shionomisaki, Camp Resort Oshima, Nagasaki Peninsula, Gunkanshima, Kanmon Straits, Akiyoshido Cave, Yamanakako Water Park, Yamanakako Myojinyama Panorama-dai, Kiyosato Terrace, Yashimagahara Wetland, Roadside Station Utsukushigahara Kogen, Shishi-iwa, Tatehara Kogen Camping Ground, Koumi Furusato Cafe'
 
 # Params
 showDate = false
