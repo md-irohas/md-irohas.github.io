@@ -17,7 +17,7 @@ showRelatedContent = false
 +++
 
 
-{{< carousel images="DSC*.jpg" aspectRatio="16-9" interval="2500" >}}
+{{< carousel images="{DSC*.jpg,IMG_*.jpg}" aspectRatio="16-9" interval="2500" >}}
 
 
 ## ギャラリー
