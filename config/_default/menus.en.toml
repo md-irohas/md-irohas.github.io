@@ -37,6 +37,12 @@
   weight = 30
 
 [[main]]
+  name = "2023"
+  parent = "Gallery"
+  pageRef = "gallery/2023"
+  weight = 302023
+
+[[main]]
   name = "2024"
   parent = "Gallery"
   pageRef = "gallery/2024"
