@@ -8,7 +8,7 @@ isCJKLanguage = true
 description = '🏕️ 2023年9月に小海リエックスキャンプ場でキャンプしたときの写真です。'
 summary = '📍 小海リエックスキャンプ場（現・シャトレーゼキャンプリゾート小海）'
 
-draft = true
+draft = false
 
 # Params
 googlePhotoUrl = 'https://photos.app.goo.gl/C4ehgRCnrXave3Ak9'
