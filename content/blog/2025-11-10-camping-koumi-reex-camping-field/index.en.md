@@ -1,5 +1,5 @@
 +++
-title = 'Camping: Koumi Reex Camping Field (September 2023)'
+title = 'Camping: Koumi Reex Camping Field (September, 2023)'
 date = '2025-11-10'
 categories = ['Blog (Camping)']
 tags = ['Camping', 'Photo', 'Nagano', 'Highland Camping', 'Starry Night']
