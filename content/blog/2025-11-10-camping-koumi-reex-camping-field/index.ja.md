@@ -27,7 +27,7 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/130WBwbSaJet64MRBiIRf98
 
 2023年9月、長野県の小海リエックスキャンプ場（現・シャトレーゼキャンプリゾート小海）で一泊しました。
 
-- 小海リエックスキャンプ場（現、シャトレーゼキャンプリゾート小海）: https://koumi.gateauxkingdom.com/camp/
+- 小海リエックスキャンプ場（現・シャトレーゼキャンプリゾート小海）: https://koumi.gateauxkingdom.com/camp/
 
 {{< google-maps-2
   url="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d412945.7228107353!2d138.16002895195314!3d36.04132660000001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601c39249d44b105%3A0x34fe2db0d7569043!2z44K344Oj44OI44Os44O844K844Kt44Oj44Oz44OX44Oq44K-44O844OI5bCP5rW3!5e0!3m2!1sja!2sjp!4v1762851320533!5m2!1sja!2sjp"
