@@ -6,7 +6,7 @@ tags = ['']
 
 draft = false
 description = "mkt's photo gallery in 2023"
-summary = '📍 小海リエックスキャンプ場（現・シャトレーゼキャンプリゾート小海）、白駒の森、レストハウスふるさと'
+summary = '📍 大菩薩ライン、小海リエックスキャンプ場（現・シャトレーゼキャンプリゾート小海）、白駒の森、レストハウスふるさと'
 
 # Params
 showDate = false
@@ -23,6 +23,7 @@ showRelatedContent = false
 ## ギャラリー
 
 {{< gallery >}}
+<img src="IMG_2318.jpg" alt="IMG_2318.jpg" class="grid-w33" />
 <img src="DSC05090.jpg" alt="DSC05140.jpg" class="grid-w33" />
 <img src="DSC05124.jpg" alt="DSC05142.jpg" class="grid-w33" />
 <img src="DSC05140.jpg" alt="DSC05140.jpg" class="grid-w33" />
@@ -44,3 +45,4 @@ showRelatedContent = false
 
 {{< article link="/ja/blog/2025-10-25-tripphoto-shirakoma-forest/" >}}
 {{< article link="/ja/blog/2025-11-10-camping-koumi-reex-camping-field/" >}}
+{{< article link="/ja/blog/2025-11-13-tripphoto-daibosatsu-line/" >}}

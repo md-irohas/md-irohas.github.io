@@ -6,7 +6,7 @@ tags = ['']
 
 draft = false
 description = "mkt's photo gallery in 2023"
-summary = '📍 Koumi Reex Camping Field (now Chateraise Camp Resort Koumi), Shirakoma Forest, Koumi Furusato Cafe'
+summary = '📍 Daibosatsu Line, Koumi Reex Camping Field (now Chateraise Camp Resort Koumi), Shirakoma Forest, Koumi Furusato Cafe'
 
 # Params
 showDate = false
@@ -23,6 +23,7 @@ showRelatedContent = false
 ## Gallery
 
 {{< gallery >}}
+<img src="IMG_2318.jpg" alt="IMG_2318.jpg" class="grid-w33" />
 <img src="DSC05090.jpg" alt="DSC05140.jpg" class="grid-w33" />
 <img src="DSC05124.jpg" alt="DSC05142.jpg" class="grid-w33" />
 <img src="DSC05140.jpg" alt="DSC05140.jpg" class="grid-w33" />
@@ -44,3 +45,4 @@ showRelatedContent = false
 
 {{< article link="/blog/2025-10-25-tripphoto-shirakoma-forest/" >}}
 {{< article link="/blog/2025-11-10-camping-koumi-reex-camping-field/" >}}
+{{< article link="/blog/2025-11-13-tripphoto-daibosatsu-line/" >}}
