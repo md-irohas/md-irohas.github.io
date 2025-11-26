@@ -6,7 +6,7 @@ tags = ['']
 
 draft = false
 description = "mkt's photo gallery in 2025"
-summary = '📍 伊勢志摩スカイライン、伊勢志摩、出雲那智大社、那智の滝、潮岬、南紀串本リゾート大島、長崎半島、軍艦島、関門海峡、秋芳洞、山中湖親水公園、山中湖明神山パノラマ台、清里テラス、八島ヶ原湿原、道の駅 美ヶ原高原、獅子岩、立原高原キャンプ場、レストハウスふるさと'
+summary = '📍 伊勢志摩スカイライン、伊勢志摩、出雲那智大社、那智の滝、潮岬、南紀串本リゾート大島、長崎半島、軍艦島、関門海峡、秋芳洞、山中湖親水公園、山中湖明神山パノラマ台、清里テラス、八島ヶ原湿原、道の駅 美ヶ原高原、獅子岩、立原高原キャンプ場、レストハウスふるさと、武蔵国分寺'
 
 # Params
 showDate = false
@@ -48,7 +48,6 @@ showRelatedContent = false
 
 <img src="DSC06125.jpg" alt="DSC06125.jpg" class="grid-w33" />
 <img src="DSC06134.jpg" alt="DSC06134.jpg" class="grid-w33" />
-<img src="IMG_3474.jpg" alt="IMG_3474.jpg" class="grid-w100" />
 
 <img src="DSC06178.jpg" alt="DSC06178.jpg" class="grid-w33" />
 <img src="DSC06191.jpg" alt="DSC06191.jpg" class="grid-w33" />
@@ -60,8 +59,15 @@ showRelatedContent = false
 <img src="DSC06340.jpg" alt="DSC06340.jpg" class="grid-w33" />
 <img src="DSC06345.jpg" alt="DSC06345.jpg" class="grid-w33" />
 <img src="DSC06388.jpg" alt="DSC06388.jpg" class="grid-w33" />
+
+<img src="DSC06405.jpg" alt="DSC06405.jpg" class="grid-w33" />
+<img src="DSC06408.jpg" alt="DSC06408.jpg" class="grid-w33" />
+<img src="DSC06441-2.jpg" alt="DSC06441-2.jpg" class="grid-w33" />
+<img src="DSC06442.jpg" alt="DSC06442.jpg" class="grid-w33" />
+
 <img src="IMG_3573.jpg" alt="IMG_3573.jpg" class="grid-w33" />
 <img src="IMG_3586.jpg" alt="IMG_3586.jpg" class="grid-w100" />
+<img src="IMG_3474.jpg" alt="IMG_3474.jpg" class="grid-w100" />
 
 {{< /gallery >}}
 
@@ -86,3 +92,4 @@ showRelatedContent = false
 {{< article link="/ja/blog/2025-09-15-tripphoto-yamanakako/" >}}
 {{< article link="/ja/blog/2025-09-17-tripphoto-kiyosato-yashimagahara-utsukushigahara/" >}}
 {{< article link="/ja/blog/2025-10-23-camping-tateharakogen-camping-ground/" >}}
+{{< article link="/ja/blog/2025-11-24-tripphoto-kokubunji/" >}}
