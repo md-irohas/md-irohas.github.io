@@ -2,7 +2,7 @@
 title = 'Trip Photo: Musashi Kokubunji (November, 2025)'
 date = '2025-11-24'
 categories = ['Blog (Trip Photo)']
-tags = ['Trip', 'Photo', 'Tokyo', 'Musashi Kokubunji', 'Otaka no Michi']
+tags = ['Trip', 'Photo', 'Tokyo', 'Temple', 'Shrine', 'Historic Spot']
 
 isCJKLanguage = false
 description = '🍁 A blog post about photos I took at Musashi Kokubunji in November 2025.'
