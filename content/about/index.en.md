@@ -29,8 +29,15 @@ I'm a beginner.
 
 - Camera: Sony α6500
 - Lens:
-     - Sony SEL18200LE E 18-200mm F3.5-6.3 OSS LE
-     - SIGMA 30mm F1.4 DC DN | Contemporary
-     - SIGMA 16mm F1.4 DC DN | Contemporary
+    - Sony SEL18200LE E 18-200mm F3.5-6.3 OSS LE
+        - Kenko PRO1D Lotus C-PL 62mm
+    - SIGMA 30mm F1.4 DC DN | Contemporary
+        - Kenko MC Prosofton (A)N 52mm
+        - Kenko STARRY NIGHT 52mm
+    - SIGMA 16mm F1.4 DC DN | Contemporary
+        - Kenko MC Prosofton (A)N 67mm
+        - Kenko STARRY NIGHT 67mm
+    - SIGMA 18–50mm F2.8 DC DN | Contemporary (55mm)
+        - Kenko Zéta Wideband C-PL 55mm
 - Development: Adobe Lightroom
 
