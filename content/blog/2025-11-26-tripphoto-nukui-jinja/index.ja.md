@@ -5,7 +5,7 @@ categories = ['ブログ（旅の写真）']
 tags = ['旅行', '写真', '東京都', '神社']
 
 isCJKLanguage = true
-description = '⛩️ 2025年11月に散策した貫井神社で撮影した写真です。'
+description = '⛩️ 2025年11月に貫井神社で撮影した写真です。'
 summary = '📍 貫井神社'
 
 draft = false

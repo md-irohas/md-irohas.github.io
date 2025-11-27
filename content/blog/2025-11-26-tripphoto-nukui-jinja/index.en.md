@@ -5,7 +5,7 @@ categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Tokyo', 'Shrine']
 
 isCJKLanguage = false
-description = '⛩️ A blog post about photos taken at Nukui Jinja in November 2025.'
+description = '⛩️ A blog post about photos I took at Nukui Jinja in November 2025.'
 summary = '📍 Nukui Jinja'
 
 draft = false
