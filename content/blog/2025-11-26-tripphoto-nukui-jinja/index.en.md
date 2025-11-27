@@ -19,9 +19,9 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1pGhahG6ZkIG51D3tB8BE6O
 ## Story
 
 In November 2025, I was cycling around the Kokubunji area and decided to stop by Nukui Jinja (Shrine).
-  
+
 {{< google-maps-2
-  url="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d51841.95901844138!2d139.484638!3d35.6986045!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018e5b1139d403f%3A0x54baa5ffdc50132c!2z6LKr5LqV56We56S-!5e0!3m2!1sja!2sjp!4v1764229450573!5m2!1sja!2sjp"
+  url="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d51842.027153088675!2d139.4916094!3d35.6984997!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018e5b1139d403f%3A0x54baa5ffdc50132c!2sNukui%20Shrine!5e0!3m2!1sen!2sjp!4v1764234993226!5m2!1sen!2sjp"
   >}}
 
 
@@ -107,7 +107,7 @@ With its main hall, sacred pond, small bridge, and autumn leaves reflecting on t
 ### Nukui Jinja
 
 {{< google-maps-2 
-  url="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d51841.95901844138!2d139.484638!3d35.6986045!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018e5b1139d403f%3A0x54baa5ffdc50132c!2z6LKr5LqV56We56S-!5e0!3m2!1sja!2sjp!4v1764229450573!5m2!1sja!2sjp"
+  url="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d51842.027153088675!2d139.4916094!3d35.6984997!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018e5b1139d403f%3A0x54baa5ffdc50132c!2sNukui%20Shrine!5e0!3m2!1sen!2sjp!4v1764234993226!5m2!1sen!2sjp"
   >}}
 
 
