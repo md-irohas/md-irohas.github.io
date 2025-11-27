@@ -6,7 +6,7 @@ tags = ['']
 
 draft = false
 description = "mkt's photo gallery in 2025"
-summary = '📍 Iseshima Skyline, Iseshima, Kumano Nachi Taisha, Nachi Fall, Cape Shionomisaki, Camp Resort Oshima, Nagasaki Peninsula, Gunkanshima, Kanmon Straits, Akiyoshido Cave, Yamanakako Water Park, Yamanakako Myojinyama Panorama-dai, Kiyosato Terrace, Yashimagahara Wetland, Roadside Station Utsukushigahara Kogen, Shishi-iwa, Tatehara Kogen Camping Ground, Koumi Furusato Cafe, Musashi Kokubunji'
+summary = '📍 Iseshima Skyline, Iseshima, Kumano Nachi Taisha, Nachi Fall, Cape Shionomisaki, Camp Resort Oshima, Nagasaki Peninsula, Gunkanshima, Kanmon Straits, Akiyoshido Cave, Yamanakako Water Park, Yamanakako Myojinyama Panorama-dai, Kiyosato Terrace, Yashimagahara Wetland, Roadside Station Utsukushigahara Kogen, Shishi-iwa, Tatehara Kogen Camping Ground, Koumi Furusato Cafe, Musashi Kokubunji, Nukui Jinja'
 
 # Params
 showDate = false
@@ -65,6 +65,11 @@ showRelatedContent = false
 <img src="DSC06441-2.jpg" alt="DSC06441-2.jpg" class="grid-w33" />
 <img src="DSC06442.jpg" alt="DSC06442.jpg" class="grid-w33" />
 
+<img src="DSC06473.jpg" alt="DSC06473.jpg" class="grid-w33" />
+<img src="DSC06490.jpg" alt="DSC06490.jpg" class="grid-w33" />
+<img src="DSC06502.jpg" alt="DSC06502.jpg" class="grid-w33" />
+<img src="DSC06505.jpg" alt="DSC06505.jpg" class="grid-w33" />
+
 <img src="IMG_3573.jpg" alt="IMG_3573.jpg" class="grid-w33" />
 <img src="IMG_3586.jpg" alt="IMG_3586.jpg" class="grid-w100" />
 <img src="IMG_3474.jpg" alt="IMG_3474.jpg" class="grid-w100" />
@@ -93,3 +98,4 @@ showRelatedContent = false
 {{< article link="/blog/2025-09-17-tripphoto-kiyosato-yashimagahara-utsukushigahara/" >}}
 {{< article link="/blog/2025-10-23-camping-tateharakogen-camping-ground/" >}}
 {{< article link="/blog/2025-11-24-tripphoto-kokubunji/" >}}
+{{< article link="/blog/2025-11-26-tripphoto-nukui-jinja/" >}}
