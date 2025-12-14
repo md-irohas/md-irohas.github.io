@@ -69,11 +69,15 @@ showRelatedContent = false
 <img src="DSC06490.jpg" alt="DSC06490.jpg" class="grid-w33" />
 <img src="DSC06502.jpg" alt="DSC06502.jpg" class="grid-w33" />
 <img src="DSC06505.jpg" alt="DSC06505.jpg" class="grid-w33" />
+<img src="DSC06528.jpg" alt="DSC06528.jpg" class="grid-w33" />
+<img src="DSC06561.jpg" alt="DSC06561.jpg" class="grid-w33" />
 
 <img src="IMG_3573.jpg" alt="IMG_3573.jpg" class="grid-w33" />
+<img src="IMG_3647.jpg" alt="IMG_3647.jpg" class="grid-w33" />
+<img src="IMG_3649.jpg" alt="IMG_3649.jpg" class="grid-w33" />
+
 <img src="IMG_3586.jpg" alt="IMG_3586.jpg" class="grid-w100" />
 <img src="IMG_3474.jpg" alt="IMG_3474.jpg" class="grid-w100" />
-
 {{< /gallery >}}
 
 
@@ -99,3 +103,4 @@ showRelatedContent = false
 {{< article link="/blog/2025-10-23-camping-tateharakogen-camping-ground/" >}}
 {{< article link="/blog/2025-11-24-tripphoto-kokubunji/" >}}
 {{< article link="/blog/2025-11-26-tripphoto-nukui-jinja/" >}}
+{{< article link="/blog/2025-12-13-tripphoto-tonogayato-garden/" >}}
