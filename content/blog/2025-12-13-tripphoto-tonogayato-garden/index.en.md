@@ -8,7 +8,7 @@ isCJKLanguage = false
 description = '🍁 Photos I took while strolling through Tonogayato Garden in December 2025.'
 summary = '📍 Tonogayato Garden'
 
-draft = true
+draft = false
 
 # Params
 googlePhotoUrl = 'https://photos.app.goo.gl/52hPahaBqAkhNadH6'

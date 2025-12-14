@@ -8,7 +8,7 @@ isCJKLanguage = true
 description = '🍁 2025年12月に訪れた殿ヶ谷戸庭園で撮影した写真です。'
 summary = '📍 殿ヶ谷戸庭園'
 
-draft = true
+draft = false
 
 # Params
 googlePhotoUrl = 'https://photos.app.goo.gl/52hPahaBqAkhNadH6'
