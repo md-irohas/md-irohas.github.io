@@ -1,0 +1,44 @@
+{
+    "name": "Hugo (w/ imagemagick)",
+
+    // Container image.
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04",
+
+    // Features to install.
+    "features": {
+        "ghcr.io/devcontainers/features/hugo:1": {
+            "version": "latest"
+        }
+    },
+
+    // Workspace folder inside container.
+    "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+
+	// Use 'forwardPorts' to make a list of ports inside the container available locally.
+    "forwardPorts": [
+        1313    // Hugo default server port
+    ],
+
+    // Mounts local files into the container.
+    "mounts": [
+        // git configs
+		"source=${localEnv:HOME}/dev/container/gitconfig-irohas,target=/home/vscode/.dotfiles/gitconfig,type=bind,readonly",
+		"source=${localEnv:HOME}/dev/container/git-commit-message,target=/home/vscode/.dotfiles/git-commit-message,type=bind,readonly",
+		// SSH configs
+		"source=${localEnv:HOME}/dev/container/id_ed25519_irohas.pub,target=/home/vscode/.ssh/id_ed25519_irohas.pub,type=bind,readonly",
+		"source=${localEnv:HOME}/dev/container/known_hosts,target=/home/vscode/.ssh/known_hosts,type=bind,readonly",
+		"source=${localEnv:HOME}/dev/container/allowed_signers,target=/home/vscode/.ssh/allowed_signers,type=bind,readonly"
+    ],
+
+    // Commands to run on container creation and start.
+    "onCreateCommand": "sudo apt-get update && sudo apt-get install -y imagemagick libimage-exiftool-perl",
+
+    // VS Code extensions to install.
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "mhutchie.git-graph"
+            ]
+        }
+    }
+}

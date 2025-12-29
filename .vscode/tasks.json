@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Hugo: stop",
+      "type": "shell",
+      "command": "pkill -f \"/usr/local/hugo/bin/hugo server\"",
+      "problemMatcher": []
+    },
+    {
+      "label": "Hugo: start",
+      "type": "shell",
+      "command": "/usr/local/hugo/bin/hugo server --bind 0.0.0.0 --port 1313 --buildDrafts",
+      "options": { "cwd": "${workspaceFolder}" },
+      "isBackground": true,
+      "problemMatcher": []
+    }
+  ]
+}
