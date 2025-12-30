@@ -23,7 +23,7 @@ content/
     |- blog/        Blog posts
     |   |- <YYYY-mm-dd>-<category>-<slug>/
     |- gallery/     Photo gallery
-    |- tech/         Tech posts (Links to external platforms)
+    |- tech/        Tech posts (Links to external platforms)
 ```
 
 
@@ -33,5 +33,4 @@ The followings are external rosources I used in this website.
 
 - Bootstrap Icons: https://icons.getbootstrap.com/
     - SVG files in `assets/icons/` are Bootstrap Icons ([MIT License](assets/icons/LICENSE))
-
 
