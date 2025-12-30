@@ -14,6 +14,13 @@
     // Workspace folder inside container.
     "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
 
+	// Environment variables.
+	"containerEnv": {
+        "LANG": "C.UTF-8",
+        "LC_ALL": "C.UTF-8"
+    },
+	// "remoteEnv": {},
+
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
     "forwardPorts": [
         1313    // Hugo default server port

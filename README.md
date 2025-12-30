@@ -23,7 +23,9 @@ content/
     |- blog/        Blog posts
     |   |- <YYYY-mm-dd>-<category>-<slug>/
     |- gallery/     Photo gallery
+    |   |- <YYYY>/
     |- tech/        Tech posts (Links to external platforms)
+        |- <YYYY-mm-dd>-<slug>/
 ```
 
 
