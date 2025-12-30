@@ -16,6 +16,8 @@ showPagination = false
 showRelatedContent = false
 +++
 
+<br>
+<br>
 
 {{< carousel images="DSC*.jpg" aspectRatio="16-9" interval="2500" >}}
 
