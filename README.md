@@ -11,6 +11,8 @@ This README is just a note for me.
 
 - Hugo (as a Static Site Generator (SSG))
 - Blowfish (as a theme of Hugo)
+- (Optional) DevContainer
+- (Optional) ImageMagick, Exiftool
 
 
 ## Directory Structure
@@ -21,6 +23,7 @@ content/
     |- blog/        Blog posts
     |   |- <YYYY-mm-dd>-<category>-<slug>/
     |- gallery/     Photo gallery
+    |- tech/         Tech posts (Links to external platforms)
 ```
 
 
