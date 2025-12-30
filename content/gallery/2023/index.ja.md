@@ -16,6 +16,8 @@ showPagination = false
 showRelatedContent = false
 +++
 
+<br>
+<br>
 
 {{< carousel images="{DSC*.jpg,IMG_*.jpg}" aspectRatio="16-9" interval="2500" >}}
 
@@ -23,6 +25,7 @@ showRelatedContent = false
 ## ギャラリー
 
 {{< gallery >}}
+<img src="DSC05016.jpg" alt="DSC05016.jpg" class="grid-w33" />
 <img src="IMG_2318.jpg" alt="IMG_2318.jpg" class="grid-w33" />
 <img src="DSC05090.jpg" alt="DSC05140.jpg" class="grid-w33" />
 <img src="DSC05124.jpg" alt="DSC05142.jpg" class="grid-w33" />
@@ -46,3 +49,5 @@ showRelatedContent = false
 {{< article link="/ja/blog/2025-10-25-tripphoto-shirakoma-forest/" >}}
 {{< article link="/ja/blog/2025-11-10-camping-koumi-reex-camping-field/" >}}
 {{< article link="/ja/blog/2025-11-13-tripphoto-daibosatsu-line/" >}}
+{{< article link="/ja/blog/2025-12-24-tripphoto-kashima-jingu/" >}}
+
