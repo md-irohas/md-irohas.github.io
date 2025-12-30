@@ -6,7 +6,7 @@ tags = ['']
 
 draft = false
 description = "mkt's photo gallery in 2023"
-summary = '📍 Daibosatsu Line, Koumi Reex Camping Field (now Chateraise Camp Resort Koumi), Shirakoma Forest, Koumi Furusato Cafe'
+summary = '📍 Kashima Jingu, Daibosatsu Line, Koumi Reex Camping Field (now Chateraise Camp Resort Koumi), Shirakoma Forest, Koumi Furusato Cafe'
 
 # Params
 showDate = false

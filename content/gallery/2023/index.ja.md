@@ -6,7 +6,7 @@ tags = ['']
 
 draft = false
 description = "mkt's photo gallery in 2023"
-summary = '📍 大菩薩ライン、小海リエックスキャンプ場（現・シャトレーゼキャンプリゾート小海）、白駒の森、レストハウスふるさと'
+summary = '📍 鹿島神宮、大菩薩ライン、小海リエックスキャンプ場（現・シャトレーゼキャンプリゾート小海）、白駒の森、レストハウスふるさと'
 
 # Params
 showDate = false
