@@ -5,7 +5,7 @@ categories = ['ブログ（旅の写真）']
 tags = ['旅行', '写真', '茨城県', '神社']
 
 isCJKLanguage = true
-description = '⛩️ 2023年7月に訪れた鹿島神宮で撮影した写真です。'
+description = '⛩️ 2023年7月に参拝した鹿島神宮で撮影した写真です。'
 summary = '📍 鹿島神宮'
 
 draft = false
@@ -34,7 +34,7 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1grTa1oYAfZDxZiZp14iHa4
   >}}
 
 
-鹿島神宮は、武の神・[建御雷神（Wikipedia）](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%85%E3%83%81) を祀る、国内でも最古級の神社として知られています。
+鹿島神宮は、茨城県鹿嶋市にある武の神・[建御雷神（Wikipedia）](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%85%E3%83%81) を祀る神社で、国内でも最古級の神社として知られています。
 
 神社までは車で行ったのですが、入口付近は駐車場の呼び込み合戦で不穏な感じでした。
 鳥居の近く（いちばん奥）に公式の駐車場があったので、私はそこに停めて参拝しました。
