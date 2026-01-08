@@ -34,6 +34,10 @@ showRelatedContent = false
 <img src="DSC05153.jpg" alt="DSC05153.jpg" class="grid-w33" />
 <img src="DSC05156.jpg" alt="DSC05156.jpg" class="grid-w33" />
 <img src="DSC05165.jpg" alt="DSC05165.jpg" class="grid-w33" />
+<img src="DSC05042.jpg" alt="DSC05042.jpg" class="grid-w33" />
+<img src="DSC05048.jpg" alt="DSC05048.jpg" class="grid-w33" />
+<img src="IMG_2291.jpg" alt="IMG_2291.jpg" class="grid-w100" />
+<img src="IMG_2292.jpg" alt="IMG_2292.jpg" class="grid-w100" />
 {{< /gallery >}}
 
 
@@ -50,4 +54,5 @@ showRelatedContent = false
 {{< article link="/ja/blog/2025-11-10-camping-koumi-reex-camping-field/" >}}
 {{< article link="/ja/blog/2025-11-13-tripphoto-daibosatsu-line/" >}}
 {{< article link="/ja/blog/2025-12-24-tripphoto-kashima-jingu/" >}}
+{{< article link="/ja/blog/2026-01-03-tripphoto-suwataisha-venusline-utsukushigahara/" >}}
 
