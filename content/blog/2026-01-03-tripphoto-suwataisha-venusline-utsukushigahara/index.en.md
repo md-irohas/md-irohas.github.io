@@ -8,7 +8,7 @@ isCJKLanguage = false
 description = '🏞️ Photos I took at the Venus Line and Utsukushigahara in August 2023.'
 summary = '📍 Suwa Taisha, Lake Suwa Geyser Center, Venus Line, Mitsumine Teahouse, Roadside Station Utsukushigahara'
 
-draft = true
+draft = false
 
 # Params
 googlePhotoUrl = 'https://photos.app.goo.gl/pW5BustVqfFavA9r8'
