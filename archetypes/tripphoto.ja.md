@@ -1,5 +1,5 @@
 +++
-title = '旅の写真: XXXX（202X年X月）'
+title = '📸 旅の写真: XXXX（202X年X月）'
 date = '{{ now.Format "2006-01-02" }}'
 categories = ['ブログ（旅の写真）']
 tags = ['旅行', '写真', '<都道府県>', '<場所の種類>']
