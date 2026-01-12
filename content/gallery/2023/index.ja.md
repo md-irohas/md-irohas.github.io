@@ -6,7 +6,7 @@ tags = ['']
 
 draft = false
 description = "mkt's photo gallery in 2023"
-summary = '📍 鹿島神宮、大菩薩ライン、小海リエックスキャンプ場（現・シャトレーゼキャンプリゾート小海）、白駒の森、レストハウスふるさと、諏訪湖間欠泉センター、ヴィーナスライン、三峰茶屋、道の駅 美ヶ原高原'
+summary = '📍 鹿島神宮、大菩薩ライン、小海リエックスキャンプ場（現・シャトレーゼキャンプリゾート小海）、白駒の森、レストハウスふるさと、諏訪湖間欠泉センター、ヴィーナスライン、三峰茶屋、道の駅 美ヶ原高原、海ほたるPA、鋸山 日本寺、野島崎灯台、かつうら海中公園'
 
 # Params
 showDate = false
@@ -25,19 +25,46 @@ showRelatedContent = false
 ## ギャラリー
 
 {{< gallery >}}
-<img src="DSC05016.jpg" alt="DSC05016.jpg" class="grid-w33" />
+<!-- photos -->
+<!-- 2025-11-13 -->
 <img src="IMG_2318.jpg" alt="IMG_2318.jpg" class="grid-w33" />
-<img src="DSC05090.jpg" alt="DSC05140.jpg" class="grid-w33" />
-<img src="DSC05124.jpg" alt="DSC05142.jpg" class="grid-w33" />
+
+<!-- 2025-10-25 -->
 <img src="DSC05140.jpg" alt="DSC05140.jpg" class="grid-w33" />
 <img src="DSC05142.jpg" alt="DSC05142.jpg" class="grid-w33" />
 <img src="DSC05153.jpg" alt="DSC05153.jpg" class="grid-w33" />
 <img src="DSC05156.jpg" alt="DSC05156.jpg" class="grid-w33" />
 <img src="DSC05165.jpg" alt="DSC05165.jpg" class="grid-w33" />
+
+<!-- 2025-11-10 -->
+<img src="DSC05090.jpg" alt="DSC05140.jpg" class="grid-w33" />
+<img src="DSC05124.jpg" alt="DSC05142.jpg" class="grid-w33" />
+
+<!-- 2025-12-24 -->
+<img src="DSC05016.jpg" alt="DSC05016.jpg" class="grid-w33" />
+
+<!-- 2026-01-03 -->
 <img src="DSC05042.jpg" alt="DSC05042.jpg" class="grid-w33" />
 <img src="DSC05048.jpg" alt="DSC05048.jpg" class="grid-w33" />
+
+<!-- 2026-01-09 -->
+<img src="DSC04957.jpg" alt="DSC04957.jpg" class="grid-w33" />
+<img src="DSC04960.jpg" alt="DSC04960.jpg" class="grid-w33" />
+<img src="DSC04972.jpg" alt="DSC04972.jpg" class="grid-w33" />
+<img src="DSC04994.jpg" alt="DSC04994.jpg" class="grid-w33" />
+<img src="DSC05000.jpg" alt="DSC05000.jpg" class="grid-w33" />
+<img src="IMG_2054.jpg" alt="IMG_2054.jpg" class="grid-w33" />
+<img src="IMG_2063.jpg" alt="IMG_2063.jpg" class="grid-w33" />
+
+<!-- panorama -->
+<!-- 2026-01-03 -->
 <img src="IMG_2291.jpg" alt="IMG_2291.jpg" class="grid-w100" />
 <img src="IMG_2292.jpg" alt="IMG_2292.jpg" class="grid-w100" />
+
+<!-- 2026-01-09 -->
+<img src="IMG_2061.jpg" alt="IMG_2061.jpg" class="grid-w100" />
+<img src="IMG_2080.jpg" alt="IMG_2080.jpg" class="grid-w100" />
+
 {{< /gallery >}}
 
 
@@ -55,4 +82,4 @@ showRelatedContent = false
 {{< article link="/ja/blog/2025-11-13-tripphoto-daibosatsu-line/" >}}
 {{< article link="/ja/blog/2025-12-24-tripphoto-kashima-jingu/" >}}
 {{< article link="/ja/blog/2026-01-03-tripphoto-suwataisha-venusline-utsukushigahara/" >}}
-
+{{< article link="/ja/blog/2026-01-09-tripphoto-boso-peninsula/" >}}
