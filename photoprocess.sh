@@ -9,8 +9,8 @@ set -eu
 ##########################################################################
 
 copyright="© 2025 mkt (md.irohas@gmail.com)"
-image_size="2560x1440^"
-image_quality=75
+image_size="2048x2048>"
+image_quality=70
 
 exiftool_cmd="exiftool"
 
