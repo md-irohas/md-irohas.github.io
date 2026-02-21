@@ -12,3 +12,6 @@
 
 # unused icons
 /assets/icons-bootstrap/
+
+# misc
+/.devcontainer/devcontainer.json

@@ -1,0 +1,43 @@
+{
+    "name": "Hugo (w/ imagemagick + exiftool)",
+
+    // Container image.
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04",
+
+    // Features to install.
+    "features": {
+        "ghcr.io/devcontainers/features/hugo:1": {
+            "version": "latest"
+        }
+    },
+
+    // Workspace folder inside container.
+    "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+
+    // Environment variables.
+    "containerEnv": {
+        "LANG": "C.UTF-8",
+        "LC_ALL": "C.UTF-8"
+    },
+    // "remoteEnv": {},
+
+    // Use 'forwardPorts' to make a list of ports inside the container available locally.
+    "forwardPorts": [
+        1313    // Hugo default server port
+    ],
+
+    // Mounts local files into the container.
+    "mounts": [
+    ],
+
+    // Commands to run on container creation and start.
+    "onCreateCommand": "sudo apt-get update && sudo apt-get install -y imagemagick libimage-exiftool-perl",
+
+    // VS Code extensions to install.
+    "customizations": {
+        "vscode": {
+            "extensions": [
+            ]
+        }
+    }
+}
