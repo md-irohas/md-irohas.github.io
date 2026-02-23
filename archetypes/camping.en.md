@@ -2,10 +2,11 @@
 title = '🏕️ Camping: <Place> (March, 20XX)'
 date = '{{ now.Format "2006-01-02" }}'
 categories = ['Blog (Camping)']
-tags = ['Camping', 'Photo', '<Prefecture>', '<Site>']
+tags = ['Camping', 'Photo', '<Prefecture>', '<Kind-of-Camp-Site>', '<Kind-of-Place>']
 
 isCJKLanguage = false
 description = '🏕️ A blog post about my photos I took at XXXX I stayed in Month 202X.'
+summary = '📍 <Place>'
 
 draft = true
 

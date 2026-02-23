@@ -1,41 +1,18 @@
-# Instructions for Codex and GitHub Copilot
+# Instructions for Agents
 
-This file defines operating guidelines for agents such as Codex and GitHub
-Copilot working in this repository.
+This file defines repository-wide instructions for agents.
 
 
 ## Project Overview
 
-This repository contains the source files of my personal website including my
-projects and blogs. The overview of this website is as follows:
-
-- Site generator: Hugo
-- Hugo theme: Blowfish (under `themes/blowfish`,
-  https://github.com/nunocoracao/blowfish).
-- Content languages: English and Japanese
-- Website content: `content/`
+Read README.md for an overview of this project.
 
 
-## Directory Structure
+## Task Commands
 
-This repository follows Hugo's directory structure conventions.
+Makefile provides commands for main tasks.
 
-A main content directory structure (under `content/`) is as follows:
-
-- `content/`:
-    - `/about/`: Self-introduction page
-    - `/blog/`: Blog articles on travel and photos
-        - `<YYYY-mm-dd>-<kind>-<slug>/`
-    - `/gallery/`: Photo galleries by year
-        - `<YYYY>/`
-    - `/tech/`: Blog articles on tech
-        - `<YYYY-mm-dd>-<slug>/`: Mainly external links to dev.to (en) and
-          zenn.dev (ja)
-
-
-## Tasks
-
-Makefile provides commands for main tasks:
+For example:
 
 - Create new articles:
     - `make article KIND=trip SLUG=2026-01-01-trip-some-slug`
@@ -43,20 +20,35 @@ Makefile provides commands for main tasks:
     - `make article KIND=camping SLUG=2026-01-01-camping-some-slug`
     - `make tech-article SLUG=2026-01-01-some-slug`
 - Build a site:
-    - `make build` (for production)
-    - `make build-dev` (for development)
-- Run a local development server:
-    - `make server` (for production content)
-    - `make server-dev`
+    - `make build`
+    - `make build-dev`
 
 
-## Instructions and Cautions
+## Instruction Hierarchy
 
-- Preserve the existing writing style and structure when editing. Template
-  markdown files are located under `archetypes/`.
+When editing files, follow instructions in this order:
+
+1. The nearest `AGENTS.md` in the target directory tree.
+2. Human-facing guideline documents referenced by that `AGENTS.md`.
+3. This repository-wide `AGENTS.md`.
+
+Content-Specific entry points are as follows:
+
+- Blog:
+    - Agent instructions: `content/blog/AGENTS.md`
+    - Human guidelines: `docs/content-guidelines/blog.md`
+- Tech (planned):
+    - Add `content/tech/AGENTS.md`
+    - Add `docs/content-guidelines/tech.md`
+- Gallery (planned):
+    - Add `content/gallery/AGENTS.md`
+    - Add `docs/content-guidelines/gallery.md`
+
+
+## Repository-Wide Cautions
+
+- Preserve existing writing style and structure.
 - Keep front matter and shortcode usage consistent.
-- This repository contains many images, so avoid loading image files unless
-  necessary.
-- After editing files, check if `make build-dev` passes.
-
+- Avoid loading image files unless necessary.
+- After editing files under `content/`, check if `make build-dev` passes.
 
