@@ -17,6 +17,7 @@ Before creating or editing blog content, read:
 - Do not invent new canonical category labels or tag naming conventions
   without explicit user request.
 - Keep front matter format and shortcode style consistent with existing posts.
+- Include all JPEG image files from the directory in the story and gallery sections.
 
 
 ## Validation Checklist
