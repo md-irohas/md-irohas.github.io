@@ -1,5 +1,5 @@
 +++
-title = 'Trip Photo: Izumo Hinomisaki Lighthouse (March, 2024)'
+title = 'Trip Photo: Izumo Hinomisaki Lighthouse (March 2024)'
 date = '2024-04-27'
 categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Shimane', 'Sea', 'Sky', 'Lighthouse']

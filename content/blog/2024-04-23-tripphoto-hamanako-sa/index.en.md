@@ -1,5 +1,5 @@
 +++
-title = 'Trip Photo: Hamana-ko Service Area (March, 2024)'
+title = 'Trip Photo: Hamana-ko Service Area (March 2024)'
 date = '2024-04-22'
 categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Shizuoka', 'Lake', 'Sky', 'Service Area']

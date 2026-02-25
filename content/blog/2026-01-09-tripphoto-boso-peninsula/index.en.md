@@ -1,5 +1,5 @@
 +++
-title = '📸 Trip Photo: Boso Peninsula (April, 2023)'
+title = '📸 Trip Photo: Boso Peninsula (April 2023)'
 date = '2026-01-09'
 categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Chiba', 'Mountain', 'Sea', 'Temple', 'Lighthouse']

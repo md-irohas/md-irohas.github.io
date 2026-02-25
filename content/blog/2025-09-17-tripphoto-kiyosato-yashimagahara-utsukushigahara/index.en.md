@@ -1,5 +1,5 @@
 +++
-title = 'Trip Photo: Kiyosato, Yashimagahara, Utsukushigahara (July, 2025)'
+title = 'Trip Photo: Kiyosato, Yashimagahara, Utsukushigahara (July 2025)'
 date = '2025-09-17'
 categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Yamanashi', 'Nagano', 'Mountain', 'Sky', 'Scenic Road', 'Lookout']

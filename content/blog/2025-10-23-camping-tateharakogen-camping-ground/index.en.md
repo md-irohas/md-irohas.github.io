@@ -1,5 +1,5 @@
 +++
-title = 'Camping: Tatehara Kogen Camping Ground (October, 2025)'
+title = 'Camping: Tatehara Kogen Camping Ground (October 2025)'
 date = '2025-10-23'
 categories = ['Blog (Camping)']
 tags = ['Camping', 'Photo', 'Nagano', 'Highland Camping', 'Starry Night']

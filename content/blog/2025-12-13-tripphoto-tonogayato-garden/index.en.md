@@ -1,5 +1,5 @@
 +++
-title = 'Trip Photo: Tonogayato Garden (December, 2025)'
+title = 'Trip Photo: Tonogayato Garden (December 2025)'
 date = '2025-12-13'
 categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Tokyo', 'Park', 'Historic Site']

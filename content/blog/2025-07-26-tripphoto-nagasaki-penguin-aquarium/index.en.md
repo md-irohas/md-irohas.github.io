@@ -1,5 +1,5 @@
 +++
-title = 'Trip Photo: Nagasaki Penguin Aquarium (March, 2025)'
+title = 'Trip Photo: Nagasaki Penguin Aquarium (March 2025)'
 date = '2025-07-26'
 categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Nagasaki', 'Aquarium']

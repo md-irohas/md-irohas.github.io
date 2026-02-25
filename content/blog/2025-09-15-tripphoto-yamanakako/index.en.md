@@ -1,5 +1,5 @@
 +++
-title = 'Trip Photo: Yamanakako (June, 2025)'
+title = 'Trip Photo: Yamanakako (June 2025)'
 date = '2025-09-15'
 categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Yamanashi', 'Mountain', 'Lake', 'Lookout']
