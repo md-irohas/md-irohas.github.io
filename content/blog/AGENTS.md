@@ -18,6 +18,10 @@ Before creating or editing blog content, read:
   without explicit user request.
 - Keep front matter format and shortcode style consistent with existing posts.
 - Include all JPEG image files from the directory in the story and gallery sections.
+  - Use the appropriate `class` attribute in figure shortcodes based on the image orientation:
+    - Portrait: `w33`
+    - Landscape: `w50`
+    - Panorama: `w100`
 
 
 ## Validation Checklist
