@@ -1,5 +1,5 @@
 +++
-title = '🧳 Trip Recap: ... (March, 20XX)'
+title = '🧳 Trip Recap: ... (<Month> 20XX)'
 date = '{{ now.Format "2006-01-02" }}'
 categories = ['Blog (Trip Recap)']
 tags = ['Trip Recap', '<Prefecture>']
