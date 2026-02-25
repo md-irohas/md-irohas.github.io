@@ -17,6 +17,7 @@ buildFuture = false
 enableEmoji = true
 
 googleAnalytics = ""
+ignoreFiles = ['(^|/)AGENTS\.md$']
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime"]
