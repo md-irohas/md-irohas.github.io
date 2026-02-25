@@ -1,5 +1,5 @@
 +++
-title = 'Trip Photo: Akiyoshido Cave (March 2025)'
+title = '📸 Trip Photo: Akiyoshido Cave (March 2025)'
 date = '2025-08-26'
 categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Yamaguchi', 'Cave', 'Grassland']

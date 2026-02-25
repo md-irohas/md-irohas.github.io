@@ -1,5 +1,5 @@
 +++
-title = 'Camping: Camp Resort Ohshima (March 2025)'
+title = '🏕️ Camping: Camp Resort Ohshima (March 2025)'
 date = '2025-07-20'
 categories = ['Blog (Camping)']
 tags = ['Camping', 'Photo', 'Wakayama', 'Sea', 'Starry Night']

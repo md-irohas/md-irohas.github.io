@@ -1,5 +1,5 @@
 +++
-title = 'Trip Photo: Nagasaki Peninsula (March 2025)'
+title = '📸 Trip Photo: Nagasaki Peninsula (March 2025)'
 date = '2025-08-22'
 categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Nagasaki', 'Sea', 'Sky', 'Lighthouse', 'Park', 'Museum', 'Historic Spot']

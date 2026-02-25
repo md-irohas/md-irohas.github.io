@@ -1,5 +1,5 @@
 +++
-title = 'Trip Photo: Kanmon Straits (March 2025)'
+title = '📸 Trip Photo: Kanmon Straits (March 2025)'
 date = '2025-08-25'
 categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Fukuoka', 'Yamaguchi', 'Sea', 'Bridge', 'Straits', 'Service Area']

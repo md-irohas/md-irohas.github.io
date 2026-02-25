@@ -1,5 +1,5 @@
 +++
-title = 'Trip Photo: Kashima Jingu (July 2023)'
+title = '📸 Trip Photo: Kashima Jingu (July 2023)'
 date = '2025-12-24'
 categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Ibaraki', 'Shrine']
