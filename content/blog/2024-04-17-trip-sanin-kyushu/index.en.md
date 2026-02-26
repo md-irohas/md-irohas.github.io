@@ -6,7 +6,7 @@ tags = ['Trip Recap', 'Tottori', 'Shimane', 'Kumamoto']
 
 isCJKLanguage = false
 description = '🚙 A blog post about my trip to San-in & Kyushu in March 2024.'
-summary = '📍 Tottori Sando Dunes, Mizuki Shigeru Road, Izimo Taisha, Izumo Hinomisaki Lighthouse, Mt. Aso, Daikanbo'
+summary = '📍 Tottori Sand Dunes, Mizuki Shigeru Road, Izumo Taisha, Izumo Hinomisaki Lighthouse, Mt. Aso, Daikanbo'
 
 draft = false
 

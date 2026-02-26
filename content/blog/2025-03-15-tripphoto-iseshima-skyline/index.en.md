@@ -5,14 +5,14 @@ categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Mie', 'Sea', 'Sky', 'Scenic Road', 'Temple', 'Lookout']
 
 isCJKLanguage = false
-description = '🏞️ A blog post about my photos I took at Iseshima Skyline where I drove article along in March 2025.'
+description = '🏞️ A blog post about my photos from driving the Iseshima Skyline in March 2025.'
 summary = '📍 Iseshima Skyline, Asamayama Kongosho-ji Temple, Asama Mountain View Point'
 
 draft = false
 
 # Params
 googlePhotoUrl = 'https://photos.app.goo.gl/nLVD23M5XWVNMXuG7'
-googleDriverl = 'https://drive.google.com/drive/folders/1Mu0Ws50iwn264XI5B4V5-U8Zio1AaDNm'
+googleDriveUrl = 'https://drive.google.com/drive/folders/1Mu0Ws50iwn264XI5B4V5-U8Zio1AaDNm'
 +++
 
 

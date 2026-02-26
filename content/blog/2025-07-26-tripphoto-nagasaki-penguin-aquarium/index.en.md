@@ -12,6 +12,7 @@ draft = false
 
 # Params
 googlePhotoUrl = 'https://photos.app.goo.gl/7xha8tf4f2DUipzt7'
+googleDriveUrl = ''
 +++
 
 

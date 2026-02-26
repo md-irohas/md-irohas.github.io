@@ -265,6 +265,7 @@ The open landscape along the drive was also very refreshing.
 <img src="IMG_3387.jpg" alt="IMG_3387.jpg" class="grid-w33" />
 <img src="IMG_3392.jpg" alt="IMG_3392.jpg" class="grid-w33" />
 <img src="IMG_3394.jpg" alt="IMG_3394.jpg" class="grid-w33" />
+<img src="IMG_3399.jpg" alt="IMG_3399.jpg" class="grid-w33" />
 {{< /gallery >}}
 
 

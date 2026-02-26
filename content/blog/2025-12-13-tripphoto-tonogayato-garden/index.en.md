@@ -2,7 +2,7 @@
 title = '📸 Trip Photo: Tonogayato Garden (December 2025)'
 date = '2025-12-13'
 categories = ['Blog (Trip Photo)']
-tags = ['Trip', 'Photo', 'Tokyo', 'Park', 'Historic Site']
+tags = ['Trip', 'Photo', 'Tokyo', 'Park', 'Historic Spot']
 
 isCJKLanguage = false
 description = '🍁 Photos I took while strolling through Tonogayato Garden in December 2025.'
@@ -144,4 +144,3 @@ Still, it was a pleasure to walk through such a well-kept garden.
 ## Change History
 
 - 2025/12/14: First version.
-

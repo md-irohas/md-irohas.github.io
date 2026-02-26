@@ -10,9 +10,9 @@ summary = '📍 伊勢志摩スカイライン、朝熊岳金剛證寺、朝熊�
 
 draft = false
 
-# Parmas
+# Params
 googlePhotoUrl = 'https://photos.app.goo.gl/nLVD23M5XWVNMXuG7'
-googleDriverl = 'https://drive.google.com/drive/folders/1Mu0Ws50iwn264XI5B4V5-U8Zio1AaDNm'
+googleDriveUrl = 'https://drive.google.com/drive/folders/1Mu0Ws50iwn264XI5B4V5-U8Zio1AaDNm'
 +++
 
 

@@ -16,7 +16,7 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1Us7QHXM7eqDfIP178VaqKP
 +++
 
 
-## Summary
+## Story
 
 In March 2025, I visited Cape Shionomisaki and the Shionomisaki Lighthouse
 in Wakayama Prefecture during my travels.

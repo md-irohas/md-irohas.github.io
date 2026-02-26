@@ -2,7 +2,7 @@
 title = '📸 Trip Photo: Shirakoma Forest (September 2023)'
 date = '2025-10-25'
 categories = ['Blog (Trip Photo)']
-tags = ['Trip', 'Photo', 'Nagano', 'Mountains', 'Forest']
+tags = ['Trip', 'Photo', 'Nagano', 'Mountain', 'Forest']
 
 isCJKLanguage = false
 description = '🌳 A blog post about my photos I took at Shirakoma Forest in September 2023. A moss-covered forest with a surreal atmosphere.'

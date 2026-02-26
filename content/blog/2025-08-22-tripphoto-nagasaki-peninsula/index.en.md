@@ -5,7 +5,7 @@ categories = ['Blog (Trip Photo)']
 tags = ['Trip', 'Photo', 'Nagasaki', 'Sea', 'Sky', 'Lighthouse', 'Park', 'Museum', 'Historic Spot']
 
 isCJKLanguage = false
-description = "🦖 A blog post about my photos in the Nagasaki Peninsula in March2025, featuring Kabashima Lighthouse and Nagasaki Nomozaki Dinosaur Park."
+description = "🦖 A blog post about my photos in the Nagasaki Peninsula in March 2025, featuring Kabashima Lighthouse and Nagasaki Nomozaki Dinosaur Park."
 summary = '📍 Nagasaki Peninsula, Kabashima Lighthouse, Nomozaki Peninsula, Nagasaki Nomozaki Dinosaur Park, Nagasaki City Dinosaur Museum, Gunkanjima (Hashima)'
 
 draft = false
