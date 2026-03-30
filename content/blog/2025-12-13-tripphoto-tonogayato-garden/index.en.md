@@ -1,7 +1,7 @@
 +++
-title = '📸 Trip Photo: Tonogayato Garden (December 2025)'
+title = '📸 Photo: Tonogayato Garden (December 2025)'
 date = '2025-12-13'
-categories = ['Blog (Trip Photo)']
+categories = ['Blog (Photo)']
 tags = ['Trip', 'Photo', 'Tokyo', 'Park', 'Historic Spot']
 
 isCJKLanguage = false

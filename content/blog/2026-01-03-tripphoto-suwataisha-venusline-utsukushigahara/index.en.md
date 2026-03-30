@@ -1,7 +1,7 @@
 +++
-title = '📸 Trip Photo: Suwa Taisha, Venus Line, Utsukushigahara (August 2023)'
+title = '📸 Photo: Suwa Taisha, Venus Line, Utsukushigahara (August 2023)'
 date = '2026-01-03'
-categories = ['Blog (Trip Photo)']
+categories = ['Blog (Photo)']
 tags = ['Trip', 'Photo', 'Nagano', 'Shrine', 'Lake', 'Mountain', 'Scenic Road', 'Lookout']
 
 isCJKLanguage = false

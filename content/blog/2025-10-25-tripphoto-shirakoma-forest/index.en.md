@@ -1,7 +1,7 @@
 +++
-title = '📸 Trip Photo: Shirakoma Forest (September 2023)'
+title = '📸 Photo: Shirakoma Forest (September 2023)'
 date = '2025-10-25'
-categories = ['Blog (Trip Photo)']
+categories = ['Blog (Photo)']
 tags = ['Trip', 'Photo', 'Nagano', 'Mountain', 'Forest']
 
 isCJKLanguage = false

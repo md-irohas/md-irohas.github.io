@@ -1,7 +1,7 @@
 +++
-title = '📸 Trip Photo: Nukui Jinja (November 2025)'
+title = '📸 Photo: Nukui Jinja (November 2025)'
 date = '2025-11-27'
-categories = ['Blog (Trip Photo)']
+categories = ['Blog (Photo)']
 tags = ['Trip', 'Photo', 'Tokyo', 'Shrine']
 
 isCJKLanguage = false

@@ -1,7 +1,7 @@
 +++
-title = '📸 Trip Photo: Mizuki Shigeru Road (March 2024)'
+title = '📸 Photo: Mizuki Shigeru Road (March 2024)'
 date = '2024-04-25'
-categories = ['Blog (Trip Photo)']
+categories = ['Blog (Photo)']
 tags = ['Trip', 'Photo', 'Tottori', 'Tourist Area']
 
 isCJKLanguage = false

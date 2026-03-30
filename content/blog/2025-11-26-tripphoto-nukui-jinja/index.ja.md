@@ -1,7 +1,7 @@
 +++
-title = '📸 旅の写真: 貫井神社（2025年11月）'
+title = '📸 写真: 貫井神社（2025年11月）'
 date = '2025-11-27'
-categories = ['ブログ（旅の写真）']
+categories = ['ブログ（写真）']
 tags = ['旅行', '写真', '東京都', '神社']
 
 isCJKLanguage = true

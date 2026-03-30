@@ -1,7 +1,7 @@
 +++
-title = '📸 Trip Photo: Daibosatsu Line (August 2023)'
+title = '📸 Photo: Daibosatsu Line (August 2023)'
 date = '2025-11-13'
-categories = ['Blog (Trip Photo)']
+categories = ['Blog (Photo)']
 tags = ['Travel', 'Photo', 'Yamanashi', 'Scenic Road']
 
 isCJKLanguage = false

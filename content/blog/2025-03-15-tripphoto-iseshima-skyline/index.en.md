@@ -1,7 +1,7 @@
 +++
-title = '📸 Trip Photo: Iseshima Skyline (March 2025)'
+title = '📸 Photo: Iseshima Skyline (March 2025)'
 date = '2025-06-06'
-categories = ['Blog (Trip Photo)']
+categories = ['Blog (Photo)']
 tags = ['Trip', 'Photo', 'Mie', 'Sea', 'Sky', 'Scenic Road', 'Temple', 'Lookout']
 
 isCJKLanguage = false

@@ -1,7 +1,7 @@
 +++
-title = '📸 Trip Photo: Musashi Kokubunji (November 2025)'
+title = '📸 Photo: Musashi Kokubunji (November 2025)'
 date = '2025-11-24'
-categories = ['Blog (Trip Photo)']
+categories = ['Blog (Photo)']
 tags = ['Trip', 'Photo', 'Tokyo', 'Temple', 'Shrine', 'Historic Spot', 'Park']
 
 isCJKLanguage = false

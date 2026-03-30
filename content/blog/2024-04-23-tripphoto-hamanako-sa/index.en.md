@@ -1,7 +1,7 @@
 +++
-title = '📸 Trip Photo: Hamana-ko Service Area (March 2024)'
+title = '📸 Photo: Hamana-ko Service Area (March 2024)'
 date = '2024-04-22'
-categories = ['Blog (Trip Photo)']
+categories = ['Blog (Photo)']
 tags = ['Trip', 'Photo', 'Shizuoka', 'Lake', 'Sky', 'Service Area']
 
 isCJKLanguage = false

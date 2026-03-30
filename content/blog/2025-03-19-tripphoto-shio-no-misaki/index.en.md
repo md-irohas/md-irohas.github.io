@@ -1,7 +1,7 @@
 +++
-title = '📸 Trip Photo: Cape Shionomisaki & Shionomisaki Lighthouse (March 2025)'
+title = '📸 Photo: Cape Shionomisaki & Shionomisaki Lighthouse (March 2025)'
 date = '2025-06-15'
-categories = ['Blog (Trip Photo)']
+categories = ['Blog (Photo)']
 tags = ['Trip', 'Photo', 'Wakayama', 'Sea', 'Sky', 'Cape', 'Lighthouse']
 
 isCJKLanguage = false

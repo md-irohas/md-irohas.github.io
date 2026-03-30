@@ -1,7 +1,7 @@
 +++
-title = '📸 Trip Photo: Edo-Tokyo Open Air Architectural Museum (February 2026)'
+title = '📸 Photo: Edo-Tokyo Open Air Architectural Museum (February 2026)'
 date = '2026-02-23'
-categories = ['Blog (Trip Photo)']
+categories = ['Blog (Photo)']
 tags = ['Trip', 'Photo', 'Tokyo', 'Museum', 'Park']
 
 isCJKLanguage = false

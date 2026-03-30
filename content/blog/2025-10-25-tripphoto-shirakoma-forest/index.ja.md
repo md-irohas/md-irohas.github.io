@@ -1,7 +1,7 @@
 +++
-title = '📸 旅の写真: 白駒の森（2023年9月）'
+title = '📸 写真: 白駒の森（2023年9月）'
 date = '2025-10-25'
-categories = ['ブログ（旅の写真）']
+categories = ['ブログ（写真）']
 tags = ['旅行', '写真', '長野県', '山', '森']
 
 isCJKLanguage = true

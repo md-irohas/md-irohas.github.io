@@ -1,7 +1,7 @@
 +++
-title = '🧳 Trip Recap: San-in & Kyushu (March 2024)'
+title = '🧳 Travel: San-in & Kyushu (March 2024)'
 date = '2024-04-17'
-categories = ['Blog (Trip Recap)']
+categories = ['Blog (Travel)']
 tags = ['Trip Recap', 'Tottori', 'Shimane', 'Kumamoto']
 
 isCJKLanguage = false

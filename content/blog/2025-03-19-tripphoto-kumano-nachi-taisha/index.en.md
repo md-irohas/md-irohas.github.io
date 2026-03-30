@@ -1,7 +1,7 @@
 +++
-title = '📸 Trip Photo: Kumano Nachi Taisha (March 2025)'
+title = '📸 Photo: Kumano Nachi Taisha (March 2025)'
 date = '2025-06-12'
-categories = ['Blog (Trip Photo)']
+categories = ['Blog (Photo)']
 tags = ['Trip', 'Photo', 'Wakayama', 'Shrine', 'Temple', 'Waterfall']
 
 isCJKLanguage = false

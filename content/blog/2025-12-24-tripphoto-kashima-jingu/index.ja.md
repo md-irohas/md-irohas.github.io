@@ -1,7 +1,7 @@
 +++
-title = '📸 旅の写真: 鹿島神宮（2023年7月）'
+title = '📸 写真: 鹿島神宮（2023年7月）'
 date = '2025-12-24'
-categories = ['ブログ（旅の写真）']
+categories = ['ブログ（写真）']
 tags = ['旅行', '写真', '茨城県', '神社']
 
 isCJKLanguage = true

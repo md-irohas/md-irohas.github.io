@@ -1,7 +1,7 @@
 +++
-title = '📸 Trip Photo: Tottori Sand Dunes (March 2024)'
+title = '📸 Photo: Tottori Sand Dunes (March 2024)'
 date = '2024-04-18'
-categories = ['Blog (Trip Photo)']
+categories = ['Blog (Photo)']
 tags = ['Trip', 'Photo', 'Tottori', 'Sand Dunes', 'Sky']
 
 isCJKLanguage = false
