@@ -18,7 +18,7 @@ draft = false
 
 説明文...
 
-{{< google-maps-2 
+{{< google-maps-2
     url=#"
     >}}
 

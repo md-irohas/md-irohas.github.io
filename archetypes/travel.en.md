@@ -5,7 +5,7 @@ categories = ['Blog (Travel)']
 tags = ['Trip Recap', '<Prefecture>']
 
 isCJKLanguage = false
-description = '🚙 A blog post about my trip to ... and ... in Month 20XX.'
+description = '🚙 A blog post about my travel to ... and ... in Month 20XX.'
 summary = '📍 <Place1>, <Place2>, ...'
 
 draft = false

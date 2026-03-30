@@ -66,7 +66,7 @@ googleDriveUrl = ''
 
 ### \<場所\>
 
-{{< google-maps-2 
+{{< google-maps-2
   url="#"
   >}}
 

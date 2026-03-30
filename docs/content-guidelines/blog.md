@@ -20,7 +20,7 @@ content/blog/<YYYY-mm-dd>-<kind>-<slug>/
 ```
 
 - `<YYYY-mm-dd>`: 記事の作成日。
-- `<kind>`: 記事の種類（`trip` / `tripphoto` / `camping`）。種類別のポリシーは後述。
+- `<kind>`: 記事の種類（新規記事では `travel` / `photo` / `camping` を使用）。既存記事では `trip` / `tripphoto` / `camping` が使われている場合があります。種類別のポリシーは後述。
 - `<slug>`: タイトルに対応する文字列。
 
 ディレクトリ内には、以下のMarkdownファイルとページ内で使用する画像（JPEG）ファイルを配置します。
@@ -31,25 +31,28 @@ content/blog/<YYYY-mm-dd>-<kind>-<slug>/
 
 ## 種類別のポリシー
 
-### trip
+### travel / trip
 
 旅行全体のまとめ記事です。
-基本的には複数の`tripphoto`の記事をまとめます。
+基本的には複数の`photo`記事（既存記事では`tripphoto`）をまとめます。
 
 以下のテンプレートファイルを使用します。
 
-- English: `archetypes/trip.en.md`
-- Japanese: `archetypes/trip.ja.md`
+- English: `archetypes/travel.en.md`
+- Japanese: `archetypes/travel.ja.md`
+- Backward compatibility:
+    - English: `archetypes/trip.en.md`
+    - Japanese: `archetypes/trip.ja.md`
 
 Front Matterは以下の通りです。
 
 - title:
-    - English: `Trip Recap: <site-name> (Month, Year)`
-    - Japanese: `旅の記録: <場所名>（〜年〜月）`
+    - English: `Travel: <site-name> (Month, Year)`
+    - Japanese: `旅行: <場所名>（〜年〜月）`
 - date: 記事の作成日（自動挿入）
 - categories:
-    - English: `Blog (Trip Recap)`
-    - Japanese: `ブログ（旅の記録）`
+    - English: `Blog (Travel)`
+    - Japanese: `ブログ（旅行）`
 - tags:
     - English: `Trip Recap`, `<Prefecture-1>`, `<Prefecture-2>`, ...
     - Japanese: `旅行`, `<県名1>`, `<県名2>`, ...
@@ -76,25 +79,28 @@ Front Matterは以下の通りです。
 - Change History / 編集履歴
 
 
-### tripphoto
+### photo / tripphoto
 
 観光地ごとの写真記事です。
 1スポット（または近いスポット群）単位で記録します。
 
 以下のテンプレートファイルを使用します。
 
-- English: `archetypes/tripphoto.en.md`
-- Japanese: `archetypes/tripphoto.ja.md`
+- English: `archetypes/photo.en.md`
+- Japanese: `archetypes/photo.ja.md`
+- Backward compatibility:
+    - English: `archetypes/tripphoto.en.md`
+    - Japanese: `archetypes/tripphoto.ja.md`
 
 Front Matterは以下の通りです。
 
 - title:
-    - English: `Trip Photo: <site-name> (Month, Year)`
-    - Japanese: `旅の写真: <場所名>（〜年〜月）`
+    - English: `Photo: <site-name> (Month, Year)`
+    - Japanese: `写真: <場所名>（〜年〜月）`
 - date: 記事の作成日（自動挿入）
 - categories:
-    - English: `Blog (Trip Photo)`
-    - Japanese: `ブログ（旅の写真）`
+    - English: `Blog (Photo)`
+    - Japanese: `ブログ（写真）`
 - tags:
     - English: `Trip`, `Photo`, `<Prefecture>`, `<Kind-of-Place>`, ...
         - 都道府県名の "Prefecture" はタグ文字列に含めない
@@ -207,5 +213,4 @@ tagに設定する「キャンプ場の種類（Kind-of-Camp-Site）」は以下
     - `高原キャンプ`: Highland Camping
     - `草原キャンプ`: Meadow Camping
 - その他:
-    - `tripphoto`の「場所の種類（Kind-of-Place）」を合わせて使用。
-
+    - `photo`（既存記事では`tripphoto`）の「場所の種類（Kind-of-Place）」を合わせて使用。

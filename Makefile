@@ -3,13 +3,13 @@
 all:
 
 
-# create a new article for trip and photo
+# create a new article for travel and photo
 # e.g.)
-# 	make article KIND=trip SLUG=2025-01-01-trip-some-place
+# 	make article KIND=travel SLUG=2025-01-01-travel-some-place
 .PHONY: article
 article:
 	@case "$(KIND)" in \
-		trip|tripphoto|camping) ;; \
+		travel|photo|camping|trip|tripphoto) ;; \
 		*) echo "invalid kind: $(KIND)"; exit 1;; \
 	esac
 	@if [ -z "$(SLUG)" ]; then \

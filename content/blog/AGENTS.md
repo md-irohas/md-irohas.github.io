@@ -14,6 +14,8 @@ Before creating or editing blog content, read:
 
 - Follow directory and slug rules defined in the guideline.
 - Follow category-specific template, section, taxonomy, and tag rules.
+- For new articles, prefer `travel` / `photo` / `camping` as `<kind>`.
+- Keep existing `trip` / `tripphoto` paths unchanged unless the user explicitly asks to migrate URLs.
 - Do not invent new canonical category labels or tag naming conventions
   without explicit user request.
 - Keep front matter format and shortcode style consistent with existing posts.
@@ -30,4 +32,3 @@ Before creating or editing blog content, read:
 - [ ] Directory format and slug are correct.
 - [ ] Category-specific rules are applied.
 - [ ] `make build-dev` passes.
-

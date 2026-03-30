@@ -15,8 +15,8 @@ Makefile provides commands for main tasks.
 For example:
 
 - Create new articles:
-    - `make article KIND=trip SLUG=2026-01-01-trip-some-slug`
-    - `make article KIND=tripphoto SLUG=2026-01-01-tripphoto-some-slug`
+    - `make article KIND=travel SLUG=2026-01-01-travel-some-slug`
+    - `make article KIND=photo SLUG=2026-01-01-photo-some-slug`
     - `make article KIND=camping SLUG=2026-01-01-camping-some-slug`
     - `make tech-article SLUG=2026-01-01-some-slug`
 - Build a site:
@@ -51,4 +51,3 @@ Content-Specific entry points are as follows:
 - Keep front matter and shortcode usage consistent.
 - Avoid loading image files unless necessary.
 - After editing files under `content/`, check if `make build-dev` passes.
-
