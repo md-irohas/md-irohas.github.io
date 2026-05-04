@@ -12,6 +12,10 @@ summary = '📍 <場所1>、<場所2>、...'
 draft = false
 
 # Params
+
+[build]
+render = false
+list = 'local'
 +++
 
 

@@ -12,6 +12,10 @@ summary = '📍 <Place1>, <Place2>, ...'
 draft = false
 
 # Params
+
+[build]
+render = false
+list = 'local'
 +++
 
 

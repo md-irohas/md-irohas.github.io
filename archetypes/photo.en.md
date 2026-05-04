@@ -14,6 +14,10 @@ draft = true
 # Params
 googlePhotoUrl = ''
 googleDriveUrl = ''
+
+[build]
+render = false
+list = 'local'
 +++
 
 
