@@ -1,4 +1,4 @@
-# Blog Content Guidelines
+# Travel & Photo Blog Content Guidelines
 
 `content/blog/`の記事のガイドラインです。
 

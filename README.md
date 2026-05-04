@@ -42,6 +42,14 @@ content/
 ```
 
 
+## Scripts
+
+```sh
+# Shrink images and embed copyright to them.
+$ ./photoprocess.sh -S all <path-to-jpg>
+```
+
+
 ## External Resources
 
 The following are external resources used in this website.
