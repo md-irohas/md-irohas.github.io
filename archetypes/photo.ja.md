@@ -4,6 +4,7 @@ date = '{{ now.Format "2006-01-02" }}'
 categories = ['ブログ（写真）']
 tags = ['旅行', '写真', '<都道府県>', '<場所の種類>']
 
+# externalUrl = 'https://note.com/...'
 isCJKLanguage = true
 description = '📝 202X年X月に訪れた〜で撮影した写真です。追加の説明。'
 summary = '📍 <場所1>、<場所2>、...'

@@ -4,6 +4,7 @@ date = '{{ now.Format "2006-01-02" }}'
 categories = ['ブログ（キャンプ）']
 tags = ['キャンプ', '写真', '<都道府県>', '<キャンプ場の種類>', '<場所の種類>']
 
+# externalUrl = 'https://note.com/...'
 isCJKLanguage = true
 description = '🏕️ 2025年3月に〜キャンプ場でキャンプしたときの写真です。'
 summary = '📍 <キャンプ場>'

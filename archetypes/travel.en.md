@@ -4,6 +4,7 @@ date = '{{ now.Format "2006-01-02" }}'
 categories = ['Blog (Travel)']
 tags = ['Trip Recap', '<Prefecture>']
 
+# externalUrl = 'https://medium.com/...'
 isCJKLanguage = false
 description = '🚙 A blog post about my travel to ... and ... in Month 20XX.'
 summary = '📍 <Place1>, <Place2>, ...'
