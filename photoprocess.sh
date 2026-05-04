@@ -8,7 +8,7 @@ set -eu
 # params
 ##########################################################################
 
-copyright="© 2025 mkt (md.irohas@gmail.com)"
+copyright="© 2026 mkt (md.irohas@gmail.com)"
 image_size="2048x2048>"
 image_quality=70
 
