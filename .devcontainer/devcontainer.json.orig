@@ -1,5 +1,5 @@
 {
-    "name": "Hugo (w/ imagemagick + exiftool)",
+    "name": "md-irohas.github.io (hugo)",
 
     // Container image.
     "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04",
@@ -16,8 +16,8 @@
 
     // Environment variables.
     "containerEnv": {
-        "LANG": "C.UTF-8",
-        "LC_ALL": "C.UTF-8"
+       "LANG": "C.UTF-8",
+       "LC_ALL": "C.UTF-8"
     },
     // "remoteEnv": {},
 
@@ -27,8 +27,8 @@
     ],
 
     // Mounts local files into the container.
-    "mounts": [
-    ],
+    // "mounts": [
+    // ],
 
     // Commands to run on container creation and start.
     "onCreateCommand": "sudo apt-get update && sudo apt-get install -y imagemagick libimage-exiftool-perl",
