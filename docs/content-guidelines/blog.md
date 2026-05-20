@@ -26,8 +26,8 @@ content/blog/<YYYY-mm-dd>-<kind>-<slug>/
 
 ディレクトリ内には、以下のMarkdownファイルとページ内で使用する画像（JPEG）ファイルを配置します。
 
-- index.ja.md: 日本語版
-- index.en.md: 英語版
+- `index.ja.md`: 日本語版
+- `index.en.md`: 英語版
 
 
 ## 種類別のポリシー
@@ -110,6 +110,7 @@ content/blog/<YYYY-mm-dd>-<kind>-<slug>/
         - `Grassland`: 草原
         - `Sand Dunes`: 砂丘
         - `Waterfall`: 滝
+        - `Cape`: 岬
         - `Starry Night`: 星空
     - 建物系:
         - `Lighthouse`: 灯台
