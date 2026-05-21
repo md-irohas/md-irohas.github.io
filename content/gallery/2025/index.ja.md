@@ -92,17 +92,17 @@ showRelatedContent = false
 
 ## 関連記事
 
-{{< article link="/ja/blog/2025-03-15-tripphoto-iseshima-skyline/" >}}
-{{< article link="/ja/blog/2025-03-18-tripphoto-iseshima/" >}}
-{{< article link="/ja/blog/2025-03-19-tripphoto-kumano-nachi-taisha/" >}}
-{{< article link="/ja/blog/2025-03-19-tripphoto-shio-no-misaki/" >}}
-{{< article link="/ja/blog/2025-07-20-camping-camp-resort-oshima/" >}}
-{{< article link="/ja/blog/2025-08-22-tripphoto-nagasaki-peninsula/" >}}
-{{< article link="/ja/blog/2025-08-25-tripphoto-kanmon-straits/" >}}
-{{< article link="/ja/blog/2025-08-26-tripphoto-akiyoshido/" >}}
-{{< article link="/ja/blog/2025-09-15-tripphoto-yamanakako/" >}}
-{{< article link="/ja/blog/2025-09-17-tripphoto-kiyosato-yashimagahara-utsukushigahara/" >}}
-{{< article link="/ja/blog/2025-10-23-camping-tateharakogen-camping-ground/" >}}
-{{< article link="/ja/blog/2025-11-24-tripphoto-kokubunji/" >}}
-{{< article link="/ja/blog/2025-11-26-tripphoto-nukui-jinja/" >}}
-{{< article link="/ja/blog/2025-12-13-tripphoto-tonogayato-garden/" >}}
+{{< article link="/blog/2025-03-15-tripphoto-iseshima-skyline/" >}}
+{{< article link="/blog/2025-03-18-tripphoto-iseshima/" >}}
+{{< article link="/blog/2025-03-19-tripphoto-kumano-nachi-taisha/" >}}
+{{< article link="/blog/2025-03-19-tripphoto-shio-no-misaki/" >}}
+{{< article link="/blog/2025-07-20-camping-camp-resort-oshima/" >}}
+{{< article link="/blog/2025-08-22-tripphoto-nagasaki-peninsula/" >}}
+{{< article link="/blog/2025-08-25-tripphoto-kanmon-straits/" >}}
+{{< article link="/blog/2025-08-26-tripphoto-akiyoshido/" >}}
+{{< article link="/blog/2025-09-15-tripphoto-yamanakako/" >}}
+{{< article link="/blog/2025-09-17-tripphoto-kiyosato-yashimagahara-utsukushigahara/" >}}
+{{< article link="/blog/2025-10-23-camping-tateharakogen-camping-ground/" >}}
+{{< article link="/blog/2025-11-24-tripphoto-kokubunji/" >}}
+{{< article link="/blog/2025-11-26-tripphoto-nukui-jinja/" >}}
+{{< article link="/blog/2025-12-13-tripphoto-tonogayato-garden/" >}}

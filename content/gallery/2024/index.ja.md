@@ -47,9 +47,9 @@ showRelatedContent = false
 
 ## 関連記事
 
-{{< article link="/ja/blog/2024-04-18-tripphoto-tottori-sand-dunes/" >}}
-{{< article link="/ja/blog/2024-04-23-tripphoto-hamanako-sa/" >}}
-{{< article link="/ja/blog/2024-04-25-tripphoto-mizuki-shigeru-road/" >}}
-{{< article link="/ja/blog/2024-04-27-tripphoto-hinomisaki-lighthouse/" >}}
-{{< article link="/ja/blog/2024-05-04-tripphoto-asosan/" >}}
+{{< article link="/blog/2024-04-18-tripphoto-tottori-sand-dunes/" >}}
+{{< article link="/blog/2024-04-23-tripphoto-hamanako-sa/" >}}
+{{< article link="/blog/2024-04-25-tripphoto-mizuki-shigeru-road/" >}}
+{{< article link="/blog/2024-04-27-tripphoto-hinomisaki-lighthouse/" >}}
+{{< article link="/blog/2024-05-04-tripphoto-asosan/" >}}
 

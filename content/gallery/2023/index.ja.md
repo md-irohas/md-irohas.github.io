@@ -77,9 +77,9 @@ showRelatedContent = false
 
 ## 関連記事
 
-{{< article link="/ja/blog/2025-10-25-tripphoto-shirakoma-forest/" >}}
-{{< article link="/ja/blog/2025-11-10-camping-koumi-reex-camping-field/" >}}
-{{< article link="/ja/blog/2025-11-13-tripphoto-daibosatsu-line/" >}}
-{{< article link="/ja/blog/2025-12-24-tripphoto-kashima-jingu/" >}}
-{{< article link="/ja/blog/2026-01-03-tripphoto-suwataisha-venusline-utsukushigahara/" >}}
-{{< article link="/ja/blog/2026-01-09-tripphoto-boso-peninsula/" >}}
+{{< article link="/blog/2025-10-25-tripphoto-shirakoma-forest/" >}}
+{{< article link="/blog/2025-11-10-camping-koumi-reex-camping-field/" >}}
+{{< article link="/blog/2025-11-13-tripphoto-daibosatsu-line/" >}}
+{{< article link="/blog/2025-12-24-tripphoto-kashima-jingu/" >}}
+{{< article link="/blog/2026-01-03-tripphoto-suwataisha-venusline-utsukushigahara/" >}}
+{{< article link="/blog/2026-01-09-tripphoto-boso-peninsula/" >}}
