@@ -43,6 +43,12 @@ showRelatedContent = false
 
 <img src="IMG_0103.jpg" alt="IMG_0103.jpg" class="grid-w33" />
 <img src="DSC06773.jpg" alt="DSC06773.jpg" class="grid-w33" />
+
+<img src="IMG_0186.jpg" alt="IMG_0186.jpg" class="grid-w33" />
+<img src="IMG_0192.jpg" alt="IMG_0192.jpg" class="grid-w33" />
+<img src="IMG_0209.jpg" alt="IMG_0209.jpg" class="grid-w33" />
+<img src="IMG_0214.jpg" alt="IMG_0214.jpg" class="grid-w33" />
+<img src="IMG_0241.jpg" alt="IMG_0241.jpg" class="grid-w33" />
 {{< /gallery >}}
 
 
@@ -55,5 +61,6 @@ showRelatedContent = false
 
 ## 関連記事
 
-{{< article link="/ja/blog/2026-02-23-tripphoto-edo-tokyo-tatemonoen/" >}}
+{{< article link="/blog/2026-02-23-tripphoto-edo-tokyo-tatemonoen/" >}}
+{{< article link="/blog/2026-05-04-photo-cape-hyuga/" >}}
 
