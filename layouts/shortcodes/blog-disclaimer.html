@@ -1,0 +1,10 @@
+{{- $lang := .Get "lang" | default .Page.Lang -}}
+{{- $path := printf "snippets/blog-disclaimer.%s.md" $lang -}}
+
+{{- with resources.Get $path -}}
+<aside class="blog-disclaimer">
+  {{- .Content | $.Page.RenderString (dict "display" "block") -}}
+</aside>
+{{- else -}}
+  {{- errorf "Missing disclaimer snippet: %s" $path -}}
+{{- end -}}
