@@ -12,7 +12,7 @@ title = "mkt's sidenotes"
   # logo = ""
   # secondaryLogo = ""
   description = "mktの個人的な覚書きです。"
-  copyright = "© 2025 mkt"
+  copyright = "© 2026 mkt"
 
 [params.author]
   name = "mkt"
@@ -45,7 +45,7 @@ title = "mkt's sidenotes"
 #     { lastfm = "https://lastfm.com/user/username" },
 #     { linkedin = "https://linkedin.com/in/username" },
 #     { mastodon = "https://mastodon.instance/@username" },
-#     { medium = "https://medium.com/username" },
+    { medium = "https://medium.com/@md.irohas" },
 #     { microsoft = "https://www.microsoft.com/" },
 #     { orcid = "https://orcid.org/userid" },
 #     { patreon = "https://www.patreon.com/username" },
@@ -64,7 +64,7 @@ title = "mkt's sidenotes"
 #     { tumblr = "https://username.tumblr.com" },
 #     { twitch = "https://twitch.tv/username" },
 #     { twitter = "https://twitter.com/username" },
-#     { x-twitter = "https://twitter.com/username" },
+    { x-twitter = "https://x.com/md_irohas" },
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
