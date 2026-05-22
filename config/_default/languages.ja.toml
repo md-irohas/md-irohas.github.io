@@ -1,6 +1,8 @@
 disabled = false
-languageCode = "ja"
-languageName = "Japanese"
+# languageCode = "ja"
+locale = "ja"
+# languageName = "Japanese"
+label = "Japanese"
 weight = 2
 title = "mkt's sidenotes"
 
