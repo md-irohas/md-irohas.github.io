@@ -21,6 +21,11 @@ list = 'local'
 +++
 
 
+{{< note-link url="https://note.com/md_irohas/n/..." >}}
+
+{{< blog-disclaimer lang="ja" >}}
+
+
 ## ストーリー
 
 > 202X年X月、...

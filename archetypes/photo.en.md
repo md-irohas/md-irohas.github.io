@@ -21,6 +21,11 @@ list = 'local'
 +++
 
 
+{{< medium-link url="https://medium.com/@md.irohas/..." >}}
+
+{{< blog-disclaimer lang="en" >}}
+
+
 ## Story
 
 In \<Month\> \<Year\>, ...
