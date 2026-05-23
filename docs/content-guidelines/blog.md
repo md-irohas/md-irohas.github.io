@@ -30,6 +30,14 @@ content/blog/<YYYY-mm-dd>-<kind>-<slug>/
 - `index.en.md`: 英語版
 
 
+## 外部サイトの利用
+
+blogの記事は、以下の外部サイトへ転載します。
+
+- 日本語記事: [note](https://note.com/)
+- 英語記事: [medium](https://medium.com/)
+
+
 ## 種類別のポリシー
 
 ### travel （旧 trip）
@@ -64,6 +72,8 @@ content/blog/<YYYY-mm-dd>-<kind>-<slug>/
 - `<Prefecture>` / `<都道府県>`
   - 英語では、Prefectureにような都道府県にあたる単語は無（e.g. `Nagano`）。
   - 日本語では、都道府県の文字は有（e.g. `長野県`）。
+
+また、
 
 
 ### photo （旧 tripphoto）

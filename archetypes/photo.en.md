@@ -4,7 +4,6 @@ date = '{{ now.Format "2006-01-02" }}'
 categories = ['Blog (Photo)']
 tags = ['Trip', 'Photo', '<Prefecture>', '<Kind-of-Place>']
 
-# externalUrl = 'https://medium.com/...'
 isCJKLanguage = false
 description = '📝 A blog post about my photos I took at XXXX in Month 202X. <Additinal-Text>'
 summary = '📍 <Place1>, <Place2>, ...'
@@ -14,10 +13,6 @@ draft = true
 # Params
 googlePhotoUrl = ''
 googleDriveUrl = ''
-
-[build]
-render = false
-list = 'local'
 +++
 
 

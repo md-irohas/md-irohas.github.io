@@ -30,5 +30,5 @@ Before creating or editing blog content, read:
 - [ ] Front matter is valid and consistent.
 - [ ] Directory format and slug are correct.
 - [ ] Category-specific rules are applied.
-- [ ] `make build-dev` passes.
+- [ ] All photos are embedded.
 
