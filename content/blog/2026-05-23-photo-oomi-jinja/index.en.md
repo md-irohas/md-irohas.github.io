@@ -16,6 +16,8 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1n1yp5di41ObEAyT8OqKME-
 +++
 
 
+{{< medium-link url="https://medium.com/@md.irohas/photo-omi-shrine-japan-march-2026-55f558448bd5" >}}
+
 {{< blog-disclaimer lang="en" >}}
 
 
