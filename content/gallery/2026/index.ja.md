@@ -6,7 +6,7 @@ tags = ['']
 
 draft = false
 description = "mkt's photo gallery in 2026"
-summary = '📍 江戸東京たてもの園（小金井公園）'
+summary = '📍 江戸東京たてもの園（小金井公園）、日向岬、大御神社'
 
 # Params
 showDate = false
@@ -49,6 +49,10 @@ showRelatedContent = false
 <img src="IMG_0209.jpg" alt="IMG_0209.jpg" class="grid-w33" />
 <img src="IMG_0214.jpg" alt="IMG_0214.jpg" class="grid-w33" />
 <img src="IMG_0241.jpg" alt="IMG_0241.jpg" class="grid-w33" />
+
+<img src="IMG_0282.jpg" alt="IMG_0282.jpg" class="grid-w33" />
+<img src="IMG_0272.jpg" alt="IMG_0272.jpg" class="grid-w33" />
+<img src="DSC06793.jpg" alt="DSC06793.jpg" class="grid-w33" />
 {{< /gallery >}}
 
 
@@ -63,4 +67,5 @@ showRelatedContent = false
 
 {{< article link="/blog/2026-02-23-tripphoto-edo-tokyo-tatemonoen/" >}}
 {{< article link="/blog/2026-05-04-photo-cape-hyuga/" >}}
+{{< article link="/blog/2026-05-23-photo-oomi-jinja/" >}}
 
