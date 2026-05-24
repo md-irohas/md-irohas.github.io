@@ -1,5 +1,5 @@
 +++
-title = '📸 Photo: Cape Hyuga (March 2026)'
+title = '📸 Photo: Cape Hyuga, Japan (March 2026)'
 date = '2026-05-04'
 categories = ['Blog (Photo)']
 tags = ['Trip', 'Photo', 'Miyazaki', 'Sea', 'Sky', 'Lighthouse', 'Cape']
