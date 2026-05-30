@@ -31,7 +31,7 @@
     // ],
 
     // Commands to run on container creation and start.
-    "onCreateCommand": "sudo apt-get update && sudo apt-get install -y imagemagick libimage-exiftool-perl",
+    // "onCreateCommand": "",
 
     // VS Code extensions to install.
     "customizations": {
