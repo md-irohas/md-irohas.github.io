@@ -53,6 +53,21 @@ showRelatedContent = false
 <img src="IMG_0282.jpg" alt="IMG_0282.jpg" class="grid-w33" />
 <img src="IMG_0272.jpg" alt="IMG_0272.jpg" class="grid-w33" />
 <img src="DSC06793.jpg" alt="DSC06793.jpg" class="grid-w33" />
+
+<img src="DSC06800.jpg" alt="DSC06800.jpg" class="grid-w33" />
+<img src="DSC06805.jpg" alt="DSC06805.jpg" class="grid-w33" />
+<img src="DSC06807.jpg" alt="DSC06807.jpg" class="grid-w33" />
+<img src="DSC06812.jpg" alt="DSC06812.jpg" class="grid-w33" />
+<img src="DSC06817.jpg" alt="DSC06817.jpg" class="grid-w33" />
+
+<img src="IMG_0311.jpg" alt="IMG_0311.jpg" class="grid-w33" />
+<img src="IMG_0323.jpg" alt="IMG_0323.jpg" class="grid-w100" />
+<img src="IMG_0333.jpg" alt="IMG_0333.jpg" class="grid-w33" />
+<img src="IMG_0335.jpg" alt="IMG_0335.jpg" class="grid-w33" />
+<img src="IMG_0342.jpg" alt="IMG_0342.jpg" class="grid-w33" />
+<img src="IMG_0348.jpg" alt="IMG_0348.jpg" class="grid-w33" />
+<img src="IMG_0359.jpg" alt="IMG_0359.jpg" class="grid-w33" />
+
 {{< /gallery >}}
 
 
@@ -68,4 +83,5 @@ showRelatedContent = false
 {{< article link="/blog/2026-02-23-tripphoto-edo-tokyo-tatemonoen/" >}}
 {{< article link="/blog/2026-05-04-photo-cape-hyuga/" >}}
 {{< article link="/blog/2026-05-23-photo-oomi-jinja/" >}}
+{{< article link="/blog/2026-05-30-photo-aoshima-jinja/" >}}
 
