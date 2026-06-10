@@ -16,9 +16,7 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/14JJDJvhmctAMxdNq-j2Ftb
 +++
 
 
-<!--
-{{< medium-link url="https://medium.com/@md.irohas/..." >}}
--->
+{{< medium-link url="https://medium.com/@md.irohas/photo-aoshima-shrine-japan-march-2026-20c319e5e9a4" >}}
 
 {{< blog-disclaimer lang="en" >}}
 

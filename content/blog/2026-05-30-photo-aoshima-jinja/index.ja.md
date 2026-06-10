@@ -16,9 +16,7 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/14JJDJvhmctAMxdNq-j2Ftb
 +++
 
 
-<!--
-{{< note-link url="https://note.com/md_irohas/n/..." >}}
--->
+{{< note-link url="https://note.com/md_irohas/n/n1a8fe7792f8f" >}}
 
 {{< blog-disclaimer lang="ja" >}}
 
