@@ -16,7 +16,9 @@ googleDriveUrl = ''
 +++
 
 
+<!--
 {{< medium-link url="https://medium.com/@md.irohas/..." >}}
+-->
 
 {{< blog-disclaimer lang="en" >}}
 
@@ -49,7 +51,7 @@ In \<Month\> \<Year\>, ...
 {{< google-photos-album lang="en" >}}
 
 
-### iPhone 12 mini
+### iPhone 17 Pro
 
 {{< gallery >}}
   <img src="IMG_XXXX.jpg" alt="IMG_XXXX.jpg" class="grid-w50" />
@@ -57,7 +59,17 @@ In \<Month\> \<Year\>, ...
 {{< /gallery >}}
 
 
-### α6500
+### iPhone 17 Pro (RAW)
+
+{{< gallery >}}
+  <img src="IMG_XXXX.jpg" alt="IMG_XXXX.jpg" class="grid-w50" />
+  <img src="IMG_XXXX.jpg" alt="IMG_XXXX.jpg" class="grid-w50" />
+{{< /gallery >}}
+
+{{< google-drive-photo-raw lang="en" >}}
+
+
+### α6500 (RAW)
 
 {{< gallery >}}
   <img src="DSC0XXXX-Enhanced-NR.jpg" alt="DSC0XXXX-Enhanced-NR.jpg" class="grid-w60" />
