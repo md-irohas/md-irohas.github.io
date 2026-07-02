@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write English Travel Photo Article"
+  short_description: "Adapt reviewed Japanese posts into English"
+  default_prompt: "Use $write-english-travel-photo-article to write index.en.md from the reviewed Japanese article in index.ja.md."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Draft Japanese Travel Photo Article"
+  short_description: "Expand Japanese notes into a blog draft"
+  default_prompt: "Use $draft-japanese-travel-photo-article to turn my Japanese notes in index.ja.md into the Japanese article."
