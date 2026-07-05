@@ -12,7 +12,7 @@ usage: $0 [-h] [-i | -f] [-c class] file [...]
     -i, --img         output img tags. (default)
     -f, --figure      output Hugo figure shortcodes.
     -c, --class       set class attribute.
-                     default: grid-w33 for img, w33 for figure.
+                      default: grid-w33 for img, w33 for figure.
 
 __EOF__
 }
