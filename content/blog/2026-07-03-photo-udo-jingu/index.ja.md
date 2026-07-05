@@ -15,9 +15,8 @@ googlePhotoUrl = 'https://photos.app.goo.gl/nTxmK1wa5EkKi1To8'
 googleDriveUrl = 'https://drive.google.com/drive/folders/1pXCTnTn8FMY9W89p5dRiUdx-corXBw7C'
 +++
 
-<!--
-{{< note-link url="https://note.com/md_irohas/n/..." >}}
--->
+
+{{< note-link url="https://note.com/md_irohas/n/nb6b3e1cd8d63" >}}
 
 {{< blog-disclaimer lang="ja" >}}
 
@@ -36,7 +35,7 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1pXCTnTn8FMY9W89p5dRiUd
   >}}
 
 
-今回は鵜戸神宮のすぐ近くにある駐車場を目指します。
+まずは鵜戸神宮のすぐ近くにある駐車場を目指します。
 
 国道220号から標識の案内に従って脇道へ入り、さらに入口に鳥居のある細い道に入ります。
 漁港の住宅街を通る道は狭めでしたが、海沿いの道をしばらく走って丘を越えると、参道近くの駐車場にたどり着きます。
