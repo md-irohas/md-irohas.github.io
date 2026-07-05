@@ -6,7 +6,7 @@ tags = ['']
 
 draft = false
 description = "mkt's photo gallery in 2026"
-summary = '📍 Edo-Tokyo Open Air Architectural Museum (Koganei Park), Cape Hyuga, Omi Shrine'
+summary = '📍 Edo-Tokyo Open Air Architectural Museum (Koganei Park), Cape Hyuga, Omi Shrine, Aoshima Shrine, Udo Jingu'
 
 # Params
 showDate = false
@@ -68,6 +68,12 @@ showRelatedContent = false
 <img src="IMG_0348.jpg" alt="IMG_0348.jpg" class="grid-w33" />
 <img src="IMG_0359.jpg" alt="IMG_0359.jpg" class="grid-w33" />
 
+<img src="DSC06818.jpg" alt="DSC06818.jpg" class="grid-w33" />
+<img src="IMG_0368.jpg" alt="IMG_0368.jpg" class="grid-w33" />
+<img src="IMG_0377.jpg" alt="IMG_0377.jpg" class="grid-w33" />
+<img src="IMG_0394.jpg" alt="IMG_0394.jpg" class="grid-w33" />
+<img src="IMG_0396.jpg" alt="IMG_0396.jpg" class="grid-w33" />
+<img src="IMG_0397.jpg" alt="IMG_0397.jpg" class="grid-w33" />
 {{< /gallery >}}
 
 
@@ -84,4 +90,4 @@ showRelatedContent = false
 {{< article link="/blog/2026-05-04-photo-cape-hyuga/" >}}
 {{< article link="/blog/2026-05-23-photo-oomi-jinja/" >}}
 {{< article link="/blog/2026-05-30-photo-aoshima-jinja/" >}}
-
+{{< article link="/blog/2026-07-03-photo-udo-jingu/" >}}
