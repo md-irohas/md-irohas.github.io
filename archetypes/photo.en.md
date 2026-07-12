@@ -4,6 +4,34 @@ date = '{{ now.Format "2006-01-02" }}'
 categories = ['Blog (Photo)']
 tags = ['Trip', 'Photo', '<Prefecture>', '<Kind-of-Place>']
 
+# === tags ===
+# 自然系:
+# Sea: 海
+# Sky: 空
+# Mountain: 山
+# Forest: 森
+# Lake: 湖
+# Cave: 洞窟
+# Grassland: 草原
+# Sand Dunes: 砂丘
+# Waterfall: 滝
+# Cape: 岬
+# Starry Night: 星空
+# 建物系:
+# Lighthouse: 灯台
+# Shrine: 神社
+# Temple: 寺院
+# Park: 公園
+# Lookout: 展望台
+# Scenic Road: 景観道路
+# Tourist Area: 観光エリア
+# Historic Spot: 史跡
+# Service Area: サービスエリア
+# 施設:
+# Aquarium: 水族館
+# Museum: 博物館
+# Zoo: 動物園
+
 isCJKLanguage = false
 description = '📝 A blog post about my photos I took at XXXX in Month 202X. <Additinal-Text>'
 summary = '📍 <Place1>, <Place2>, ...'
