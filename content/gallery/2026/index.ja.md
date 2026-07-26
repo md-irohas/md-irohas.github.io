@@ -74,6 +74,13 @@ showRelatedContent = false
 <img src="IMG_0394.jpg" alt="IMG_0394.jpg" class="grid-w33" />
 <img src="IMG_0396.jpg" alt="IMG_0396.jpg" class="grid-w33" />
 <img src="IMG_0397.jpg" alt="IMG_0397.jpg" class="grid-w33" />
+
+<img src="DSC06825.jpg" alt="DSC06825.jpg" class="grid-w33" />
+<img src="DSC06827.jpg" alt="DSC06827.jpg" class="grid-w33" />
+<img src="DSC06831.jpg" alt="DSC06831.jpg" class="grid-w33" />
+<img src="DSC06832.jpg" alt="DSC06832.jpg" class="grid-w33" />
+<img src="DSC06840.jpg" alt="DSC06840.jpg" class="grid-w33" />
+<img src="IMG_0405-Portrait.jpg" alt="IMG_0405-Portrait.jpg" class="grid-w33" />
 {{< /gallery >}}
 
 
@@ -91,4 +98,4 @@ showRelatedContent = false
 {{< article link="/blog/2026-05-23-photo-oomi-jinja/" >}}
 {{< article link="/blog/2026-05-30-photo-aoshima-jinja/" >}}
 {{< article link="/blog/2026-07-03-photo-udo-jingu/" >}}
-
+{{< article link="/blog/2026-07-12-photo-cape-toi/" >}}
