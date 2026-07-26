@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prepare English Photo Article for Medium"
+  short_description: "Convert an English photo post into Medium-ready copy"
+  default_prompt: "Use $prepare-english-photo-article-for-medium to prepare this English photo article for reposting on Medium."
