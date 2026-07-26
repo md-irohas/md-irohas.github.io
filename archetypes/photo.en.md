@@ -1,5 +1,5 @@
 +++
-title = '📸 Photo: XXX (<Month> 20XX)'
+title = '📸 Photo: XXX, Japan (<Month> 20XX)'
 date = '{{ now.Format "2006-01-02" }}'
 categories = ['Blog (Photo)']
 tags = ['Trip', 'Photo', '<Prefecture>', '<Kind-of-Place>']
