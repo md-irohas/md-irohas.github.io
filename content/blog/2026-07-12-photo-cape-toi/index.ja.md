@@ -15,9 +15,7 @@ googlePhotoUrl = 'https://photos.app.goo.gl/m958YexnMT61wwoT8'
 googleDriveUrl = 'https://drive.google.com/drive/folders/1cvSctXAMfLvEsS2rq-HccWC21yKeejHM'
 +++
 
-<!--
-{{< note-link url="https://note.com/md_irohas/n/..." >}}
--->
+{{< note-link url="https://note.com/md_irohas/n/n69512f4b00a5" >}}
 
 {{< blog-disclaimer lang="ja" >}}
 

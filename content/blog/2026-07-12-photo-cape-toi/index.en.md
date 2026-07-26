@@ -15,9 +15,8 @@ googlePhotoUrl = 'https://photos.app.goo.gl/m958YexnMT61wwoT8'
 googleDriveUrl = 'https://drive.google.com/drive/folders/1cvSctXAMfLvEsS2rq-HccWC21yKeejHM'
 +++
 
-<!--
-{{< medium-link url="https://medium.com/@md.irohas/..." >}}
--->
+{{< medium-link url="https://medium.com/@md.irohas/photo-cape-toi-japan-march-2026-bff33856a4f9" >}}
+
 
 {{< blog-disclaimer lang="en" >}}
 
