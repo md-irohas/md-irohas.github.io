@@ -2,6 +2,7 @@
 {{- $path := printf "snippets/blog-disclaimer.%s.md" $lang -}}
 
 {{- with resources.Get $path -}}
+<br>
 <aside class="blog-disclaimer">
   {{- .Content | $.Page.RenderString (dict "display" "block") -}}
 </aside>
