@@ -5,7 +5,7 @@ categories = ['ブログ（写真）']
 tags = ['旅行', '写真', '宮崎県', '海', '岬', '灯台', '神社']
 
 isCJKLanguage = true
-description = '🐴 2026年3月に訪れた宮崎県・都井岬で撮影した写真です。'
+description = '🐴 2026年3月に訪れた宮崎県の都井岬で撮影した写真です。'
 summary = '📍 都井岬、都井岬灯台、御崎神社'
 
 draft = false
