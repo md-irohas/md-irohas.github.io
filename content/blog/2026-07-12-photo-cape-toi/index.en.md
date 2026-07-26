@@ -63,7 +63,7 @@ I parked there and walked toward the sea, where an expansive view opened up befo
 {{< figure
     src="IMG_0404.jpg"
     alt="IMG_0404.jpg"
-    caption="Panorama from Komatsugaoka Square"
+    caption="Komatsugaoka Square (panorama)"
     class="w100"
     >}}
 

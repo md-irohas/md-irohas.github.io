@@ -62,7 +62,7 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1cvSctXAMfLvEsS2rq-HccW
 {{< figure
     src="IMG_0404.jpg"
     alt="IMG_0404.jpg"
-    caption="小松ヶ丘広場のパノラマ写真"
+    caption="小松ヶ丘広場（パノラマ）"
     class="w100"
     >}}
 
