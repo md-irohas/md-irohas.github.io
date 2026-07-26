@@ -5,7 +5,7 @@ categories = ['Blog (Photo)']
 tags = ['Trip', 'Photo', 'Miyazaki', 'Sea', 'Sky', 'Lighthouse', 'Cape']
 
 isCJKLanguage = false
-description = '🌊 Photos I took at Cape Hyuga in March 2026.'
+description = '🌊 Photos I took at Cape Hyuga, Japan, in March 2026.'
 summary = '📍 Cape Hyuga, Umagase Observatory, Hososhima Lighthouse'
 
 draft = false

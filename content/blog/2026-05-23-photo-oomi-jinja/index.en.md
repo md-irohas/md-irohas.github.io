@@ -5,7 +5,7 @@ categories = ['Blog (Photo)']
 tags = ['Trip', 'Photo', 'Miyazaki', 'Sea', 'Sky', 'Shrine', 'Cave']
 
 isCJKLanguage = false
-description = '⛩️ Photos I took at Omi Shrine in March 2026.'
+description = '⛩️ Photos I took at Omi Shrine, Japan, in March 2026.'
 summary = '📍 Omi Shrine, Udo Shrine'
 
 draft = false

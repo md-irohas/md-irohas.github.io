@@ -5,7 +5,7 @@ categories = ['Blog (Photo)']
 tags = ['Trip', 'Photo', 'Miyazaki', 'Sea', 'Shrine']
 
 isCJKLanguage = false
-description = '⛩️ Photos I took at Aoshima Shrine in March 2026.'
+description = '⛩️ Photos I took at Aoshima Shrine, Japan, in March 2026.'
 summary = '📍 Aoshima Shrine'
 
 draft = false
