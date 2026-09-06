@@ -1,4 +1,7 @@
 interface:
-  display_name: "Draft Japanese Travel Photo Article"
-  short_description: "Expand Japanese notes into a blog draft"
-  default_prompt: "Use $draft-japanese-travel-photo-article to turn my Japanese notes in index.ja.md into the Japanese article."
+  display_name: "旅行・写真記事のドラフト作成（日本語）"
+  short_description: "日本語のメモをブログ記事のドラフトに仕上げる"
+  default_prompt: "$draft-japanese-travel-photo-article を使って、index.ja.md の日本語メモを日本語記事に仕上げてください。"
+
+policy:
+  allow_implicit_invocation: false
