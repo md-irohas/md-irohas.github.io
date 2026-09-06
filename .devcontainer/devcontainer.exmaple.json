@@ -9,6 +9,14 @@
         "ghcr.io/devcontainers/features/hugo:1": {
             "version": "latest"
         }
+		// "ghcr.io/devcontainers/features/github-cli:1": {},
+		// required by claude-code
+		// "ghcr.io/devcontainers/features/node:2": {
+		// 	"version": "lts",
+		// 	"nodeGypDependencies": false
+		// },
+		// "ghcr.io/anthropics/devcontainer-features/claude-code:1": {}
+		// Codex is installed as extensions in VSCode.
     },
 
     // Workspace folder inside container.
@@ -32,11 +40,15 @@
 
     // Commands to run on container creation and start.
     // "onCreateCommand": "",
+    // "postCreateCommand": "",
+    // "postStartCommand": "",
 
     // VS Code extensions to install.
     "customizations": {
         "vscode": {
             "extensions": [
+				// LLM agents (Claude Code is installed via 'features')
+				// "openai.chatgpt"
             ]
         }
     }
