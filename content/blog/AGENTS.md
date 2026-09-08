@@ -1,34 +1,15 @@
-# Instructions for Agents
+# Instructions for Codex Agent
 
-Scope: `content/blog/`
+- 対象: `content/blog/`
 
+## 指示
 
-## Required Reading
-
-Before creating or editing blog content, read:
-
-- `docs/content-guidelines/blog.md`
-
-
-## Rules
-
-- Follow directory and slug rules defined in the guideline.
-- Follow category-specific template, section, taxonomy, and tag rules.
-- For new articles, prefer `travel` / `photo` / `camping` as `<kind>`.
-  - Keep existing `trip` / `tripphoto` kinds unchanged. They are obsolete and unused.
-- Do not invent new canonical category labels or tag naming conventions without explicit user request.
-- Keep front matter format and shortcode style consistent with existing posts.
-- Include all JPEG image files from the directory in the gallery section (NOTE: All JPEG image files do not need to be included in the story section. If there are JPEG files which are not included in the story section, notify the writer.).
-  - Use the appropriate `class` attribute in figure shortcodes based on the image orientation:
-    - Portrait: `w33`
-    - Landscape: `w50`
-    - Panorama: `w100`
-
-
-## Checklist
-
-- [ ] Front matter is valid and consistent.
-- [ ] Directory format and slug are correct.
-- [ ] Category-specific rules are applied.
-- [ ] All photos are embedded.
-
+- 原稿執筆のガイドライン: `docs/content-guidelines/blog.md`
+- ファイルのフォーマット: Hugo（テーマはblowfish）がサポートするMarkdown
+  - front matterとshort codeの書式は、既存の記事に合わせてください。
+  - Galleryには、指定のディレクトリ内にあるすべてのJPEG画像を掲載してください。
+  - Storyには、指定のディレクトリ内にあるすべてのJPEG画像を掲載する必要はありません。
+  - figureショートコードの`class`属性には、画像の向きに応じて以下の値を指定してください。
+    - 縦長: `w33`
+    - 横長: `w50`
+    - パノラマ: `w100`
