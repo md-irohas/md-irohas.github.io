@@ -1,7 +1,7 @@
 interface:
-  display_name: "旅行・写真記事のドラフト作成（日本語）"
-  short_description: "日本語のメモをブログ記事のドラフトに仕上げる"
-  default_prompt: "$draft-japanese-travel-photo-article を使って、index.ja.md の日本語メモを日本語記事に仕上げてください。"
+  display_name: "旅行・写真・キャンプのブログ記事の原稿案作成（日本語）"
+  short_description: "メモから旅行・写真・キャンプのブログ記事の原稿案（日本語）を作成する"
+  default_prompt: "$draft-japanese-travel-photo-article を使って、index.ja.md のメモをもとに、旅行・写真・キャンプのブログ記事の原稿案を日本語で作成してください。"
 
 policy:
   allow_implicit_invocation: false
