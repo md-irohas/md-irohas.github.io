@@ -1,5 +1,5 @@
 ---
-name: draft-japanese-travel-photo-article
+name: make-blog-article-japanese
 description: >-
   メモ、リンク、写真から、旅行・写真・キャンプのブログ記事の日本語の原稿案を作成します。
 ---

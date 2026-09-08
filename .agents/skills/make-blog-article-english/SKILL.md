@@ -1,5 +1,5 @@
 ---
-name: write-english-travel-photo-article
+name: make-blog-article-english
 description: >-
   Write or update this Hugo site's English travel, photo, or camping article in
   index.en.md from the reviewed Japanese article in index.ja.md. Use when Codex
