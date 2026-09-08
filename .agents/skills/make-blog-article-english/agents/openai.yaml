@@ -1,7 +1,7 @@
 interface:
-  display_name: "Write English Travel Photo Article"
-  short_description: "Adapt reviewed Japanese posts into English"
-  default_prompt: "Use $make-blog-article-english to write index.en.md from the reviewed Japanese article in index.ja.md."
+  display_name: "旅行・写真・キャンプのブログ記事の原稿案作成（英語）"
+  short_description: "日本語記事から旅行・写真・キャンプのブログ記事の原稿案（英語）を作成する"
+  default_prompt: "$make-blog-article-english を使って、index.ja.md の日本語記事をもとに、旅行・写真・キャンプのブログ記事の原稿案を英語で作成してください。"
 
 policy:
   allow_implicit_invocation: false

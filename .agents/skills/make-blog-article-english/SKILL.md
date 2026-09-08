@@ -1,55 +1,25 @@
 ---
 name: make-blog-article-english
 description: >-
-  Write or update this Hugo site's English travel, photo, or camping article in
-  index.en.md from the reviewed Japanese article in index.ja.md. Use when Codex
-  is explicitly asked to perform the English-version step after the Japanese
-  article has been drafted and revised, adapting facts and structure into
-  natural English while preserving local content/blog conventions and leaving
-  index.ja.md unchanged.
+  日本語記事から、旅行・写真・キャンプのブログ記事の英語版を作成します。
 ---
 
 
-# Write English Travel Photo Article
+# 旅行・写真・キャンプのブログ記事の原稿案作成（英語）
 
+日本語記事から、旅行・写真・キャンプのブログ記事の英語版を作成します。
 
-## Purpose
+## 資料
 
-Write `index.en.md` from the reviewed Japanese source in `index.ja.md`. Treat
-the Japanese article as the factual source and produce natural English, not a
-literal line-by-line translation.
+英語版の作成にあたっては以下の資料を参考にしてください。
 
+- Codexへの指示: `content/blog/AGENTS.md`
+- 原稿執筆のガイドライン: `docs/content-guidelines/blog.md`
+- 過去記事: `content/blog/` にある直近の英語記事（`index.en.md`）
 
-## Required Reading
+## 手順
 
-Before editing, read the project sources of truth instead of relying on copied
-rules in this skill:
-
-- `content/blog/AGENTS.md`
-- `docs/content-guidelines/blog.md`
-- The matching English archetype under `archetypes/`
-- The finalized or user-reviewed `index.ja.md`
-- One or two recent English examples under `content/blog/`
-
-
-## Workflow
-
-1. Confirm `index.ja.md` is reviewed enough to use as the source. If it still
-   looks like rough notes or contains blocking TODOs, ask before continuing.
-2. Read `index.en.md` as the target scaffold and preserve valid generated front
-   matter, params, and shortcode structure.
-3. Adapt the Japanese article's facts, order, places, maps, links, images,
-   captions, and gallery structure into English.
-4. Edit only `index.en.md` unless the user explicitly asks otherwise.
-5. Do not add new memories, route details, official facts, or photo descriptions
-   beyond the reviewed Japanese source and verifiable local context.
-6. Validate front matter, shortcode syntax, image references, bilingual fact
-   alignment, and gallery completeness according to
-   `docs/content-guidelines/blog.md`.
-7. Run `make build-dev` after content edits when feasible.
-
-
-## Final Response
-
-Report changed files, validation/build result, Japanese TODOs that blocked
-drafting, and any intentional differences from `index.ja.md`.
+1. ユーザが指定したディレクトリの日本語記事（`index.ja.md`）が作成済みであることを確認します。TODO等が残っている場合は、ユーザに確認してください。
+2. `index.ja.md`をもとに、この記事の英語版を作成します。直訳ではなく自然な英語で表現してください。また、原則として、日本語の記事をベースに英語版を作成しますが、必要に応じて理解に必要な文化的な背景等を追加します。
+3. ユーザに原稿案を提示し、フィードバックを受け取ります。
+4. 問題がなければ、原稿案を `index.en.md` に書き込みます。
