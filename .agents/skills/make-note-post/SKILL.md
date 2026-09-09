@@ -1,71 +1,35 @@
 ---
 name: make-note-post
 description: >-
-  Prepare a reviewed Japanese Hugo photo article under content/blog/**/index.ja.md
-  for manual reposting to the note publishing service at https://note.com/.
-  Use when Codex is asked to convert a Japanese photo or legacy tripphoto post
-  into a copy-paste-ready note title and body in the chat, using the bundled
-  note template, converting Hugo shortcodes and repository-relative links, and
-  leaving explicit manual markers for images, maps, and the table of contents.
-  Do not use for travel recap or camping posts.
+  content/blog/**/index.ja.mdの日本語記事を、noteへ転載するための原稿案を作成します。
 ---
 
-# Prepare Japanese Photo Article for note.com
+# note投稿案の作成
 
-## Purpose
+`content/blog/**/index.ja.md`の日本語記事を、noteへ転載するための原稿案を作成します。
+作成した原稿案はチャットに出力し、元の記事は変更しないでください。
 
-Convert one reviewed Japanese `photo` or legacy `tripphoto` article into a
-copy-paste-ready title and body for the Web publishing service note
-(`https://note.com/`). Return the result in the chat without creating an export
-file or editing the source article.
+## 資料
 
-Throughout this skill, **the note service** means the Web publishing service at
-`https://note.com/`, not a generic note or memo.
+原稿案の作成にあたっては以下の資料を参考にしてください。
 
-## Required Reading
+- Codexへの指示: `content/blog/AGENTS.md`
+- 原稿執筆のガイドライン: `docs/content-guidelines/blog.md`
+- 対象記事: `content/blog/*/index.ja.md`
 
-Before preparing the repost:
+原則として画像の内容は確認せず、ファイル名とキャプションから判断してください。
 
-- Resolve `content/blog/AGENTS.md`, `docs/content-guidelines/blog.md`, and the
-  selected article's `index.ja.md` relative to the repository root, then read
-  them.
-- Resolve `./assets/note-photo-template.md` relative to the directory containing
-  this `SKILL.md`, not the repository root. Read that template completely and
-  use it as the output structure.
+## 手順
 
-Do not inspect image contents. The source filename and figure caption are
-sufficient for this task.
+1. 対象の`index.ja.md`がレビュー済みであることを確認します。TODOなどが残っている場合はユーザに確認してください。
+2. 変換が問題なく実行できるかを確認します。確認事項がある場合はユーザに確認してください。
+3. 問題がなければ、出力テンプレート、変換ルールに従って、note用の原稿を作成し、チャット欄に出力してください。
 
-## Workflow
+## 変換ルール
 
-1. Confirm the target is a Japanese `photo` or legacy `tripphoto` article.
-   Stop and explain the scope mismatch for `travel`, `trip`, or `camping`.
-2. Treat the reviewed `index.ja.md` as the factual source. Do not rewrite,
-   summarize, embellish, translate, or fact-check its prose unless asked.
-3. Extract the exact front matter `title`, including its emoji, and keep it
-   separate from the note body.
-4. Derive the canonical blog URL from the production base URL, the Japanese
-   language path, and the article directory name.
-5. Resolve the previous post on the note service in this order:
-   - Use a URL explicitly supplied by the user.
-   - Otherwise, find the latest earlier Japanese blog article by front matter
-     date that has a real, uncommented `note-link` URL.
-   - If no reliable URL exists, insert a visible manual marker. Never invent a
-     note.com URL or use a commented placeholder ending in `...`.
-6. Convert the source content according to the rules below.
-7. Fill every placeholder in the skill-relative
-   `./assets/note-photo-template.md`.
-8. Validate the result and return it in the chat. Do not write any output file.
-
-## Conversion Rules
-
-- Expand the disclaimer using the exact Japanese text in the template, even
-  when an older source article does not contain `blog-disclaimer`.
-- Copy the content of `## ストーリー`, including its order and subheadings.
-- Remove TOML front matter, the source `note-link`, HTML comments, `<br>` tags,
-  and layout-only shortcode wrappers.
-- Convert every active `figure` shortcode in the Story into a visible marker at
-  the same position:
+- 文章は書き換え、要約、加筆、翻訳、事実確認をせず、すべてのセクションと順序を維持します。
+- TOML front matter、`note-link`、HTMLコメント、`<br>`、レイアウト用shortcodeは削除します。
+- `figure`は同じ位置で次の形式に変換します。HTMLコメント内のものは含めません。
 
   ```markdown
   > 【note作業：画像を挿入】
@@ -73,56 +37,59 @@ sufficient for this task.
   > キャプション: 元のキャプション
   ```
 
-- Do not include figures that exist only inside HTML comments.
-- Convert every active `google-maps-2` shortcode into a visible marker at the
-  same position and preserve its complete URL:
+- `google-maps-2`はURLを省略せず、同じ位置で次の形式に変換します。
 
   ```markdown
   > 【note作業：Google マップを埋め込み】
   > URL: https://...
   ```
 
-- Convert `alert` content to a Markdown blockquote while preserving its text.
-- Convert repository-relative `/ja/blog/...` links to absolute
-  `https://mkt-sidenotes.dev/ja/blog/...` links. Keep external links unchanged.
-- Do not reproduce device headings, `gallery` image grids, or individual
-  gallery images. Build the note.com Gallery only from `googlePhotoUrl`,
-  `googleDriveUrl`, and the fixed license text in the template.
-- Copy the content of `## マップ`, preserving its headings and notes, while
-  converting each map shortcode to the manual marker above.
-- Copy `## 編集履歴` exactly except for shortcode or HTML cleanup.
-- Replace any unsupported active shortcode with a visible
-  `【note作業：未対応shortcode ...】` marker and report it in the checklist.
-  Never silently discard unknown active content.
+- `alert`の内容はMarkdownの引用に変換します。
+- `/ja/blog/...`リンクは`https://mkt-sidenotes.dev/ja/blog/...`に変換し、外部リンクはそのまま使用します。
+- 「ギャラリー」は端末名や`gallery`内の画像を除き、front matterの`googlePhotoUrl`と`googleDriveUrl`を使って次の形式に置き換えます。URLがない場合は手作業用のマーカーを入れます。
 
-## Chat Output
+  ```markdown
+  ## ギャラリー
 
-Return these items in order:
+  ライセンス: **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)**
 
-1. A copyable block containing only the exact note.com title.
-2. A single copyable Markdown artifact containing only the note.com body.
-3. A concise checklist outside the body with:
-   - The number and filenames of image insertions.
-   - The number of Google Map insertions.
-   - Whether the previous note.com URL was supplied, inferred, or unresolved.
-   - Missing Gallery URLs or unsupported shortcodes.
+  ### Google Photos
 
-When writing blocks are available, use a `standard` writing block for the title
-and a `document` writing block for the body. Otherwise, use separate fenced
-Markdown blocks. Do not put explanations, the title, or the checklist inside
-the note.com body.
+  {{GOOGLE_PHOTOS_URL}}
 
-## Validation
+  ### Google Drive
 
-Before returning the result, confirm:
+  {{GOOGLE_DRIVE_URL}}
+  ```
 
-- The title matches front matter exactly.
-- Story figure and map marker counts match the active source shortcodes in the
-  corresponding sections.
-- No TOML front matter, Hugo shortcode syntax, HTML comment, or relative
-  `/ja/blog/` link remains.
-- Google Photos, Google Drive, canonical blog, and license URLs are present or
-  visibly marked unresolved.
-- `ストーリー`, `ギャラリー`, `マップ`, and `編集履歴` occur once and in the
-  template order.
-- The source repository files remain unchanged.
+- 未対応の有効なshortcodeは削除せず、ユーザに確認します。
+
+## 出力テンプレート
+
+記事のテンプレートは以下の通りです。
+
+```markdown
+# Title
+{{NOTE_TITLE}}
+
+# Body
+
+この記事は、個人の旅行や写真の記録です。
+筆者（mkt）は旅行や写真に詳しいわけではありませんので、個人の思い出としてゆるく参考にしてもらえると嬉しいです。
+
+前回の投稿: {{PREVIOUS_NOTE_URL}}
+
+> 【note作業：ここに目次を挿入】
+
+{{CONVERTED_ARTICLE_BODY}}
+
+個人ブログ:
+{{CANONICAL_BLOG_URL}}
+```
+
+- `{{NOTE_TITLE}}`: 記事のタイトル。
+- `{{PREVIOUS_NOTE_URL}}`: ユーザ指定のURLを使用します。指定がない場合は、front matterの日付が対象記事より前で最も新しい日本語記事の、有効かつコメント化されていない`note-link`を使用します。見つからない場合は空白にします。
+- `{{CONVERTED_ARTICLE_BODY}}`: 記事の本文。
+- `{{CANONICAL_BLOG_URL}}`: 対象記事のディレクトリ名を使い、`https://mkt-sidenotes.dev/ja/blog/<記事ディレクトリ名>/`形式のURLを作成します。
+
+出力前に、Hugoのshortcode、HTMLコメント、相対リンク、未置換のプレースホルダーが残っていないことを確認してください。

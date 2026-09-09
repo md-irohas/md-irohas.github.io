@@ -1,7 +1,7 @@
 interface:
-  display_name: "Prepare Japanese Photo Article for note"
-  short_description: "Convert a Japanese photo post into note-ready copy"
-  default_prompt: "Use $make-note-post to prepare this Japanese photo article for reposting on note."
+  display_name: "note投稿案の作成"
+  short_description: "日本語のブログ記事からnote用の投稿案を作成する"
+  default_prompt: "$make-note-post を使って、日本語のブログ記事からnote用の投稿案を作成してください。"
 
 policy:
   allow_implicit_invocation: false
