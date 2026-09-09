@@ -31,6 +31,7 @@ ignoreFiles = ['(^|/)AGENTS\.md$']
 [taxonomies]
   category = "categories"
   tag = "tags"
+  author = "authors"
   series = "series"
 
 [sitemap]
@@ -56,6 +57,10 @@ ignoreFiles = ['(^|/)AGENTS\.md$']
     [[related.indices]]
         name = "series"
         weight = 50
+
+    [[related.indices]]
+        name = "authors"
+        weight = 20
 
     [[related.indices]]
         name = "date"

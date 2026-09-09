@@ -20,6 +20,7 @@ title = "mkt's sidenotes"
   name = "mkt"
   email = "md.irohas@gmail.com"
   image = "img/author.jpg"
+  imageQuality = 96
   headline = "A beginner in the shell."
   bio = "A researcher, an engineer, a workaholic, and a nomad."
   links = [
