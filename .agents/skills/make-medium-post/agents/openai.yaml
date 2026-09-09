@@ -1,7 +1,7 @@
 interface:
-  display_name: "Prepare English Photo Article for Medium"
-  short_description: "Convert an English photo post into Medium-ready copy"
-  default_prompt: "Use $make-medium-post to prepare this English photo article for reposting on Medium."
+  display_name: "Medium投稿案の作成"
+  short_description: "英語のブログ記事からMedium用の投稿案を作成する"
+  default_prompt: "$make-medium-post を使って、英語のブログ記事からMedium用の投稿案を作成してください。"
 
 policy:
   allow_implicit_invocation: false

@@ -1,71 +1,35 @@
 ---
 name: make-medium-post
 description: >-
-  Prepare a reviewed English Hugo photo article under content/blog/**/index.en.md
-  for manual reposting to the Medium publishing service at https://medium.com/.
-  Use when Codex is asked to convert an English photo or legacy tripphoto post
-  into a copy-paste-ready Medium title and body in the chat, using the bundled
-  Medium template, converting Hugo shortcodes and repository-relative links,
-  and leaving explicit manual markers for images and maps. Do not use for
-  travel recap or camping posts.
+  content/blog/**/index.en.mdの英語記事を、Mediumへ転載するための原稿案を作成します。
 ---
 
-# Prepare English Photo Article for Medium
+# Medium投稿案の作成
 
-## Purpose
+`content/blog/**/index.en.md`の英語記事を、Mediumへ転載するための原稿案を作成します。
+作成した原稿案はチャットに出力し、元の記事は変更しないでください。
 
-Convert one reviewed English `photo` or legacy `tripphoto` article into a
-copy-paste-ready title and body for the Web publishing service Medium
-(`https://medium.com/`). Return the result in the chat without creating an
-export file or editing the source article.
+## 資料
 
-Throughout this skill, **the Medium service** means the Web publishing service
-at `https://medium.com/`, not the adjective "medium."
+原稿案の作成にあたっては以下の資料を参考にしてください。
 
-## Required Reading
+- Codexへの指示: `content/blog/AGENTS.md`
+- 原稿執筆のガイドライン: `docs/content-guidelines/blog.md`
+- 対象記事: `content/blog/*/index.en.md`
 
-Before preparing the repost:
+原則として画像の内容は確認せず、ファイル名とキャプションから判断してください。
 
-- Resolve `content/blog/AGENTS.md`, `docs/content-guidelines/blog.md`, and the
-  selected article's `index.en.md` relative to the repository root, then read
-  them.
-- Resolve `./assets/medium-photo-template.md` relative to the directory
-  containing this `SKILL.md`, not the repository root. Read that template
-  completely and use it as the output structure.
+## 手順
 
-Do not inspect image contents. The source filename and figure caption are
-sufficient for this task.
+1. 対象の`index.en.md`がレビュー済みであることを確認します。TODOなどが残っている場合はユーザに確認してください。
+2. 変換が問題なく実行できるかを確認します。確認事項がある場合はユーザに確認してください。
+3. 問題がなければ、出力テンプレート、変換ルールに従って、Medium用の原稿を作成し、チャット欄に出力してください。
 
-## Workflow
+## 変換ルール
 
-1. Confirm the target is an English `photo` or legacy `tripphoto` article.
-   Stop and explain the scope mismatch for `travel`, `trip`, or `camping`.
-2. Treat the reviewed `index.en.md` as the factual source. Do not rewrite,
-   summarize, embellish, translate, or fact-check its prose unless asked.
-3. Extract the exact front matter `title`, including its emoji, and keep it
-   separate from the Medium body.
-4. Derive the canonical blog URL from the production base URL, the English
-   language path, and the article directory name.
-5. Resolve the previous post on the Medium service in this order:
-   - Use a URL explicitly supplied by the user.
-   - Otherwise, find the latest earlier English blog article by front matter
-     date that has a real, uncommented `medium-link` URL.
-   - If no reliable URL exists, insert a visible manual marker. Never invent a
-     Medium URL or use a commented placeholder ending in `...`.
-6. Convert the source content according to the rules below.
-7. Fill every placeholder in the skill-relative
-   `./assets/medium-photo-template.md`.
-8. Validate the result and return it in the chat. Do not write any output file.
-
-## Conversion Rules
-
-- Expand the disclaimer using the exact English text in the template, even
-  when an older source article does not contain `blog-disclaimer`.
-- Copy the content of `## Story`, including its order and subheadings.
-- Remove TOML front matter, the source `medium-link`, HTML comments, `<br>`
-  tags, and layout-only shortcode wrappers.
-- Convert every active `figure` shortcode in the Story into a visible marker at
-  the same position:
+- 文章は書き換え、要約、加筆、翻訳、事実確認をせず、すべてのセクションと順序を維持します。
+- TOML front matter、`medium-link`、HTMLコメント、`<br>`、レイアウト用shortcodeは削除します。
+- `figure`は同じ位置で次の形式に変換します。HTMLコメント内のものは含めません。
 
   ```markdown
   > [Medium task: Insert image]
@@ -73,56 +37,57 @@ sufficient for this task.
   > Caption: Original caption
   ```
 
-- Do not include figures that exist only inside HTML comments.
-- Convert every active `google-maps-2` shortcode into a visible marker at the
-  same position and preserve its complete URL:
+- `google-maps-2`はURLを省略せず、同じ位置で次の形式に変換します。
 
   ```markdown
   > [Medium task: Embed Google Map]
   > URL: https://...
   ```
 
-- Convert `alert` content to a Markdown blockquote while preserving its text.
-- Convert repository-relative `/blog/...` links to absolute
-  `https://mkt-sidenotes.dev/blog/...` links. Keep external links unchanged.
-- Do not reproduce device headings, `gallery` image grids, or individual
-  gallery images. Build the Medium Gallery only from `googlePhotoUrl`,
-  `googleDriveUrl`, and the fixed license text in the template.
-- Copy the content of `## Map`, preserving its headings and notes, while
-  converting each map shortcode to the manual marker above.
-- Copy `## Change History` exactly except for shortcode or HTML cleanup.
-- Replace any unsupported active shortcode with a visible
-  `[Medium task: Unsupported shortcode ...]` marker and report it in the
-  checklist. Never silently discard unknown active content.
+- `alert`の内容はMarkdownの引用に変換します。
+- `/blog/...`リンクは`https://mkt-sidenotes.dev/blog/...`に変換し、外部リンクはそのまま使用します。
+- 「Gallery」は端末名や`gallery`内の画像を除き、front matterの`googlePhotoUrl`と`googleDriveUrl`を使って次の形式に置き換えます。URLがない場合は手作業用のマーカーを入れます。
 
-## Chat Output
+  ```markdown
+  ## Gallery
 
-Return these items in order:
+  *License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)*
 
-1. A copyable block containing only the exact Medium title.
-2. A single copyable Markdown artifact containing only the Medium body.
-3. A concise checklist outside the body with:
-   - The number and filenames of image insertions.
-   - The number of Google Map insertions.
-   - Whether the previous Medium URL was supplied, inferred, or unresolved.
-   - Missing Gallery URLs or unsupported shortcodes.
+  ### Google Photos
 
-When writing blocks are available, use a `standard` writing block for the title
-and a `document` writing block for the body. Otherwise, use separate fenced
-Markdown blocks. Do not put explanations, the title, or the checklist inside
-the Medium body.
+  {{GOOGLE_PHOTOS_URL}}
 
-## Validation
+  ### Google Drive (RAW)
 
-Before returning the result, confirm:
+  {{GOOGLE_DRIVE_URL}}
+  ```
 
-- The title matches front matter exactly.
-- Story figure and map marker counts match the active source shortcodes in the
-  corresponding sections.
-- No TOML front matter, Hugo shortcode syntax, HTML comment, or relative
-  `/blog/` link remains.
-- Google Photos, Google Drive, canonical blog, and license URLs are present or
-  visibly marked unresolved.
-- `Story`, `Gallery`, `Map`, and `Change History` occur once and in the template
-  order.
-- The source repository files remain unchanged.
+- 未対応の有効なshortcodeは削除せず、ユーザに確認します。
+
+## 出力テンプレート
+
+記事のテンプレートは以下の通りです。
+
+```markdown
+# Title
+{{MEDIUM_TITLE}}
+
+# Body
+
+This article is a personal record of my travels and photography.
+I am not an expert in travel or photography, so I hope you enjoy it as a casual collection of personal memories and find it helpful in some small way.
+
+Previous post: {{PREVIOUS_MEDIUM_URL}}
+
+{{CONVERTED_ARTICLE_BODY}}
+
+Personal blog:
+{{CANONICAL_BLOG_URL}}
+```
+
+- `{{MEDIUM_TITLE}}`: 記事のタイトル。
+- `{{PREVIOUS_MEDIUM_URL}}`: ユーザ指定のURLを使用します。指定がない場合は、front matterの日付が対象記事より前で最も新しい英語記事の、有効かつコメント化されていない`medium-link`を使用します。見つからない場合は空白にします。
+- `{{CONVERTED_ARTICLE_BODY}}`: 記事の本文。
+- `{{CANONICAL_BLOG_URL}}`: 対象記事のディレクトリ名を使い、`https://mkt-sidenotes.dev/blog/<記事ディレクトリ名>/`形式のURLを作成します。
+
+出力前に、Hugoのshortcode、HTMLコメント、相対リンク、未置換のプレースホルダーが残っていないことを確認してください。
