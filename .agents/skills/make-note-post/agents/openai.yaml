@@ -1,7 +1,7 @@
 interface:
   display_name: "Prepare Japanese Photo Article for note"
   short_description: "Convert a Japanese photo post into note-ready copy"
-  default_prompt: "Use $prepare-japanese-photo-article-for-note to prepare this Japanese photo article for reposting on note."
+  default_prompt: "Use $make-note-post to prepare this Japanese photo article for reposting on note."
 
 policy:
   allow_implicit_invocation: false

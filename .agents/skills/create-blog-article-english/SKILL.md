@@ -1,5 +1,5 @@
 ---
-name: make-blog-article-english
+name: create-blog-article-english
 description: >-
   日本語記事から、旅行・写真・キャンプのブログ記事の英語版を作成します。
 ---

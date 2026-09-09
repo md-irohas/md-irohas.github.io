@@ -1,5 +1,5 @@
 ---
-name: prepare-english-photo-article-for-medium
+name: make-medium-post
 description: >-
   Prepare a reviewed English Hugo photo article under content/blog/**/index.en.md
   for manual reposting to the Medium publishing service at https://medium.com/.

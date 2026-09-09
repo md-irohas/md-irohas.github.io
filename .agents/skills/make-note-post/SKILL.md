@@ -1,5 +1,5 @@
 ---
-name: prepare-japanese-photo-article-for-note
+name: make-note-post
 description: >-
   Prepare a reviewed Japanese Hugo photo article under content/blog/**/index.ja.md
   for manual reposting to the note publishing service at https://note.com/.
