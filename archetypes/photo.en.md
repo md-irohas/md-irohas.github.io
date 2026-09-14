@@ -107,6 +107,15 @@ In \<Month\> \<Year\>, ...
 {{< google-drive-photo-raw lang="en" >}}
 
 
+### AI Paintings
+
+{{< ai-paintings lang="en" >}}
+
+{{< gallery >}}
+  <img src="IMG_XXXX_ai.jpg" alt="IMG_XXXX_ai.jpg" class="grid-w50" />
+{{< /gallery >}}
+
+
 ## Map
 
 ### \<Site\>

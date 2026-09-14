@@ -106,6 +106,15 @@ googleDriveUrl = ''
 {{< google-drive-photo-raw lang="ja" >}}
 
 
+### AI生成画像
+
+{{< ai-paintings lang="ja" >}}
+
+{{< gallery >}}
+  <img src="IMG_XXXX_ai.jpg" alt="IMG_XXXX_ai.jpg" class="grid-w50" />
+{{< /gallery >}}
+
+
 ## マップ
 
 ### \<場所\>
