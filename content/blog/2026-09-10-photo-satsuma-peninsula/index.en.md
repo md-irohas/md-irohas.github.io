@@ -15,9 +15,9 @@ googlePhotoUrl = 'https://photos.app.goo.gl/h8mCwNGZgRcVP4RH8'
 googleDriveUrl = 'https://drive.google.com/drive/folders/1hWMACvfVa3Pr30rX9wVvdzGJg4MH0g2i'
 +++
 
-<!--
-{{< medium-link url="https://medium.com/@md.irohas/..." >}}
--->
+
+{{< medium-link url="https://medium.com/@md.irohas/photo-satsuma-peninsula-japan-march-2026-4215dd793216" >}}
+
 
 {{< blog-disclaimer lang="en" >}}
 
