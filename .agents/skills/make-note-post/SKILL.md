@@ -55,11 +55,21 @@ description: >-
 
   ### Google Photos
 
+  高画質版の画像はGoogleフォトアルバムでご覧いただけます。
+
   {{GOOGLE_PHOTOS_URL}}
 
   ### Google Drive
 
+  RAW画像はGoogle Driveからダウンロードできます。
+
   {{GOOGLE_DRIVE_URL}}
+
+  ### AI生成絵画
+
+  以下の画像は、筆者（mkt）が撮影・現像した写真を生成AI（ChatGPT）で絵画風に生成・加工したものです。
+
+  > AI生成絵画をここに挿入します。
   ```
 
 - 未対応の有効なshortcodeは削除せず、ユーザに確認します。
