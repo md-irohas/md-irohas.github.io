@@ -55,11 +55,20 @@ description: >-
 
   ### Google Photos
 
+  You can view the high-resolution images in the Google Photos album.
+
   {{GOOGLE_PHOTOS_URL}}
 
   ### Google Drive (RAW)
 
+  You can download the RAW images from Google Drive.
+
   {{GOOGLE_DRIVE_URL}}
+
+  ### AI Paintings
+
+  The images below were created and edited in a painterly style with generative AI (ChatGPT), based on photographs taken and developed by the author (mkt).
+  > AI paintings to be inserted here.
   ```
 
 - 未対応の有効なshortcodeは削除せず、ユーザに確認します。
