@@ -6,7 +6,7 @@ tags = ['']
 
 draft = false
 description = "mkt's photo gallery in 2026"
-summary = '📍 江戸東京たてもの園（小金井公園）、日向岬、大御神社、青島神社、鵜戸神宮'
+summary = '📍 江戸東京たてもの園（小金井公園）、日向岬、大御神社、青島神社、鵜戸神宮、都井岬、知覧特攻平和会館、長崎鼻'
 
 # Params
 showDate = false
@@ -81,6 +81,14 @@ showRelatedContent = false
 <img src="DSC06832.jpg" alt="DSC06832.jpg" class="grid-w33" />
 <img src="DSC06840.jpg" alt="DSC06840.jpg" class="grid-w33" />
 <img src="IMG_0405-Portrait.jpg" alt="IMG_0405-Portrait.jpg" class="grid-w33" />
+
+<img src="IMG_0464.jpg" alt="IMG_0464.jpg" class="grid-w33" />
+<img src="IMG_0467-Portrait.jpg" alt="IMG_0467-Portrait.jpg" class="grid-w33" />
+<img src="IMG_0478.jpg" alt="IMG_0478.jpg" class="grid-w33" />
+<img src="IMG_0480.jpg" alt="IMG_0480.jpg" class="grid-w33" />
+<img src="IMG_0496.jpg" alt="IMG_0496.jpg" class="grid-w33" />
+<img src="IMG_0499.jpg" alt="IMG_0499.jpg" class="grid-w33" />
+<img src="IMG_0503.jpg" alt="IMG_0503.jpg" class="grid-w33" />
 {{< /gallery >}}
 
 
@@ -99,3 +107,4 @@ showRelatedContent = false
 {{< article link="/blog/2026-05-30-photo-aoshima-jinja/" >}}
 {{< article link="/blog/2026-07-03-photo-udo-jingu/" >}}
 {{< article link="/blog/2026-07-12-photo-cape-toi/" >}}
+{{< article link="/blog/2026-09-10-photo-satsuma-peninsula/" >}}
