@@ -12,12 +12,10 @@ showReadingTime = false
 draft = false
 +++
 
-<!--
-{{< zenn-link url='' >}}
+
+{{< devto-link url='https://dev.to/mkt/moving-away-from-sudo-su-ubuntu-2604-sudo-rs-480d' >}}
 
 ---
--->
-
 
 ## TL;DR
 
