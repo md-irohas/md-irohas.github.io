@@ -18,7 +18,6 @@ draft = false
 ---
 
 
-
 ## 結論
 
 `sudo su` ではなく `sudo -i` （あるいは `sudo -s` ）を使いましょう。
