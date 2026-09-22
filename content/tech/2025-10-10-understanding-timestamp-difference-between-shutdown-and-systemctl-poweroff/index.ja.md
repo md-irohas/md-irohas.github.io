@@ -1,7 +1,7 @@
 +++
 title = 'shutdownとsystemctl poweroffの時刻指定フォーマットの違いを理解する'
 date = '2025-10-11'
-categories = ['Blog（技術）']
+categories = ['ブログ（技術）']
 tags = ['Linux', 'コマンド', 'やらかし']
 
 isCJKLanguage = true

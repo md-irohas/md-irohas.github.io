@@ -37,7 +37,7 @@
 - ブログ：
     - エージェント向けの指示: `content/blog/AGENTS.md`
     - 執筆ガイドライン: `docs/content-guidelines/blog.md`
-- 技術記事（予定）：
+- 技術記事：
     - エージェント向けの指示: `content/tech/AGENTS.md`
     - 執筆ガイドライン: `docs/content-guidelines/tech.md`
 - ギャラリー（予定）：

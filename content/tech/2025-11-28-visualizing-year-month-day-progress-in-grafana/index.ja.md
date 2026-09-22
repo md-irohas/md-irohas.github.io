@@ -1,7 +1,7 @@
 +++
 title = '今年・今月・今日は何％終わった？をGrafana + Prometheusで可視化する'
 date = '2025-11-30'
-categories = ['Blog（技術）']
+categories = ['ブログ（技術）']
 tags = ['Prometheus', 'Grafana']
 
 isCJKLanguage = true

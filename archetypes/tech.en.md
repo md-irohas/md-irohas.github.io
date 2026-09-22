@@ -1,18 +1,13 @@
 +++
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = '{{ now.Format "2006-01-02" }}'
-categories = ['']
+categories = ['Blog (Tech)']
 tags = ['']
 
-externalUrl = 'https://dev.to/...'
 isCJKLanguage = false
 description = '<Summary by ChatGPT>'
 summary = ''
 showReadingTime = false
 
 draft = true
-
-[build]
-render = false
-list = "local"
 +++

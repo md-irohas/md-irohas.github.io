@@ -1,0 +1,7 @@
+interface:
+  display_name: "技術ブログ記事の原稿案作成（日本語）"
+  short_description: "メモや検証記録から日本語の技術記事の原稿案を作成する"
+  default_prompt: "$create-tech-article-japanese を使って、index.ja.md のメモをもとに日本語の技術記事の原稿案を作成してください。"
+
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,7 @@
+interface:
+  display_name: "技術ブログ記事の原稿案作成（英語）"
+  short_description: "日本語の技術記事をもとに英語版の技術記事の原稿案を作成する"
+  default_prompt: "$create-tech-article-english を使って、index.ja.md の日本語記事をもとに技術記事の英語版の原稿案を作成してください。"
+
+policy:
+  allow_implicit_invocation: false
