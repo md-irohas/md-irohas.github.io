@@ -89,6 +89,15 @@ showRelatedContent = false
 <img src="IMG_0496.jpg" alt="IMG_0496.jpg" class="grid-w33" />
 <img src="IMG_0499.jpg" alt="IMG_0499.jpg" class="grid-w33" />
 <img src="IMG_0503.jpg" alt="IMG_0503.jpg" class="grid-w33" />
+
+<img src="DSC06840.jpg" alt="DSC06840.jpg" class="grid-w33" />
+<img src="DSC06847.jpg" alt="DSC06847.jpg" class="grid-w33" />
+<img src="DSC06857.jpg" alt="DSC06857.jpg" class="grid-w33" />
+<img src="DSC06864-Portrait.jpg" alt="DSC06864-Portrait.jpg" class="grid-w33" />
+<img src="DSC06876.jpg" alt="DSC06876.jpg" class="grid-w33" />
+<img src="DSC06885.jpg" alt="DSC06885.jpg" class="grid-w33" />
+<img src="IMG_0555.jpg" alt="IMG_0555.jpg" class="grid-w33" />
+<img src="IMG_0580.jpg" alt="IMG_0580.jpg" class="grid-w33" />
 {{< /gallery >}}
 
 
