@@ -15,9 +15,9 @@ googlePhotoUrl = 'https://photos.app.goo.gl/WXCQYMrF7XLQbuRX9'
 googleDriveUrl = 'https://drive.google.com/drive/folders/1v8LliaE23w4DHUZKXm_ZuK93umjtJ6oH'
 +++
 
-<!--
-{{< medium-link url="https://medium.com/@md.irohas/..." >}}
--->
+
+{{< medium-link url="https://medium.com/@md.irohas/photo-cape-sata-japan-march-2026-5d8c8f4d2d81" >}}
+
 
 {{< blog-disclaimer lang="en" >}}
 
