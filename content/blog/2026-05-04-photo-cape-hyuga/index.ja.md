@@ -5,7 +5,7 @@ categories = ['ブログ（写真）']
 tags = ['旅行', '写真', '宮崎県', '海', '空', '灯台', '岬']
 
 isCJKLanguage = true
-description = '📝 2026年3月に訪れた宮崎県の日向岬で撮影した写真です。'
+description = '🌊 2026年3月に訪れた宮崎県の日向岬で撮影した写真です。'
 summary = '📍 日向岬、馬ヶ背展望所、細島灯台'
 
 draft = false
