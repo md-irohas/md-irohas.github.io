@@ -4,7 +4,6 @@ date = '{{ now.Format "2006-01-02" }}'
 categories = ['ブログ（旅行）']
 tags = ['旅の記録', '<都道府県>']
 
-# externalUrl = 'https://note.com/...'
 isCJKLanguage = true
 description = '🚙 20XX年X月に旅した...県、...、...県の記事です。'
 summary = '📍 <場所1>、<場所2>、...'
@@ -12,11 +11,13 @@ summary = '📍 <場所1>、<場所2>、...'
 draft = false
 
 # Params
-
-[build]
-render = false
-list = 'local'
 +++
+
+<!--
+{{< note-link url="https://note.com/md_irohas/n/..." >}}
+-->
+
+{{< blog-disclaimer lang="ja" >}}
 
 
 ## ストーリー

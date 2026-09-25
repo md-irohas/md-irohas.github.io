@@ -4,7 +4,6 @@ date = '{{ now.Format "2006-01-02" }}'
 categories = ['Blog (Travel)']
 tags = ['Trip Recap', '<Prefecture>']
 
-# externalUrl = 'https://medium.com/...'
 isCJKLanguage = false
 description = '🚙 A blog post about my travel to ... and ... in Month 20XX.'
 summary = '📍 <Place1>, <Place2>, ...'
@@ -12,11 +11,13 @@ summary = '📍 <Place1>, <Place2>, ...'
 draft = false
 
 # Params
-
-[build]
-render = false
-list = 'local'
 +++
+
+<!--
+{{< medium-link url="https://medium.com/@md.irohas/..." >}}
+-->
+
+{{< blog-disclaimer lang="en" >}}
 
 
 ## Story
