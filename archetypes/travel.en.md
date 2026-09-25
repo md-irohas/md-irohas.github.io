@@ -1,8 +1,8 @@
 +++
-title = '🧳 Travel: ... (<Month> 20XX)'
+title = '🧳 Travel Note: ... (<Month> 20XX)'
 date = '{{ now.Format "2006-01-02" }}'
 categories = ['Blog (Travel)']
-tags = ['Trip Recap', '<Prefecture>']
+tags = ['Travel Note', '<Prefecture>']
 
 isCJKLanguage = false
 description = '🚙 A blog post about my travel to ... and ... in Month 20XX.'
