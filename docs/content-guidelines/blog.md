@@ -69,7 +69,7 @@ content/blog/<YYYY-mm-dd>-<kind>-<slug>/
 
 タグ（tags）は以下の通りです。
 
-- `Trip Recap` / `旅の記録`
+- `Travel Log` / `旅の記録`
 - `<Prefecture>` / `<都道府県>`
   - 英語では、Prefectureにような都道府県にあたる単語を使用しません（e.g. `Nagano`）。
   - 日本語では、都道府県の文字を使用します（e.g. `長野県`）。

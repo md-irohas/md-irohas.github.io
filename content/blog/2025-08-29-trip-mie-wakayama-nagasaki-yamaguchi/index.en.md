@@ -1,8 +1,8 @@
 +++
-title = '🧳 Travel: Mie, Wakayama, Nagasaki, and Yamaguchi (March 2025)'
+title = '🧳 Travel Log: Mie, Wakayama, Nagasaki, and Yamaguchi (March 2025)'
 date = '2025-08-29'
 categories = ['Blog (Travel)']
-tags = ['Trip Recap', 'Mie', 'Wakayama', 'Nagasaki', 'Yamaguchi']
+tags = ['Travel Log', 'Mie', 'Wakayama', 'Nagasaki', 'Yamaguchi']
 
 isCJKLanguage = false
 description = '🚙 A blog post about my trip to Mie, Wakayama, Nagasaki, and Yamaguchi in March 2025.'

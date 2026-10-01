@@ -1,8 +1,8 @@
 +++
-title = '🧳 Travel: San-in & Kyushu (March 2024)'
+title = '🧳 Travel Log: San-in & Kyushu (March 2024)'
 date = '2024-04-17'
 categories = ['Blog (Travel)']
-tags = ['Trip Recap', 'Tottori', 'Shimane', 'Kumamoto']
+tags = ['Travel Log', 'Tottori', 'Shimane', 'Kumamoto']
 
 isCJKLanguage = false
 description = '🚙 A blog post about my trip to San-in & Kyushu in March 2024.'
