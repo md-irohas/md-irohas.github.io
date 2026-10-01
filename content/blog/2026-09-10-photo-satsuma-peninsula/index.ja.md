@@ -26,9 +26,8 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1hWMACvfVa3Pr30rX9wVvdz
 
 2026年3月、鹿児島県の薩摩半島を車で巡りました。
 
-朝、鹿児島市のホテルを出発して知覧特攻平和会館を見学した後、
-薩摩半島最南端の長崎鼻を散策、
-たまて箱温泉でのんびりして、鹿児島市へ戻りました。
+朝、都城市のホテルを出発して知覧特攻平和会館を見学した後、
+薩摩半島最南端の長崎鼻を散策、たまて箱温泉でのんびりして、鹿児島市へ戻りました。
 
 
 ### 知覧特攻平和会館
@@ -406,4 +405,5 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1hWMACvfVa3Pr30rX9wVvdz
 
 ## 編集履歴
 
+- 2026/10/01: 出発地の誤りを修正。
 - 2026/09/13: 初稿作成。

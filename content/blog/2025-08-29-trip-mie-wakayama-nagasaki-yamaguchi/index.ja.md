@@ -153,7 +153,7 @@ draft = false
 <br>
 <br>
 
-{{< article link="/ja/blog/2025-03-15-tripphoto-iseshima-skyline/" >}}
+{{< article link="/blog/2025-03-15-tripphoto-iseshima-skyline/" >}}
 
 {{< /timelineItem >}}
 
@@ -309,7 +309,7 @@ draft = false
 <br>
 <br>
 
-{{< article link="/ja/blog/2025-03-19-tripphoto-kumano-nachi-taisha/" >}}
+{{< article link="/blog/2025-03-19-tripphoto-kumano-nachi-taisha/" >}}
 
 {{< /timelineItem >}}
 
@@ -324,7 +324,7 @@ draft = false
 <br>
 <br>
 
-{{< article link="/ja/blog/2025-03-19-tripphoto-shio-no-misaki/" >}}
+{{< article link="/blog/2025-03-19-tripphoto-shio-no-misaki/" >}}
 
 {{< /timelineItem >}}
 
@@ -339,7 +339,7 @@ draft = false
 <br>
 <br>
 
-{{< article link="/ja/blog/2025-07-20-camping-camp-resort-oshima/" >}}
+{{< article link="/blog/2025-07-20-camping-camp-resort-oshima/" >}}
 
 {{< /timelineItem >}}
 
@@ -464,7 +464,7 @@ draft = false
 <br>
 <br>
 
-{{< article link="/ja/blog/2025-07-26-tripphoto-nagasaki-penguin-aquarium/" >}}
+{{< article link="/blog/2025-07-26-tripphoto-nagasaki-penguin-aquarium/" >}}
 
 {{< /timelineItem >}}
 
@@ -479,7 +479,7 @@ draft = false
 <br>
 <br>
 
-{{< article link="/ja/blog/2025-08-22-tripphoto-nagasaki-peninsula/" >}}
+{{< article link="/blog/2025-08-22-tripphoto-nagasaki-peninsula/" >}}
 
 {{< /timelineItem >}}
 
@@ -515,7 +515,7 @@ draft = false
 <br>
 <br>
 
-{{< article link="/ja/blog/2025-08-26-tripphoto-akiyoshido/" >}}
+{{< article link="/blog/2025-08-26-tripphoto-akiyoshido/" >}}
 
 {{< /timelineItem >}}
 
@@ -580,18 +580,19 @@ draft = false
 
 ## 関連記事
 
-{{< article link="/ja/blog/2025-03-15-tripphoto-iseshima-skyline/" >}}
-{{< article link="/ja/blog/2025-03-18-tripphoto-iseshima/" >}}
-{{< article link="/ja/blog/2025-03-19-tripphoto-kumano-nachi-taisha/" >}}
-{{< article link="/ja/blog/2025-03-19-tripphoto-shio-no-misaki/" >}}
-{{< article link="/ja/blog/2025-07-20-camping-camp-resort-oshima/" >}}
-{{< article link="/ja/blog/2025-07-26-tripphoto-nagasaki-penguin-aquarium/" >}}
-{{< article link="/ja/blog/2025-08-22-tripphoto-nagasaki-peninsula/" >}}
-{{< article link="/ja/blog/2025-08-25-tripphoto-kanmon-straits/" >}}
-{{< article link="/ja/blog/2025-08-26-tripphoto-akiyoshido/" >}}
+{{< article link="/blog/2025-03-15-tripphoto-iseshima-skyline/" >}}
+{{< article link="/blog/2025-03-18-tripphoto-iseshima/" >}}
+{{< article link="/blog/2025-03-19-tripphoto-kumano-nachi-taisha/" >}}
+{{< article link="/blog/2025-03-19-tripphoto-shio-no-misaki/" >}}
+{{< article link="/blog/2025-07-20-camping-camp-resort-oshima/" >}}
+{{< article link="/blog/2025-07-26-tripphoto-nagasaki-penguin-aquarium/" >}}
+{{< article link="/blog/2025-08-22-tripphoto-nagasaki-peninsula/" >}}
+{{< article link="/blog/2025-08-25-tripphoto-kanmon-straits/" >}}
+{{< article link="/blog/2025-08-26-tripphoto-akiyoshido/" >}}
 
 
 ## 編集履歴
 
+- 2026/09/25: 関連記事へのリンクの不具合を修正。
 - 2025/09/06: 細かな表現を修正。
 - 2025/09/03: 初稿作成

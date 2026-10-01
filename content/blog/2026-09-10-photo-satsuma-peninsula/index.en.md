@@ -26,7 +26,7 @@ googleDriveUrl = 'https://drive.google.com/drive/folders/1hWMACvfVa3Pr30rX9wVvdz
 
 In March 2026, I spent a day driving around the Satsuma Peninsula in Kagoshima Prefecture.
 
-I left my hotel in Kagoshima City in the morning and visited Chiran Peace Museum.
+I left my hotel in Miyakonojo City in the morning and visited Chiran Peace Museum.
 I then walked around Cape Nagasakibana, the southernmost point of the Satsuma Peninsula, before relaxing at Tamatebako Onsen and returning to Kagoshima City.
 
 
@@ -414,4 +414,5 @@ Do not use images below:
 
 ## Change History
 
+- 2026/10/01: Corrected the departure city.
 - 2026/09/13: First version.

@@ -73,7 +73,7 @@ draft = false
 <br>
 <br>
 
-{{< article link="/ja/blog/2024-04-23-tripphoto-hamanako-sa/" >}}
+{{< article link="/blog/2024-04-23-tripphoto-hamanako-sa/" >}}
 
 <br>
 <br>
@@ -128,7 +128,7 @@ draft = false
 <br>
 <br>
 
-{{< article link="/ja/blog/2024-04-18-tripphoto-tottori-sand-dunes/" >}}
+{{< article link="/blog/2024-04-18-tripphoto-tottori-sand-dunes/" >}}
 
 <br>
 
@@ -216,7 +216,7 @@ draft = false
 <br>
 <br>
 
-{{< article link="/ja/blog/2024-04-25-tripphoto-mizuki-shigeru-road/" >}}
+{{< article link="/blog/2024-04-25-tripphoto-mizuki-shigeru-road/" >}}
 
 <br>
 
@@ -339,7 +339,7 @@ draft = false
 <br>
 <br>
 
-{{< article link="/ja/blog/2024-04-27-tripphoto-hinomisaki-lighthouse/" >}}
+{{< article link="/blog/2024-04-27-tripphoto-hinomisaki-lighthouse/" >}}
 
 <br>
 
@@ -414,7 +414,7 @@ draft = false
 <br>
 <br>
 
-{{< article link="/ja/blog/2024-05-04-tripphoto-asosan/" >}}
+{{< article link="/blog/2024-05-04-tripphoto-asosan/" >}}
 
 <br>
 
@@ -476,17 +476,17 @@ draft = false
 {{< /text-right >}}
 
 
-## 関連記事
-
-{{< article link="/ja/blog/2024-04-18-tripphoto-tottori-sand-dunes/" >}}
-{{< article link="/ja/blog/2024-04-23-tripphoto-hamanako-sa/" >}}
-{{< article link="/ja/blog/2024-04-25-tripphoto-mizuki-shigeru-road/" >}}
-{{< article link="/ja/blog/2024-04-27-tripphoto-hinomisaki-lighthouse/" >}}
-{{< article link="/ja/blog/2024-05-04-tripphoto-asosan/" >}}
+## 関連
+{{< article link="/blog/2024-04-18-tripphoto-tottori-sand-dunes/" >}}
+{{< article link="/blog/2024-04-23-tripphoto-hamanako-sa/" >}}
+{{< article link="/blog/2024-04-25-tripphoto-mizuki-shigeru-road/" >}}
+{{< article link="/blog/2024-04-27-tripphoto-hinomisaki-lighthouse/" >}}
+{{< article link="/blog/2024-05-04-tripphoto-asosan/" >}}
 
 
 ## 編集履歴
 
+- 2026/09/25: 関連記事へのリンクの不具合を修正。
 - 2025/09/14: 文章構成、細かな表現を修正。写真を追加。
 - 2025/06/03: 文面を修正。
 - 2025/05/30: 初稿作成。
