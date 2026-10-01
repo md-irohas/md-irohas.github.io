@@ -37,7 +37,7 @@ all:
 .PHONY: article
 article:
 	@case "$(KIND)" in \
-		travel|photo|camping|trip|tripphoto) ;; \
+		travel|photo|camping) ;; \
 		*) echo "invalid kind: $(KIND)"; exit 1;; \
 	esac
 	@if [ -z "$(SLUG)" ]; then \
