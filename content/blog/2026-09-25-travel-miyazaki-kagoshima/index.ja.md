@@ -13,9 +13,9 @@ draft = false
 # Params
 +++
 
-<!--
-{{< note-link url="https://note.com/md_irohas/n/..." >}}
--->
+
+{{< note-link url="https://note.com/md_irohas/n/nab79eb72a40d" >}}
+
 
 {{< blog-disclaimer lang="ja" >}}
 

@@ -13,9 +13,9 @@ draft = false
 # Params
 +++
 
-<!--
-{{< medium-link url="https://medium.com/@md.irohas/..." >}}
--->
+
+{{< medium-link url="https://medium.com/@md.irohas/travel-log-miyazaki-and-kagoshima-japan-from-tokyo-to-nagasaki-march-2026-e34126ff2c7b?sharedUserId=md.irohas" >}}
+
 
 {{< blog-disclaimer lang="en" >}}
 
