@@ -1,7 +1,7 @@
 +++
 title = '🧳 旅の記録: 宮崎・鹿児島 〜東京から長崎へ〜 （2026年3月）'
 date = '2026-09-25'
-categories = ['ブログ（旅の記録）']
+categories = ['ブログ（旅行）']
 tags = ['旅の記録', '宮崎県', '鹿児島県']
 
 isCJKLanguage = true
