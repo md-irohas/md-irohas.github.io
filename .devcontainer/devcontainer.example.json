@@ -1,55 +1,46 @@
+// Format details: https://aka.ms/devcontainer.json
 {
     "name": "md-irohas.github.io (hugo)",
-
-    // Container image.
     "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04",
 
-    // Features to install.
+    // Features: https://containers.dev/features
     "features": {
         "ghcr.io/devcontainers/features/hugo:1": {
             "version": "latest"
         }
-		// "ghcr.io/devcontainers/features/github-cli:1": {},
-		// required by claude-code
-		// "ghcr.io/devcontainers/features/node:2": {
-		// 	"version": "lts",
-		// 	"nodeGypDependencies": false
-		// },
-		// "ghcr.io/anthropics/devcontainer-features/claude-code:1": {}
-		// Codex is installed as extensions in VSCode.
     },
 
-    // Workspace folder inside container.
     "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
 
-    // Environment variables.
     "containerEnv": {
        "LANG": "C.UTF-8",
        "LC_ALL": "C.UTF-8"
     },
     // "remoteEnv": {},
 
-    // Use 'forwardPorts' to make a list of ports inside the container available locally.
-    "forwardPorts": [
-        1313    // Hugo default server port
-    ],
-
-    // Mounts local files into the container.
     // "mounts": [
     // ],
 
-    // Commands to run on container creation and start.
-    // "onCreateCommand": "",
-    // "postCreateCommand": "",
-    // "postStartCommand": "",
+    "forwardPorts": [
+        1313    // Hugo default server port
+    ]
+
+    // Commands to run when the container is created
+    // - onCreateCommand => environment setup that does not depend on the repository contents
+    // - updateContentCommand => setup that runs after onCreateCommand, and again when the source is updated
+    // - postCreateCommand => setup that depends on the repository contents or is user/project-specific
+    // "onCreateCommand": {},
+    // "updateContentCommand": {},
+    // "postCreateCommand": {},
+
+    // Commands to run after the container is started
+    // "postStartCommand": {}
 
     // VS Code extensions to install.
-    "customizations": {
-        "vscode": {
-            "extensions": [
-				// LLM agents (Claude Code is installed via 'features')
-				// "openai.chatgpt"
-            ]
-        }
-    }
+    // "customizations": {
+    //     "vscode": {
+    //         "extensions": [
+    //         ]
+    //     }
+    // }
 }
