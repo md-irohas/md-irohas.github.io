@@ -13,7 +13,7 @@ draft = true
 +++
 
 <!-- 
-{{< zenn-link url='' >}}
+{{< zenn-link url="" >}}
 
 ---
 -->

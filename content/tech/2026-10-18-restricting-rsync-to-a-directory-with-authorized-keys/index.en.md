@@ -12,11 +12,10 @@ showReadingTime = false
 draft = false
 +++
 
-<!--
-{{< devto-link url='' >}}
+
+{{< devto-link url="https://dev.to/mkt/restricting-rsync-to-a-specific-directory-with-authorizedkeys-5fom" >}}
 
 ---
--->
 
 
 ## Introduction

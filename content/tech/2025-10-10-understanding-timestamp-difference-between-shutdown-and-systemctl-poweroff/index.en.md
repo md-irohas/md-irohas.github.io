@@ -12,7 +12,7 @@ showReadingTime = false
 draft = false
 +++
 
-{{< devto-link url='https://dev.to/mkt/understanding-timestamp-difference-between-shutdown-and-systemctl-poweroff-4a5l' >}}
+{{< devto-link url="https://dev.to/mkt/understanding-timestamp-difference-between-shutdown-and-systemctl-poweroff-4a5l" >}}
 
 ---
 

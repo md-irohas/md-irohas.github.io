@@ -16,7 +16,7 @@ draft = false
 
 {{< katex >}}
 
-{{< devto-link url='https://dev.to/mkt/visualizing-yearmonthday-progress-in-grafana-1mf4' >}}
+{{< devto-link url="https://dev.to/mkt/visualizing-yearmonthday-progress-in-grafana-1mf4" >}}
 
 ---
 

@@ -13,7 +13,7 @@ draft = true
 +++
 
 <!-- 
-{{< devto-link url='' >}}
+{{< devto-link url="" >}}
 
 ---
 -->

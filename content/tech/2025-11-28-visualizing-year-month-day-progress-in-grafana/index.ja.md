@@ -16,7 +16,7 @@ draft = false
 
 {{< katex >}}
 
-{{< zenn-link url='https://zenn.dev/md_irohas/articles/19592a143ccbc2' >}}
+{{< zenn-link url="https://zenn.dev/md_irohas/articles/19592a143ccbc2" >}}
 
 ---
 

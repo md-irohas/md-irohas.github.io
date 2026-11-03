@@ -13,7 +13,7 @@ draft = false
 +++
 
 
-{{< zenn-link url='https://zenn.dev/md_irohas/articles/4991118bc5a619' >}}
+{{< zenn-link url="https://zenn.dev/md_irohas/articles/4991118bc5a619" >}}
 
 ---
 
